@@ -1027,3 +1027,128 @@
 [2025-12-17 10:35:23] 💾 Data Lake Updated! Total Data: 6030 baris.
 [2025-12-17 10:35:23] 💤 Service tidur selama 60 detik...
 [2025-12-17 10:35:26] 🛑 Service dihentikan manual.
+[2025-12-17 13:16:46] 🤖 UB-LinkOps Scraper Service STARTED (JobStreet Full Page Mode).
+[2025-12-17 13:16:46] ⏱️  Interval set to: 60 seconds.
+[2025-12-17 13:16:46] ------------------------------------------------
+[2025-12-17 13:16:46] 🚀 Service Bangun. Target Keyword: 'Akuntansi' di JobStreet Indo...
+[2025-12-17 13:16:57] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:17:00] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Akuntansi'.
+[2025-12-17 13:17:02] 💾 Data Lake Updated! Total Data: 6060 baris.
+[2025-12-17 13:17:02] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:18:02] 🚀 Service Bangun. Target Keyword: 'K3' di JobStreet Indo...
+[2025-12-17 13:18:10] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:18:13] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'K3'.
+[2025-12-17 13:18:15] 💾 Data Lake Updated! Total Data: 6090 baris.
+[2025-12-17 13:18:15] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:19:16] 🚀 Service Bangun. Target Keyword: 'Software Engineer' di JobStreet Indo...
+[2025-12-17 13:19:25] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:19:28] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Software Engineer'.
+[2025-12-17 13:19:31] 💾 Data Lake Updated! Total Data: 6120 baris.
+[2025-12-17 13:19:31] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:20:31] 🚀 Service Bangun. Target Keyword: 'Teller' di JobStreet Indo...
+[2025-12-17 13:20:38] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:20:41] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Teller'.
+[2025-12-17 13:20:43] 💾 Data Lake Updated! Total Data: 6150 baris.
+[2025-12-17 13:20:43] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:21:43] 🚀 Service Bangun. Target Keyword: 'Farm Manager' di JobStreet Indo...
+[2025-12-17 13:21:51] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:21:54] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Farm Manager'.
+[2025-12-17 13:21:56] 💾 Data Lake Updated! Total Data: 6180 baris.
+[2025-12-17 13:21:56] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:22:56] 🚀 Service Bangun. Target Keyword: 'HSE Officer' di JobStreet Indo...
+[2025-12-17 13:23:03] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:23:06] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'HSE Officer'.
+[2025-12-17 13:23:08] 💾 Data Lake Updated! Total Data: 6210 baris.
+[2025-12-17 13:23:08] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:24:08] 🚀 Service Bangun. Target Keyword: 'Translator' di JobStreet Indo...
+[2025-12-17 13:24:16] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:24:18] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Translator'.
+[2025-12-17 13:24:21] 💾 Data Lake Updated! Total Data: 6240 baris.
+[2025-12-17 13:24:21] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:25:21] 🚀 Service Bangun. Target Keyword: 'Tax Staff' di JobStreet Indo...
+[2025-12-17 13:25:28] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:25:30] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Tax Staff'.
+[2025-12-17 13:25:32] 💾 Data Lake Updated! Total Data: 6270 baris.
+[2025-12-17 13:25:32] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:26:32] 🚀 Service Bangun. Target Keyword: 'Human Resources' di JobStreet Indo...
+[2025-12-17 13:26:40] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:26:43] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Human Resources'.
+[2025-12-17 13:26:45] 💾 Data Lake Updated! Total Data: 6300 baris.
+[2025-12-17 13:26:45] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:27:45] 🚀 Service Bangun. Target Keyword: 'Staff Lapangan' di JobStreet Indo...
+[2025-12-17 13:27:59] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:28:02] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Staff Lapangan'.
+[2025-12-17 13:28:05] 💾 Data Lake Updated! Total Data: 6330 baris.
+[2025-12-17 13:28:05] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:29:05] 🚀 Service Bangun. Target Keyword: 'Teknik Industri' di JobStreet Indo...
+[2025-12-17 13:29:11] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:29:14] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Teknik Industri'.
+[2025-12-17 13:29:16] 💾 Data Lake Updated! Total Data: 6360 baris.
+[2025-12-17 13:29:16] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:30:16] 🚀 Service Bangun. Target Keyword: 'Trainer' di JobStreet Indo...
+[2025-12-17 13:30:19] ⚠️ ERROR SCRAPING: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=143.0.7499.42); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff77a358895
+	0x7ff77a3588f0
+	0x7ff77a13165d
+	0x7ff77a11e847
+	0x7ff77a11e5bd
+	0x7ff77a11c20a
+	0x7ff77a11cbcf
+	0x7ff77a12bb8a
+	0x7ff77a14223f
+	0x7ff77a14940a
+	0x7ff77a11d375
+	0x7ff77a1418e4
+	0x7ff77a1db080
+	0x7ff77a17ac29
+	0x7ff77a17ba93
+	0x7ff77a6705f0
+	0x7ff77a66af30
+	0x7ff77a689696
+	0x7ff77a375d94
+	0x7ff77a37ed3c
+	0x7ff77a361fb4
+	0x7ff77a362165
+	0x7ff77a347e92
+	0x7ffc9596259d
+	0x7ffc9688af78
+
+[2025-12-17 13:30:19] ⚠️ Switch ke Fallback Data (Generate 30 data dummy).
+[2025-12-17 13:30:19] ✅ Data Fallback ditambahkan (30 rows).
+[2025-12-17 13:37:34] 💾 Data Lake Updated! Total Data: 6390 baris.
+[2025-12-17 13:37:34] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:38:34] 🚀 Service Bangun. Target Keyword: 'Management Trainee' di JobStreet Indo...
+[2025-12-17 13:38:43] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:38:46] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Management Trainee'.
+[2025-12-17 13:38:48] 💾 Data Lake Updated! Total Data: 6420 baris.
+[2025-12-17 13:38:48] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:39:48] 🚀 Service Bangun. Target Keyword: 'Business Development' di JobStreet Indo...
+[2025-12-17 13:39:56] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:39:59] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Business Development'.
+[2025-12-17 13:40:02] 💾 Data Lake Updated! Total Data: 6450 baris.
+[2025-12-17 13:40:02] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:41:02] 🚀 Service Bangun. Target Keyword: 'DevOps Engineer' di JobStreet Indo...
+[2025-12-17 13:41:09] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:41:12] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'DevOps Engineer'.
+[2025-12-17 13:41:14] 💾 Data Lake Updated! Total Data: 6480 baris.
+[2025-12-17 13:41:14] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:42:14] 🚀 Service Bangun. Target Keyword: 'Farm Manager' di JobStreet Indo...
+[2025-12-17 13:42:37] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:42:40] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Farm Manager'.
+[2025-12-17 13:42:42] 💾 Data Lake Updated! Total Data: 6510 baris.
+[2025-12-17 13:42:42] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:43:42] 🚀 Service Bangun. Target Keyword: 'Agronomist' di JobStreet Indo...
+[2025-12-17 13:43:50] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:43:52] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Agronomist'.
+[2025-12-17 13:43:55] 💾 Data Lake Updated! Total Data: 6540 baris.
+[2025-12-17 13:43:55] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:44:55] 🚀 Service Bangun. Target Keyword: 'Admin' di JobStreet Indo...
+[2025-12-17 13:45:02] 🔎 Website JobStreet Terbuka. Ditemukan 32 lowongan.
+[2025-12-17 13:45:05] ✅ SUKSES! Berhasil menarik 30 data REAL untuk 'Admin'.
+[2025-12-17 13:45:07] 💾 Data Lake Updated! Total Data: 6570 baris.
+[2025-12-17 13:45:07] 💤 Service tidur selama 60 detik...
+[2025-12-17 13:46:04] 🛑 Service dihentikan manual.

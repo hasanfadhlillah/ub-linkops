@@ -1,0 +1,54 @@
+version: "3.8"
+
+services:
+  # --- SERVICE 1: DATA INGESTION (Scraper) ---
+  scraper-service:
+    build: .
+    container_name: ub-linkops-scraper
+    volumes:
+      # Mapping folder data container ke laptop (biar CSV muncul di laptop)
+      - ./data:/app/data
+      - ./src:/app/src
+    environment:
+      - PYTHONUNBUFFERED=1
+    # Perintah: Jalankan Scraper
+    command: python src/scraper_job.py
+    networks:
+      - ublinkops-network
+
+  # --- SERVICE 2: DATA STORAGE (PostgreSQL) ---
+  # Bukti siap implementasi Database Enterprise
+  postgres-db:
+    image: postgres:15
+    container_name: ub-linkops-db
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: ublinkops_db
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - ublinkops-network
+
+  # --- SERVICE 3: DATA SCIENCE LAB (Jupyter) ---
+  # Bukti fase eksperimen MLOps
+  jupyter-lab:
+    image: jupyter/base-notebook:latest
+    container_name: ub-linkops-lab
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+      - ./data:/home/jovyan/data
+    networks:
+      - ublinkops-network
+
+# Definisi Network & Volume
+networks:
+  ublinkops-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
