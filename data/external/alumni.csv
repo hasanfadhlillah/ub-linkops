@@ -1,101 +1,2001 @@
 alumni_id,name,major,company,position,graduation_year
-UB001,Dimas Kusuma,Sistem Informasi,Pertamina,Lead Product Manager,2016
-UB002,Kartika Permata,Teknik Informatika,BliBli,Lead DevOps,2017
-UB003,Eko Pratama,Teknik Sipil,Pertamina,Supervisor Sales,2022
-UB004,Gita Santoso,Sistem Informasi,Ruangguru,Junior DevOps,2017
-UB005,Gita Anggara,Akuntansi,Shopee,Manager Finance,2019
-UB006,Andi Nugroho,Arsitektur,Bibit.id,Officer Operations,2022
-UB007,Dimas Kurnia,Teknologi Hasil Pertanian,Tiket.com,Consultant Sales,2019
-UB008,Rizky Wijaya,Psikologi,Danone,Engineer Marketing,2017
-UB009,Joko Kurnia,Ekonomi Islam,Shopee,Officer Sales,2023
-UB010,Andi Wijaya,Teknik Informatika,Bank Mandiri,Lead Software Engineer,2022
-UB011,Rizky Aminah,Arsitektur,BliBli,Engineer Sales,2018
-UB012,Putri Utami,Manajemen,Traveloka,Head of Department Marketing,2020
-UB013,Fajar Saputra,Ilmu Ekonomi,Bank Jago,Senior Staff Finance,2019
-UB014,Bayu Anggara,Teknik Elektro,Bank Mandiri,Senior Staff HR,2020
-UB015,Rina Kurnia,Agribisnis,Sampoerna,Supervisor Operations,2017
-UB016,Gita Lestari,Administrasi Publik,Gudang Garam,Officer Operations,2023
-UB017,Gita Saputra,Agribisnis,Unilever,Engineer Operations,2021
-UB018,Putri Permata,Pendidikan TI,Traveloka,Supervisor Finance,2021
-UB019,Agus Permata,Hubungan Internasional,Tokopedia,Engineer Sales,2021
-UB020,Rizky Utami,Teknologi Hasil Pertanian,Tokopedia,Junior Staff Finance,2016
-UB021,Rizky Santoso,Keuangan Perbankan,Traveloka,Engineer Operations,2020
-UB022,Rina Aminah,Akuntansi,Unilever,Specialist Marketing,2018
-UB023,Andi Kusuma,Teknik Mesin,Astra International,Head of Department Sales,2022
-UB024,Rina Lestari,Keuangan Perbankan,Bank BCA,Consultant HR,2016
-UB025,Putri Wulandari,Teknik Mesin,Traveloka,Consultant Sales,2019
-UB026,Dewi Praseyto,Administrasi Publik,Pertamina,Specialist HR,2023
-UB027,Citra Wijaya,Psikologi,Bibit.id,Junior Staff Marketing,2023
-UB028,Rina Setiawan,Manajemen,Sampoerna,Engineer HR,2019
-UB029,Hadi Hidayat,Manajemen,PLN,Analyst Finance,2015
-UB030,Indah Hidayat,Ilmu Ekonomi,Pertamina,Junior Staff Sales,2017
-UB031,Siti Wulandari,Teknik Informatika,Tiket.com,Junior Software Engineer,2018
-UB032,Nina Santoso,Pendidikan TI,Shopee,Senior Staff Finance,2015
-UB033,Kartika Saputra,Ilmu Komunikasi,Tokopedia,Analyst Operations,2021
-UB034,Citra Kurnia,Ekonomi Islam,Bank Mandiri,Junior Staff Sales,2021
-UB035,Citra Susanto,Ilmu Ekonomi,Tokopedia,Head of Department Sales,2022
-UB036,Gita Wulandari,Teknik Informatika,Danone,Junior Data Scientist,2016
-UB037,Kartika Wulandari,Teknik Sipil,PLN,Head of Department Marketing,2019
-UB038,Putri Hidayat,Pendidikan TI,Astra International,Manager Operations,2023
-UB039,Andi Kusuma,Manajemen,Shopee,Senior Staff Finance,2018
-UB040,Andi Permata,Hubungan Internasional,Gudang Garam,Supervisor HR,2021
-UB041,Eko Wulandari,Teknik Elektro,Danone,Junior Staff Sales,2016
-UB042,Rizky Aminah,Teknologi Informasi,Telkom Indonesia,Junior IT Support,2020
-UB043,Nina Pratama,Psikologi,Tiket.com,Engineer Sales,2017
-UB044,Lestari Utami,Ilmu Ekonomi,Shopee,Manager HR,2023
-UB045,Gita Pratama,Teknik Komputer,Sampoerna,Junior Software Engineer,2015
-UB046,Nina Praseyto,Teknologi Informasi,Bank Mandiri,Junior Product Manager,2022
-UB047,Lestari Pratama,Psikologi,Traveloka,Manager Sales,2021
-UB048,Indah Nugroho,Pendidikan TI,Gojek,Engineer Sales,2015
-UB049,Joko Hidayat,Akuntansi,Sampoerna,Analyst Operations,2016
-UB050,Eko Praseyto,Teknik Elektro,Bank Mandiri,Analyst Operations,2023
-UB051,Andi Susanto,Hubungan Internasional,Bank Mandiri,Senior Staff Sales,2023
-UB052,Rina Utami,Agroekoteknologi,Ruangguru,Supervisor Marketing,2018
-UB053,Lestari Permata,Keuangan Perbankan,PLN,Specialist Sales,2021
-UB054,Joko Aminah,Agribisnis,Gojek,Junior Staff HR,2015
-UB055,Kartika Lestari,Teknik Informatika,Traveloka,Junior Data Scientist,2016
-UB056,Citra Wulandari,Sistem Informasi,PLN,Lead DevOps,2021
-UB057,Siti Setiawan,Teknik Lingkungan,Telkom Indonesia,Manager Finance,2018
-UB058,Rizky Saputra,Teknik Elektro,BliBli,Analyst Operations,2021
-UB059,Lestari Lestari,Teknologi Informasi,Tiket.com,Senior IT Support,2023
-UB060,Andi Lestari,Teknologi Hasil Pertanian,Ruangguru,Junior Staff Marketing,2018
-UB061,Indah Setiawan,Teknik Informatika,Bank BCA,Junior Data Scientist,2015
-UB062,Nina Utami,Agribisnis,Gojek,Supervisor Finance,2018
-UB063,Nina Anggara,Agroekoteknologi,Sampoerna,Specialist Finance,2023
-UB064,Kartika Praseyto,Teknik Mesin,Telkom Indonesia,Supervisor HR,2021
-UB065,Eko Lestari,Teknik Elektro,Bank BCA,Manager Operations,2016
-UB066,Eko Kusuma,Arsitektur,Traveloka,Senior Staff Marketing,2020
-UB067,Siti Saputra,Ekonomi Islam,Astra International,Officer Finance,2022
-UB068,Siti Hidayat,Manajemen,BliBli,Officer Finance,2016
-UB069,Eko Lestari,Agribisnis,Tiket.com,Analyst Operations,2018
-UB070,Lestari Anggara,Ilmu Hukum,Astra International,Consultant Finance,2017
-UB071,Rizky Kurnia,Ekonomi Islam,Bibit.id,Officer Finance,2020
-UB072,Siti Kurnia,Administrasi Publik,Gudang Garam,Officer Sales,2016
-UB073,Kartika Pratama,Psikologi,Gojek,Analyst HR,2022
-UB074,Rizky Kurnia,Teknik Komputer,Bank BCA,Senior DevOps,2015
-UB075,Fajar Lestari,Teknologi Informasi,Shopee,Junior Software Engineer,2023
-UB076,Dimas Saputra,Agroekoteknologi,Tiket.com,Manager Finance,2023
-UB077,Rizky Nugroho,Teknik Sipil,Bank Jago,Head of Department Operations,2021
-UB078,Rizky Santoso,Keuangan Perbankan,PLN,Head of Department Sales,2022
-UB079,Kartika Aminah,Teknik Sipil,Unilever,Head of Department Sales,2023
-UB080,Eko Kurnia,Ilmu Ekonomi,BliBli,Specialist Finance,2018
-UB081,Fajar Setiawan,Agroekoteknologi,Traveloka,Analyst Finance,2022
-UB082,Citra Susanto,Manajemen,Astra International,Manager Operations,2019
-UB083,Budi Utami,Sistem Informasi,Telkom Indonesia,Lead Product Manager,2023
-UB084,Rizky Saputra,Teknik Industri,Bank BCA,Engineer Finance,2015
-UB085,Rina Utami,Arsitektur,Ruangguru,Consultant Finance,2016
-UB086,Budi Nugroho,Teknologi Informasi,Pertamina,Senior IT Support,2020
-UB087,Dewi Utami,Psikologi,Astra International,Specialist Finance,2015
-UB088,Dimas Aminah,Keuangan Perbankan,Traveloka,Engineer Finance,2015
-UB089,Lestari Setiawan,Teknologi Informasi,Tokopedia,Lead Data Scientist,2015
-UB090,Indah Permata,Agroekoteknologi,Tiket.com,Supervisor Sales,2020
-UB091,Eko Hidayat,Ilmu Hukum,Gojek,Analyst Marketing,2021
-UB092,Eko Anggara,Agribisnis,Unilever,Supervisor HR,2016
-UB093,Indah Pratama,Ilmu Hukum,Bank Jago,Manager Sales,2017
-UB094,Citra Wijaya,Ekonomi Islam,Bank Jago,Senior Staff HR,2019
-UB095,Fajar Permata,Hubungan Internasional,Pertamina,Supervisor Sales,2022
-UB096,Eko Santoso,Ilmu Komunikasi,Gudang Garam,Junior Staff Finance,2019
-UB097,Dewi Kurnia,Teknik Sipil,Tiket.com,Analyst Marketing,2016
-UB098,Citra Pratama,Teknik Elektro,Astra International,Senior Staff Operations,2016
-UB099,Bayu Susanto,Teknologi Informasi,Bank Mandiri,Lead Product Manager,2020
-UB100,Eko Hidayat,Teknologi Informasi,Astra International,Lead IT Support,2022
+UB0001,Hadi Utami,Teknik Mesin,PT Sejahtera Abadi,Supervisor Admin,2016
+UB0002,Bagas Irawan,Agroekoteknologi,PT Bank KEB Hana Indonesia,Supervisor Finance,2018
+UB0003,Utomo Budiman,Teknik Informatika,PHINTRACO GROUP,Lead Software Engineer,2021
+UB0004,Hadi Irawan,Teknologi Hasil Pertanian,Xiaomi Technology,Analyst Finance,2022
+UB0005,Radit Santoso,Ekonomi Islam,PT Mencari Cinta Sejati,Head of Department Admin,2021
+UB0006,Lestari Budiman,Ilmu Komunikasi,"PT Bank Danamon Indonesia, Tbk",Junior Staff Sales,2017
+UB0007,Agus Wibowo,Teknologi Informasi,PT Penerbit Erlangga,Junior IT Support,2019
+UB0008,Bagas Irawan,Ilmu Komunikasi,PT Indocyber Global Teknologi,Junior Staff Operations,2020
+UB0009,Qori Zulkarnain,Akuntansi,PT MAS ARYA INDONESIA,Head of Department Marketing,2019
+UB0010,Citra Soekarno,Keuangan Perbankan,PT MAS ARYA INDONESIA,Supervisor Marketing,2020
+UB0011,Rizky Nugroho,Teknologi Informasi,PT Solusi Transportasi Indonesia,Junior DevOps,2016
+UB0012,Putri Kusuma,Teknik Lingkungan,PT Indocyber Global Teknologi,Management Trainee Admin,2017
+UB0013,Andi Prasetyo,Ekonomi Islam,PT. Bank KEB Hana Indonesia,Manager Admin,2017
+UB0014,Xena Aditama,Ekonomi Islam,PT Penerbit Erlangga,Specialist Finance,2019
+UB0015,Nina Prasetyo,Teknik Mesin,Bank Mandiri,Management Trainee Marketing,2020
+UB0016,Xena Wibowo,Agribisnis,"PT Bank Danamon Indonesia, Tbk",Junior Staff HR,2022
+UB0017,Dinda Gunawan,Teknologi Informasi,Gojek,Junior Software Engineer,2016
+UB0018,Julia Efendi,Psikologi,PT Tsubaki Indonesia Manufacturing,Management Trainee Admin,2023
+UB0019,Lestari Qodir,Teknologi Hasil Pertanian,Telkom Indonesia,Engineer Admin,2018
+UB0020,Bella Hidayat,Sistem Informasi,PT MAS ARYA INDONESIA,Junior Software Engineer,2018
+UB0021,Chandra Hartono,Ilmu Ekonomi,PT MAS ARYA INDONESIA,Head of Department Sales,2018
+UB0022,Nadia Hartono,Teknologi Informasi,PT. Bank KEB Hana Indonesia,Senior Software Engineer,2015
+UB0023,Utomo Widodo,Pendidikan TI,Xiaomi Technology,Management Trainee HR,2016
+UB0024,Arif Budiman,Teknologi Informasi,PT Mencari Cinta Sejati,Lead Data Scientist,2020
+UB0025,Nadia Aminah,Agribisnis,"PT Japfa Comfeed Indonesia, Tbk",Engineer Finance,2019
+UB0026,Desi Wibowo,Agroekoteknologi,PHINTRACO GROUP,Senior Staff Sales,2019
+UB0027,Utomo Suharto,Agroekoteknologi,PT Sumber Rejeki,Management Trainee Finance,2020
+UB0028,Utomo Nasution,Teknologi Informasi,"PT DCI Indonesia, Tbk",Senior Data Scientist,2020
+UB0029,Kartika Kusumo,Agroekoteknologi,PT CFU Technology Indonesia,Junior Staff Admin,2023
+UB0030,Pandu Wijaya,Akuntansi,Bank Mandiri,Consultant Sales,2019
+UB0031,Pandu Budiman,Teknik Informatika,PT Mencari Cinta Sejati,Lead Data Scientist,2021
+UB0032,Joko Nugroho,Teknik Mesin,PT Penerbit Erlangga,Analyst Operations,2018
+UB0033,Mahendra Pratama,Ilmu Hukum,StartUp Gagal Bangkit,Head of Department HR,2017
+UB0034,Bella Wijaya,Pendidikan TI,PT Tsubaki Indonesia Manufacturing,Head of Department HR,2021
+UB0035,Qori Aminah,Ilmu Ekonomi,PT MAS ARYA INDONESIA,Officer Admin,2015
+UB0036,Utomo Firmansyah,Teknik Informatika,Bank BCA,Lead Product Manager,2021
+UB0037,Rizky Wijaya,Teknik Elektro,Bank BCA,Supervisor Finance,2016
+UB0038,Mahendra Yudhoyono,Arsitektur,StartUp Gagal Bangkit,Officer HR,2021
+UB0039,Kartika Yudhoyono,Administrasi Publik,PT Penerbit Erlangga,Head of Department Finance,2015
+UB0040,Putri Darmawan,Teknik Lingkungan,PT Bank KEB Hana Indonesia,Consultant Finance,2023
+UB0041,Putri Nugroho,Administrasi Publik,Shopee,Engineer Admin,2020
+UB0042,Bagas Widodo,Teknik Lingkungan,Telkom Indonesia,Junior Staff HR,2020
+UB0043,Hana Kusumo,Keuangan Perbankan,"PT DCI Indonesia, Tbk",Head of Department Marketing,2022
+UB0044,Dimas Efendi,Teknologi Hasil Pertanian,Tokopedia,Engineer Admin,2020
+UB0045,Vina Suharto,Hubungan Internasional,PT Kapal Api Global,Supervisor Finance,2015
+UB0046,Dimas Santoso,Keuangan Perbankan,PT Sumber Rejeki,Consultant Finance,2020
+UB0047,Budi Yudhoyono,Teknik Industri,PT Handal Guna Sarana,Officer HR,2022
+UB0048,Eko Kusumo,Manajemen,PT Mencari Cinta Sejati,Specialist HR,2023
+UB0049,Gita Jaya,Teknik Informatika,PT Indocyber Global Teknologi,Senior IT Support,2020
+UB0050,Sarah Vebrianto,Pendidikan TI,PT Penerbit Erlangga,Manager HR,2016
+UB0051,Putri Yulianto,Ilmu Ekonomi,"PT Japfa Comfeed Indonesia, Tbk",Specialist Finance,2017
+UB0052,Eko Suharto,Hubungan Internasional,"PT DCI Indonesia, Tbk",Manager HR,2015
+UB0053,Wahyu Baswedan,Arsitektur,PT Solusi Transportasi Indonesia,Manager Admin,2017
+UB0054,Joko Baswedan,Teknik Lingkungan,"PT Bank Danamon Indonesia, Tbk",Officer Marketing,2022
+UB0055,Wahyu Aditama,Psikologi,PT Indocyber Global Teknologi,Officer Admin,2020
+UB0056,Farhan Permata,Ilmu Hukum,PT CFU Technology Indonesia,Analyst Sales,2021
+UB0057,Wahyu Pangestu,Pendidikan TI,Telkom Indonesia,Analyst HR,2018
+UB0058,Dinda Saputra,Keuangan Perbankan,Xiaomi Technology,Head of Department Admin,2020
+UB0059,Citra Pratama,Akuntansi,PT CFU Technology Indonesia,Consultant Marketing,2020
+UB0060,Nina Oktaviani,Keuangan Perbankan,Tokopedia,Officer HR,2021
+UB0061,Irfan Santoso,Ilmu Komunikasi,Bank BCA,Senior Staff Admin,2018
+UB0062,Citra Prasetyo,Teknik Informatika,PT Tsubaki Indonesia Manufacturing,Senior Product Manager,2021
+UB0063,Radit Budiman,Manajemen,Telkom Indonesia,Junior Staff Finance,2023
+UB0064,Budi Wulandari,Teknik Sipil,PT Handal Guna Sarana,Manager Sales,2021
+UB0065,Laras Setiawan,Teknik Mesin,"PT Bank Danamon Indonesia, Tbk",Analyst Marketing,2019
+UB0066,Vina Setiawan,Administrasi Publik,PT CFU Technology Indonesia,Officer Admin,2016
+UB0067,Hadi Yudhoyono,Ilmu Komunikasi,Gojek,Analyst Sales,2015
+UB0068,Yoga Wulandari,Hubungan Internasional,PT Sejahtera Abadi,Junior Staff Admin,2023
+UB0069,Rizky Darmawan,Ilmu Ekonomi,CV Maju Mundur,Supervisor Marketing,2021
+UB0070,Dewi Siregar,Sistem Informasi,PT CFU Technology Indonesia,Lead Software Engineer,2021
+UB0071,Putri Kusuma,Teknik Informatika,CV Maju Mundur,Senior Software Engineer,2023
+UB0072,Radit Santoso,Akuntansi,PT. Bank KEB Hana Indonesia,Specialist Operations,2019
+UB0073,Eko Kurnia,Akuntansi,PT MAS ARYA INDONESIA,Analyst Admin,2019
+UB0074,Lestari Darmawan,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Engineer Marketing,2021
+UB0075,Aditya Kurnia,Manajemen,PT Kapal Api Global,Specialist Sales,2023
+UB0076,Radit Setiawan,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Senior Data Scientist,2022
+UB0077,Gilang Aditama,Ilmu Ekonomi,PT Sejahtera Abadi,Engineer Marketing,2020
+UB0078,Yoga Setiawan,Teknik Lingkungan,"PT Japfa Comfeed Indonesia, Tbk",Manager Marketing,2018
+UB0079,Kevin Vebrianto,Agribisnis,PT Trinusa Travelindo,Specialist HR,2020
+UB0080,Indah Darmawan,Administrasi Publik,PT Sumber Rejeki,Engineer Admin,2019
+UB0081,Desi Wijaya,Ilmu Ekonomi,Bank Mandiri,Analyst Admin,2023
+UB0082,Bayu Nugroho,Pendidikan TI,PT Bank KEB Hana Indonesia,Specialist Operations,2022
+UB0083,Aditya Gunawan,Ilmu Komunikasi,"PT Japfa Comfeed Indonesia, Tbk",Manager HR,2018
+UB0084,Bayu Kurnia,Psikologi,Gojek,Head of Department Operations,2023
+UB0085,Hana Setiawan,Teknologi Hasil Pertanian,Bank BCA,Senior Staff Admin,2020
+UB0086,Dimas Aditama,Manajemen,Bank Mandiri,Management Trainee Sales,2015
+UB0087,Hadi Kurnia,Teknik Mesin,PT Bank KEB Hana Indonesia,Engineer Finance,2020
+UB0088,Radit Vebrianto,Hubungan Internasional,PT Sumber Rejeki,Manager Admin,2019
+UB0089,Joko Wijaya,Arsitektur,PT Trinusa Travelindo,Junior Staff Sales,2023
+UB0090,Fajar Utami,Ilmu Ekonomi,Xiaomi Technology,Junior Staff Marketing,2015
+UB0091,Putri Fauzi,Teknik Informatika,JAPFA FOOD INDONESIA,Senior Software Engineer,2020
+UB0092,Fajar Baswedan,Sistem Informasi,PT Trinusa Travelindo,Junior Product Manager,2020
+UB0093,Dewi Aditama,Hubungan Internasional,PHINTRACO GROUP,Specialist HR,2021
+UB0094,Gilang Laksana,Agribisnis,Shopee,Specialist Finance,2022
+UB0095,Gilang Aditama,Psikologi,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant HR,2019
+UB0096,Sarah Oktaviani,Ekonomi Islam,PT Bank KEB Hana Indonesia,Head of Department Admin,2019
+UB0097,Kevin Aminah,Teknik Lingkungan,PT Handal Guna Sarana,Manager HR,2022
+UB0098,Chandra Budiman,Pendidikan TI,"PT SMART,Tbk",Junior Staff Sales,2020
+UB0099,Hadi Pangestu,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Supervisor Admin,2020
+UB0100,Xena Puspa,Sistem Informasi,"PT SMART,Tbk",Lead Data Scientist,2020
+UB0101,Qori Soekarno,Ilmu Komunikasi,PT Handal Guna Sarana,Senior Staff Finance,2015
+UB0102,Agus Yudhoyono,Agribisnis,Gojek,Analyst HR,2015
+UB0103,Nina Kusumo,Ilmu Ekonomi,"PT Bank Danamon Indonesia, Tbk",Head of Department Marketing,2021
+UB0104,Indah Permata,Psikologi,PT Trinusa Travelindo,Supervisor Finance,2021
+UB0105,Agus Kusumo,Teknik Informatika,StartUp Gagal Bangkit,Senior Data Scientist,2018
+UB0106,Nadia Pratama,Arsitektur,PT Kapal Api Global,Senior Staff HR,2015
+UB0107,Hana Lestari,Keuangan Perbankan,PT Sejahtera Abadi,Officer Operations,2016
+UB0108,Sarah Puspa,Teknologi Informasi,CV Maju Mundur,Lead IT Support,2019
+UB0109,Vina Irawan,Teknik Sipil,"PT DCI Indonesia, Tbk",Supervisor HR,2021
+UB0110,Okta Lestari,Ilmu Hukum,PT Trinusa Travelindo,Management Trainee Finance,2015
+UB0111,Nina Rahmawati,Ilmu Komunikasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Head of Department Operations,2017
+UB0112,Arif Kartika,Teknik Informatika,"PT SMART,Tbk",Lead Product Manager,2018
+UB0113,Erlangga Pangestu,Arsitektur,PT Bank KEB Hana Indonesia,Analyst HR,2015
+UB0114,Citra Aminah,Administrasi Publik,"PT Bank Danamon Indonesia, Tbk",Officer Finance,2021
+UB0115,Bella Santoso,Teknologi Informasi,PT Mencari Cinta Sejati,Senior DevOps,2023
+UB0116,Julia Fauzi,Hubungan Internasional,Bank BCA,Junior Staff Marketing,2022
+UB0117,Gita Kartika,Ilmu Ekonomi,Xiaomi Technology,Manager Finance,2023
+UB0118,Dimas Tanjung,Teknologi Informasi,Bank Mandiri,Lead Software Engineer,2018
+UB0119,Gita Anggara,Teknik Mesin,Bank Mandiri,Analyst Admin,2018
+UB0120,Indah Zulkarnain,Ekonomi Islam,PT Handal Guna Sarana,Consultant HR,2017
+UB0121,Farhan Widodo,Pendidikan TI,PT Penerbit Erlangga,Management Trainee Marketing,2018
+UB0122,Putri Suharto,Teknik Sipil,PT CFU Technology Indonesia,Junior Staff Finance,2021
+UB0123,Julia Suharto,Teknologi Informasi,PHINTRACO GROUP,Senior Data Scientist,2018
+UB0124,Nina Soekarno,Teknik Lingkungan,CV Maju Mundur,Supervisor Sales,2016
+UB0125,Gilang Suharto,Teknik Lingkungan,PT Penerbit Erlangga,Officer Finance,2018
+UB0126,Laras Pratama,Teknik Industri,PT Trinusa Travelindo,Supervisor Finance,2022
+UB0127,Citra Fauzi,Ekonomi Islam,PHINTRACO GROUP,Engineer Admin,2017
+UB0128,Tegar Rahmawati,Agribisnis,Gojek,Management Trainee Admin,2020
+UB0129,Fajar Vebrianto,Hubungan Internasional,PT Bank KEB Hana Indonesia,Manager Marketing,2017
+UB0130,Kevin Zulkarnain,Pendidikan TI,PT Penerbit Erlangga,Head of Department Marketing,2023
+UB0131,Julia Firmansyah,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Senior Staff HR,2019
+UB0132,Dewi Nugroho,Sistem Informasi,Tokopedia,Senior Data Scientist,2020
+UB0133,Kevin Setiawan,Teknik Mesin,Telkom Indonesia,Senior Staff Finance,2016
+UB0134,Rina Prasetyo,Ilmu Ekonomi,PT Trinusa Travelindo,Engineer Admin,2020
+UB0135,Kartika Siregar,Ekonomi Islam,PT Mencari Cinta Sejati,Manager Finance,2021
+UB0136,Indah Utami,Ekonomi Islam,PT Solusi Transportasi Indonesia,Junior Staff Marketing,2015
+UB0137,Radit Pangestu,Teknik Komputer,Shopee,Junior IT Support,2015
+UB0138,Budi Yulianto,Teknik Komputer,PT Penerbit Erlangga,Junior Data Scientist,2022
+UB0139,Gita Jaya,Teknik Informatika,"PT Japfa Comfeed Indonesia, Tbk",Lead Product Manager,2022
+UB0140,Irfan Suharto,Agribisnis,PHINTRACO GROUP,Specialist Admin,2022
+UB0141,Qori Utami,Teknologi Hasil Pertanian,Tokopedia,Specialist Marketing,2023
+UB0142,Agus Rahmawati,Sistem Informasi,PT Mencari Cinta Sejati,Lead DevOps,2015
+UB0143,Sarah Prasetyo,Teknik Sipil,PT Penerbit Erlangga,Officer Operations,2020
+UB0144,Kartika Maulana,Hubungan Internasional,Gojek,Consultant Finance,2020
+UB0145,Arif Nugroho,Ekonomi Islam,PT Handal Guna Sarana,Analyst Admin,2017
+UB0146,Wahyu Fauzi,Ilmu Ekonomi,Telkom Indonesia,Manager Admin,2020
+UB0147,Radit Kusumo,Agribisnis,PT Solusi Transportasi Indonesia,Engineer Admin,2020
+UB0148,Siti Darmawan,Teknik Mesin,StartUp Gagal Bangkit,Specialist Operations,2021
+UB0149,Laras Prasetyo,Teknik Informatika,JAPFA FOOD INDONESIA,Senior Product Manager,2022
+UB0150,Aditya Efendi,Ilmu Komunikasi,PT CFU Technology Indonesia,Analyst Admin,2016
+UB0151,Agus Wijaya,Pendidikan TI,"PT SMART,Tbk",Officer Operations,2016
+UB0152,Pandu Nasution,Teknik Elektro,PT CFU Technology Indonesia,Officer Admin,2019
+UB0153,Radit Suharto,Pendidikan TI,PT Solusi Transportasi Indonesia,Engineer Marketing,2016
+UB0154,Andi Hartono,Administrasi Publik,PT Solusi Transportasi Indonesia,Senior Staff Sales,2015
+UB0155,Rina Hartono,Hubungan Internasional,PT MAS ARYA INDONESIA,Analyst Admin,2020
+UB0156,Irfan Pratama,Agribisnis,Shopee,Analyst Marketing,2023
+UB0157,Irfan Lestari,Sistem Informasi,PT Mencari Cinta Sejati,Senior Product Manager,2016
+UB0158,Lestari Nasution,Teknik Sipil,"PT Japfa Comfeed Indonesia, Tbk",Specialist Operations,2018
+UB0159,Radit Nugroho,Teknologi Informasi,PHINTRACO GROUP,Lead Software Engineer,2022
+UB0160,Yoga Hartono,Psikologi,PT Sejahtera Abadi,Junior Staff Marketing,2015
+UB0161,Rina Baswedan,Teknologi Informasi,PT Solusi Transportasi Indonesia,Senior Data Scientist,2015
+UB0162,Hana Puspa,Akuntansi,PT Solusi Transportasi Indonesia,Officer Marketing,2020
+UB0163,Kevin Kusumo,Teknologi Hasil Pertanian,PT Sejahtera Abadi,Supervisor Marketing,2021
+UB0164,Kartika Fauzi,Agroekoteknologi,PT Solusi Transportasi Indonesia,Officer Sales,2017
+UB0165,Okta Soekarno,Akuntansi,PT Tsubaki Indonesia Manufacturing,Specialist Admin,2023
+UB0166,Tegar Irawan,Psikologi,PT Sumber Rejeki,Officer Admin,2021
+UB0167,Siti Suharto,Teknik Industri,Telkom Indonesia,Officer Marketing,2022
+UB0168,Qori Yudhoyono,Teknologi Hasil Pertanian,Tokopedia,Supervisor Sales,2020
+UB0169,Gita Wibowo,Psikologi,PT Bank KEB Hana Indonesia,Management Trainee Marketing,2020
+UB0170,Tegar Hartono,Ekonomi Islam,"PT Japfa Comfeed Indonesia, Tbk",Officer Sales,2015
+UB0171,Vina Kusuma,Ilmu Komunikasi,Shopee,Officer Operations,2018
+UB0172,Aditya Kurnia,Keuangan Perbankan,PHINTRACO GROUP,Management Trainee Admin,2016
+UB0173,Agus Widodo,Ilmu Hukum,PT Indocyber Global Teknologi,Specialist Admin,2015
+UB0174,Yoga Wijaya,Agroekoteknologi,PT Sejahtera Abadi,Head of Department HR,2021
+UB0175,Nadia Pratama,Agroekoteknologi,PHINTRACO GROUP,Senior Staff Admin,2020
+UB0176,Gita Vebrianto,Teknik Mesin,StartUp Gagal Bangkit,Analyst Admin,2016
+UB0177,Julia Kurnia,Ilmu Ekonomi,Tokopedia,Manager HR,2021
+UB0178,Irfan Budiman,Ekonomi Islam,PT Penerbit Erlangga,Management Trainee Operations,2016
+UB0179,Farhan Kartika,Psikologi,PT Penerbit Erlangga,Manager HR,2023
+UB0180,Kartika Susanto,Agroekoteknologi,"PT DCI Indonesia, Tbk",Analyst Admin,2018
+UB0181,Nadia Kusuma,Teknologi Hasil Pertanian,"PT SMART,Tbk",Junior Staff HR,2015
+UB0182,Arif Setiawan,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Manager Finance,2023
+UB0183,Citra Hidayat,Ilmu Komunikasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Junior Staff HR,2017
+UB0184,Nadia Aminah,Teknik Mesin,Gojek,Analyst Finance,2020
+UB0185,Utomo Gunawan,Teknik Industri,Xiaomi Technology,Manager Operations,2020
+UB0186,Nina Hidayat,Keuangan Perbankan,"PT Bank Danamon Indonesia, Tbk",Junior Staff Sales,2022
+UB0187,Yoga Budiman,Sistem Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead Data Scientist,2023
+UB0188,Putri Soekarno,Teknik Industri,Bank BCA,Supervisor Admin,2023
+UB0189,Irfan Anggara,Teknik Industri,PT Solusi Transportasi Indonesia,Management Trainee Admin,2019
+UB0190,Budi Yulianto,Agribisnis,PT MAS ARYA INDONESIA,Head of Department Sales,2023
+UB0191,Bagas Hidayat,Akuntansi,"PT. Trimegah Sekuritas Indonesia, Tbk",Supervisor Finance,2021
+UB0192,Aditya Wibowo,Pendidikan TI,PT Mencari Cinta Sejati,Engineer Sales,2020
+UB0193,Aditya Puspa,Hubungan Internasional,"PT SMART,Tbk",Senior Staff Marketing,2016
+UB0194,Hadi Prasetyo,Teknik Elektro,"PT SMART,Tbk",Engineer Admin,2017
+UB0195,Arif Tanjung,Ilmu Komunikasi,PT Kapal Api Global,Specialist Finance,2019
+UB0196,Lestari Yudhoyono,Teknik Komputer,PT Tsubaki Indonesia Manufacturing,Junior IT Support,2022
+UB0197,Putri Siregar,Teknologi Informasi,"PT Japfa Comfeed Indonesia, Tbk",Lead IT Support,2016
+UB0198,Siti Tanjung,Teknologi Hasil Pertanian,PT Bank KEB Hana Indonesia,Head of Department Marketing,2015
+UB0199,Bella Kusumo,Teknik Lingkungan,JAPFA FOOD INDONESIA,Head of Department Marketing,2015
+UB0200,Farhan Laksana,Hubungan Internasional,"PT DCI Indonesia, Tbk",Head of Department HR,2022
+UB0201,Nina Utami,Teknik Elektro,CV Maju Mundur,Management Trainee Sales,2019
+UB0202,Qori Siregar,Manajemen,"PT SMART,Tbk",Supervisor Sales,2021
+UB0203,Yoga Zulkarnain,Hubungan Internasional,JAPFA FOOD INDONESIA,Head of Department Finance,2021
+UB0204,Utomo Hidayat,Pendidikan TI,PT CFU Technology Indonesia,Manager HR,2023
+UB0205,Bella Vebrianto,Teknologi Hasil Pertanian,StartUp Gagal Bangkit,Officer Sales,2019
+UB0206,Utomo Aditama,Ilmu Hukum,Bank BCA,Management Trainee Finance,2023
+UB0207,Sarah Widodo,Teknik Informatika,PT Bank KEB Hana Indonesia,Senior Product Manager,2017
+UB0208,Gita Qodir,Teknik Komputer,"PT SMART,Tbk",Lead Data Scientist,2021
+UB0209,Qori Anggara,Teknik Lingkungan,Gojek,Specialist Operations,2023
+UB0210,Nina Kurnia,Ilmu Komunikasi,PT CFU Technology Indonesia,Specialist HR,2022
+UB0211,Yoga Kusumo,Sistem Informasi,CV Maju Mundur,Senior Product Manager,2017
+UB0212,Hana Puspa,Teknik Komputer,PT Penerbit Erlangga,Lead Product Manager,2020
+UB0213,Bella Pangestu,Ilmu Hukum,"PT SMART,Tbk",Manager Operations,2021
+UB0214,Putri Pangestu,Teknik Lingkungan,"PT Bank Danamon Indonesia, Tbk",Consultant HR,2020
+UB0215,Joko Nasution,Ilmu Hukum,PT Handal Guna Sarana,Supervisor Admin,2020
+UB0216,Erlangga Fauzi,Agribisnis,PT CFU Technology Indonesia,Supervisor Finance,2015
+UB0217,Bagas Firmansyah,Teknik Industri,Telkom Indonesia,Manager Admin,2016
+UB0218,Farhan Kusumo,Akuntansi,PT Sumber Rejeki,Analyst Admin,2017
+UB0219,Vina Cahyono,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Analyst Sales,2022
+UB0220,Radit Aditama,Teknologi Hasil Pertanian,PT Mencari Cinta Sejati,Junior Staff HR,2020
+UB0221,Joko Lestari,Pendidikan TI,"PT SMART,Tbk",Senior Staff Marketing,2022
+UB0222,Xena Permata,Pendidikan TI,PT Sejahtera Abadi,Analyst Marketing,2019
+UB0223,Siti Firmansyah,Akuntansi,PT Sumber Rejeki,Junior Staff Finance,2015
+UB0224,Cahya Rahmawati,Teknologi Informasi,PT Kapal Api Global,Senior Product Manager,2017
+UB0225,Chandra Suharto,Teknik Mesin,JAPFA FOOD INDONESIA,Manager Operations,2021
+UB0226,Hana Nugroho,Teknik Industri,CV Maju Mundur,Supervisor HR,2020
+UB0227,Zahra Utama,Manajemen,PT Kapal Api Global,Senior Staff Sales,2018
+UB0228,Gita Tanjung,Administrasi Publik,PT Sejahtera Abadi,Engineer Finance,2023
+UB0229,Aditya Fauzi,Ilmu Ekonomi,"PT SMART,Tbk",Head of Department Marketing,2017
+UB0230,Nina Aminah,Hubungan Internasional,Bank BCA,Officer Finance,2021
+UB0231,Arif Suharto,Psikologi,"PT DCI Indonesia, Tbk",Manager Sales,2015
+UB0232,Andi Nasution,Teknik Elektro,"PT DCI Indonesia, Tbk",Analyst Marketing,2015
+UB0233,Utomo Nugroho,Teknologi Informasi,PHINTRACO GROUP,Junior DevOps,2020
+UB0234,Wahyu Irawan,Arsitektur,Gojek,Analyst HR,2015
+UB0235,Rizky Kusumo,Pendidikan TI,CV Maju Mundur,Supervisor Finance,2020
+UB0236,Citra Pratama,Ilmu Ekonomi,PT Indocyber Global Teknologi,Analyst Operations,2018
+UB0237,Utomo Yulianto,Ekonomi Islam,PT Tsubaki Indonesia Manufacturing,Engineer Admin,2017
+UB0238,Kartika Oktaviani,Ilmu Ekonomi,Tokopedia,Consultant Operations,2020
+UB0239,Fajar Pangestu,Ilmu Hukum,PT Mencari Cinta Sejati,Senior Staff Finance,2023
+UB0240,Fajar Hidayat,Akuntansi,"PT Japfa Comfeed Indonesia, Tbk",Head of Department Marketing,2020
+UB0241,Hana Maulana,Psikologi,"PT Bank Danamon Indonesia, Tbk",Supervisor Marketing,2021
+UB0242,Dewi Wibowo,Teknik Sipil,Bank Mandiri,Officer Operations,2018
+UB0243,Lestari Kusuma,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Senior Staff Sales,2018
+UB0244,Pandu Vebrianto,Agroekoteknologi,"PT Bank Danamon Indonesia, Tbk",Specialist HR,2015
+UB0245,Qori Firmansyah,Teknik Sipil,PT Trinusa Travelindo,Engineer HR,2020
+UB0246,Farhan Permata,Akuntansi,PT Mencari Cinta Sejati,Head of Department Marketing,2018
+UB0247,Yoga Widodo,Teknologi Informasi,PT. Bank KEB Hana Indonesia,Lead DevOps,2015
+UB0248,Desi Permata,Manajemen,Xiaomi Technology,Management Trainee HR,2016
+UB0249,Budi Zulkarnain,Agroekoteknologi,PT Penerbit Erlangga,Junior Staff Sales,2021
+UB0250,Nadia Kusumo,Ilmu Komunikasi,PHINTRACO GROUP,Senior Staff Sales,2023
+UB0251,Dewi Tanjung,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Specialist Marketing,2023
+UB0252,Irfan Suharto,Administrasi Publik,PT CFU Technology Indonesia,Junior Staff Operations,2018
+UB0253,Tegar Setiawan,Teknik Elektro,PT Mencari Cinta Sejati,Senior Staff Admin,2023
+UB0254,Qori Yudhoyono,Agroekoteknologi,PT CFU Technology Indonesia,Senior Staff Admin,2015
+UB0255,Hadi Irawan,Teknologi Hasil Pertanian,StartUp Gagal Bangkit,Management Trainee HR,2018
+UB0256,Dewi Efendi,Ekonomi Islam,Tokopedia,Analyst Operations,2015
+UB0257,Pandu Tanjung,Ilmu Hukum,PT Solusi Transportasi Indonesia,Head of Department Admin,2016
+UB0258,Andi Budiman,Teknik Elektro,CV Maju Mundur,Head of Department Admin,2021
+UB0259,Yoga Soekarno,Sistem Informasi,PT Indocyber Global Teknologi,Junior DevOps,2017
+UB0260,Rina Hidayat,Agribisnis,Tokopedia,Senior Staff HR,2022
+UB0261,Bella Setiawan,Akuntansi,PT Sumber Rejeki,Consultant Finance,2017
+UB0262,Dewi Pangestu,Teknik Komputer,CV Maju Mundur,Junior Software Engineer,2015
+UB0263,Rina Nugroho,Akuntansi,PT. Bank KEB Hana Indonesia,Manager Operations,2022
+UB0264,Gilang Puspa,Pendidikan TI,Bank BCA,Senior Staff Marketing,2022
+UB0265,Wahyu Puspa,Hubungan Internasional,PT Sejahtera Abadi,Supervisor Sales,2015
+UB0266,Hadi Kusumo,Agribisnis,PT Tsubaki Indonesia Manufacturing,Engineer HR,2022
+UB0267,Arif Tanjung,Manajemen,Gojek,Management Trainee Sales,2016
+UB0268,Nina Suharto,Teknologi Hasil Pertanian,PT Kapal Api Global,Supervisor Operations,2017
+UB0269,Dimas Pratama,Teknik Mesin,PT Solusi Transportasi Indonesia,Specialist HR,2022
+UB0270,Qori Hidayat,Manajemen,PT Sumber Rejeki,Supervisor Sales,2021
+UB0271,Budi Firmansyah,Teknik Elektro,PT Indocyber Global Teknologi,Consultant Marketing,2021
+UB0272,Citra Prasetyo,Teknologi Hasil Pertanian,Gojek,Junior Staff Admin,2016
+UB0273,Agus Laksana,Teknologi Hasil Pertanian,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Admin,2022
+UB0274,Erlangga Kusuma,Teknologi Informasi,PT. Bank KEB Hana Indonesia,Lead IT Support,2015
+UB0275,Irfan Prasetyo,Manajemen,PT Kapal Api Global,Engineer Operations,2015
+UB0276,Chandra Wijaya,Teknik Lingkungan,PT MAS ARYA INDONESIA,Supervisor Marketing,2019
+UB0277,Bayu Anggara,Agribisnis,Telkom Indonesia,Senior Staff Sales,2015
+UB0278,Rina Wibowo,Hubungan Internasional,PT MAS ARYA INDONESIA,Manager Admin,2018
+UB0279,Dinda Wulandari,Hubungan Internasional,Bank Mandiri,Management Trainee Finance,2020
+UB0280,Sarah Kusumo,Teknik Elektro,PT Penerbit Erlangga,Officer HR,2019
+UB0281,Budi Efendi,Teknik Industri,CV Maju Mundur,Supervisor Admin,2022
+UB0282,Erlangga Widodo,Administrasi Publik,PT MAS ARYA INDONESIA,Manager Admin,2015
+UB0283,Hadi Susanto,Sistem Informasi,PT Penerbit Erlangga,Senior Software Engineer,2021
+UB0284,Aditya Efendi,Agribisnis,"PT Japfa Comfeed Indonesia, Tbk",Supervisor Finance,2023
+UB0285,Bayu Susanto,Sistem Informasi,PT Sejahtera Abadi,Senior Data Scientist,2023
+UB0286,Dewi Nugroho,Teknik Komputer,PT MAS ARYA INDONESIA,Senior IT Support,2020
+UB0287,Irfan Lestari,Manajemen,PT Trinusa Travelindo,Specialist Marketing,2017
+UB0288,Dewi Oktaviani,Administrasi Publik,"PT Bank Danamon Indonesia, Tbk",Manager Marketing,2015
+UB0289,Xena Widodo,Agroekoteknologi,Telkom Indonesia,Supervisor Operations,2020
+UB0290,Andi Santoso,Ekonomi Islam,PT MAS ARYA INDONESIA,Junior Staff Sales,2017
+UB0291,Arif Oktaviani,Sistem Informasi,PT CFU Technology Indonesia,Lead DevOps,2019
+UB0292,Indah Budiman,Teknik Sipil,PT CFU Technology Indonesia,Officer Sales,2022
+UB0293,Siti Utama,Teknik Informatika,PT Trinusa Travelindo,Lead Data Scientist,2022
+UB0294,Lestari Kusuma,Teknik Industri,PT. Bank KEB Hana Indonesia,Analyst Sales,2020
+UB0295,Agus Anggara,Teknologi Hasil Pertanian,Bank Mandiri,Specialist Finance,2015
+UB0296,Farhan Baswedan,Teknik Sipil,"PT DCI Indonesia, Tbk",Supervisor Operations,2016
+UB0297,Fajar Hartono,Agribisnis,"PT DCI Indonesia, Tbk",Management Trainee Finance,2015
+UB0298,Agus Prasetyo,Administrasi Publik,PT Indocyber Global Teknologi,Junior Staff Admin,2019
+UB0299,Fajar Jaya,Hubungan Internasional,PT Mencari Cinta Sejati,Analyst Sales,2021
+UB0300,Siti Saputra,Hubungan Internasional,PT Sejahtera Abadi,Officer Admin,2015
+UB0301,Hadi Yulianto,Arsitektur,"PT. Trimegah Sekuritas Indonesia, Tbk",Officer Operations,2019
+UB0302,Yoga Pangestu,Ilmu Ekonomi,Telkom Indonesia,Specialist Finance,2021
+UB0303,Kevin Suharto,Teknik Sipil,PT Mencari Cinta Sejati,Management Trainee Admin,2021
+UB0304,Irfan Cahyono,Teknologi Informasi,PT Sumber Rejeki,Junior IT Support,2019
+UB0305,Bayu Qodir,Teknik Elektro,JAPFA FOOD INDONESIA,Manager Sales,2021
+UB0306,Erlangga Fauzi,Teknik Industri,StartUp Gagal Bangkit,Supervisor Admin,2016
+UB0307,Rina Yudhoyono,Teknologi Informasi,StartUp Gagal Bangkit,Lead Software Engineer,2020
+UB0308,Hana Nugroho,Ekonomi Islam,CV Maju Mundur,Specialist HR,2020
+UB0309,Dimas Wijaya,Manajemen,"PT Bank Danamon Indonesia, Tbk",Specialist Marketing,2019
+UB0310,Rina Qodir,Arsitektur,Gojek,Analyst Marketing,2015
+UB0311,Julia Hidayat,Hubungan Internasional,PT. Bank KEB Hana Indonesia,Analyst HR,2022
+UB0312,Dimas Baswedan,Keuangan Perbankan,Xiaomi Technology,Specialist Marketing,2015
+UB0313,Budi Qodir,Teknik Informatika,PT CFU Technology Indonesia,Junior IT Support,2023
+UB0314,Mahendra Nugroho,Teknologi Informasi,"PT Bank Danamon Indonesia, Tbk",Lead Data Scientist,2017
+UB0315,Okta Kartika,Ekonomi Islam,Shopee,Officer HR,2017
+UB0316,Putri Wibowo,Ilmu Ekonomi,"PT SMART,Tbk",Specialist Marketing,2016
+UB0317,Yoga Irawan,Teknik Komputer,PT Kapal Api Global,Senior Product Manager,2018
+UB0318,Fajar Efendi,Teknologi Informasi,PT Sumber Rejeki,Lead Software Engineer,2015
+UB0319,Erlangga Aditama,Hubungan Internasional,"PT SMART,Tbk",Engineer HR,2016
+UB0320,Kartika Firmansyah,Teknik Komputer,Bank BCA,Senior IT Support,2021
+UB0321,Indah Nasution,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Supervisor Marketing,2017
+UB0322,Rizky Prasetyo,Pendidikan TI,PHINTRACO GROUP,Specialist Marketing,2022
+UB0323,Erlangga Prasetyo,Teknik Elektro,PT Sejahtera Abadi,Officer Marketing,2019
+UB0324,Dimas Darmawan,Teknik Industri,Tokopedia,Supervisor Admin,2019
+UB0325,Bagas Maulana,Teknologi Informasi,Bank Mandiri,Junior Software Engineer,2015
+UB0326,Joko Kusuma,Administrasi Publik,"PT. Trimegah Sekuritas Indonesia, Tbk",Head of Department Sales,2015
+UB0327,Citra Kurnia,Teknik Mesin,CV Maju Mundur,Specialist Sales,2019
+UB0328,Arif Laksana,Teknik Mesin,Gojek,Analyst Sales,2017
+UB0329,Nadia Siregar,Administrasi Publik,JAPFA FOOD INDONESIA,Specialist Operations,2020
+UB0330,Agus Susanto,Teknik Lingkungan,Bank BCA,Manager Finance,2021
+UB0331,Lestari Gunawan,Arsitektur,Bank BCA,Supervisor Admin,2017
+UB0332,Xena Laksana,Pendidikan TI,PT Penerbit Erlangga,Specialist HR,2015
+UB0333,Okta Pratama,Teknik Sipil,PT Trinusa Travelindo,Supervisor Sales,2017
+UB0334,Agus Utama,Psikologi,PT Tsubaki Indonesia Manufacturing,Junior Staff Operations,2018
+UB0335,Fajar Gunawan,Teknik Industri,Bank Mandiri,Supervisor Admin,2020
+UB0336,Erlangga Maulana,Ilmu Hukum,"PT Japfa Comfeed Indonesia, Tbk",Manager Admin,2015
+UB0337,Yoga Puspa,Teknik Elektro,"PT. Trimegah Sekuritas Indonesia, Tbk",Officer HR,2022
+UB0338,Indah Pangestu,Hubungan Internasional,CV Maju Mundur,Management Trainee Finance,2016
+UB0339,Gilang Yudhoyono,Administrasi Publik,PT CFU Technology Indonesia,Management Trainee Operations,2018
+UB0340,Yoga Soekarno,Manajemen,PT Kapal Api Global,Management Trainee Operations,2018
+UB0341,Zahra Nugroho,Agroekoteknologi,PT Sejahtera Abadi,Manager Finance,2015
+UB0342,Bagas Wijaya,Teknik Lingkungan,PT Bank KEB Hana Indonesia,Management Trainee Sales,2018
+UB0343,Joko Gunawan,Teknik Mesin,PT MAS ARYA INDONESIA,Head of Department Admin,2020
+UB0344,Rizky Soekarno,Ilmu Komunikasi,"PT DCI Indonesia, Tbk",Specialist Admin,2018
+UB0345,Bella Utama,Ilmu Hukum,StartUp Gagal Bangkit,Engineer Admin,2019
+UB0346,Farhan Gunawan,Arsitektur,PT Tsubaki Indonesia Manufacturing,Senior Staff Operations,2019
+UB0347,Kartika Kurnia,Teknik Informatika,PT. Bank KEB Hana Indonesia,Lead Data Scientist,2018
+UB0348,Mahendra Firmansyah,Teknik Informatika,PT Tsubaki Indonesia Manufacturing,Lead Software Engineer,2018
+UB0349,Citra Efendi,Agroekoteknologi,PT Kapal Api Global,Junior Staff Sales,2020
+UB0350,Qori Yulianto,Akuntansi,PT Sejahtera Abadi,Manager Sales,2015
+UB0351,Putri Nugroho,Manajemen,StartUp Gagal Bangkit,Analyst Sales,2018
+UB0352,Bella Santoso,Teknik Industri,PT Handal Guna Sarana,Supervisor Sales,2020
+UB0353,Zahra Wibowo,Psikologi,PT Bank KEB Hana Indonesia,Supervisor Marketing,2016
+UB0354,Bagas Irawan,Teknik Lingkungan,Tokopedia,Analyst Operations,2015
+UB0355,Joko Vebrianto,Akuntansi,PT Indocyber Global Teknologi,Engineer Marketing,2019
+UB0356,Agus Kartika,Pendidikan TI,PT. Bank KEB Hana Indonesia,Management Trainee Finance,2017
+UB0357,Mahendra Nugroho,Pendidikan TI,PT Tsubaki Indonesia Manufacturing,Supervisor HR,2021
+UB0358,Desi Nasution,Agribisnis,PT Penerbit Erlangga,Consultant Admin,2015
+UB0359,Hana Hartono,Manajemen,PT Kapal Api Global,Officer Admin,2022
+UB0360,Hana Utama,Teknologi Informasi,PT Solusi Transportasi Indonesia,Junior Data Scientist,2020
+UB0361,Sarah Yudhoyono,Teknik Komputer,PT Mencari Cinta Sejati,Lead Product Manager,2016
+UB0362,Cahya Fauzi,Teknik Informatika,Shopee,Junior IT Support,2018
+UB0363,Farhan Oktaviani,Ilmu Hukum,Bank Mandiri,Junior Staff Admin,2023
+UB0364,Siti Pratama,Teknik Lingkungan,Bank BCA,Consultant Marketing,2020
+UB0365,Bella Laksana,Teknik Komputer,PT Bank KEB Hana Indonesia,Junior Software Engineer,2022
+UB0366,Eko Wulandari,Teknologi Hasil Pertanian,PT Sumber Rejeki,Specialist Marketing,2022
+UB0367,Mahendra Yudhoyono,Keuangan Perbankan,PT Indocyber Global Teknologi,Specialist Admin,2017
+UB0368,Wahyu Suharto,Ilmu Hukum,StartUp Gagal Bangkit,Manager Finance,2017
+UB0369,Yoga Lestari,Teknik Industri,Shopee,Senior Staff Operations,2021
+UB0370,Kartika Susanto,Agribisnis,StartUp Gagal Bangkit,Analyst Operations,2016
+UB0371,Citra Widodo,Teknik Elektro,PT Mencari Cinta Sejati,Head of Department Marketing,2017
+UB0372,Indah Efendi,Teknik Lingkungan,PT CFU Technology Indonesia,Engineer Sales,2017
+UB0373,Pandu Kurnia,Arsitektur,"PT Bank Danamon Indonesia, Tbk",Specialist HR,2016
+UB0374,Qori Suharto,Teknik Elektro,Bank Mandiri,Officer Operations,2015
+UB0375,Mahendra Gunawan,Teknik Lingkungan,PT CFU Technology Indonesia,Senior Staff Sales,2022
+UB0376,Eko Tanjung,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Senior Product Manager,2015
+UB0377,Julia Saputra,Sistem Informasi,Gojek,Senior Data Scientist,2017
+UB0378,Gilang Aminah,Ilmu Hukum,"PT DCI Indonesia, Tbk",Head of Department Operations,2020
+UB0379,Pandu Permata,Teknik Industri,PT Solusi Transportasi Indonesia,Officer Sales,2020
+UB0380,Erlangga Baswedan,Teknik Komputer,Telkom Indonesia,Junior Data Scientist,2023
+UB0381,Nadia Puspa,Sistem Informasi,"PT DCI Indonesia, Tbk",Lead Software Engineer,2022
+UB0382,Budi Permata,Teknik Lingkungan,PT Kapal Api Global,Junior Staff HR,2023
+UB0383,Vina Firmansyah,Teknik Lingkungan,PT Solusi Transportasi Indonesia,Head of Department HR,2016
+UB0384,Aditya Kurnia,Arsitektur,PT Sejahtera Abadi,Manager Admin,2018
+UB0385,Bagas Pangestu,Sistem Informasi,CV Maju Mundur,Lead DevOps,2015
+UB0386,Eko Prasetyo,Manajemen,StartUp Gagal Bangkit,Management Trainee Admin,2015
+UB0387,Sarah Jaya,Arsitektur,PT Mencari Cinta Sejati,Specialist Admin,2023
+UB0388,Sarah Utama,Ilmu Ekonomi,PT Handal Guna Sarana,Officer Finance,2017
+UB0389,Mahendra Zulkarnain,Pendidikan TI,PT Sejahtera Abadi,Manager HR,2021
+UB0390,Desi Gunawan,Agroekoteknologi,PT Mencari Cinta Sejati,Management Trainee Finance,2015
+UB0391,Andi Nasution,Teknik Elektro,PT MAS ARYA INDONESIA,Analyst Finance,2018
+UB0392,Sarah Widodo,Teknik Informatika,JAPFA FOOD INDONESIA,Lead DevOps,2020
+UB0393,Nadia Budiman,Ekonomi Islam,PT MAS ARYA INDONESIA,Senior Staff HR,2020
+UB0394,Mahendra Qodir,Hubungan Internasional,PT Sumber Rejeki,Management Trainee Admin,2018
+UB0395,Utomo Utami,Teknik Informatika,PT Sumber Rejeki,Lead Data Scientist,2023
+UB0396,Radit Irawan,Agribisnis,"PT Japfa Comfeed Indonesia, Tbk",Specialist Marketing,2019
+UB0397,Irfan Wijaya,Teknik Lingkungan,PT Sejahtera Abadi,Senior Staff HR,2020
+UB0398,Qori Pangestu,Teknik Elektro,"PT SMART,Tbk",Engineer Sales,2018
+UB0399,Irfan Susanto,Teknik Lingkungan,PT Trinusa Travelindo,Manager HR,2023
+UB0400,Lestari Nugroho,Teknik Mesin,CV Maju Mundur,Specialist Marketing,2023
+UB0401,Bagas Pratama,Teknik Lingkungan,Gojek,Manager Admin,2021
+UB0402,Nadia Kartika,Hubungan Internasional,Gojek,Head of Department Sales,2017
+UB0403,Farhan Aminah,Teknik Sipil,PT Indocyber Global Teknologi,Officer Operations,2015
+UB0404,Zahra Kartika,Teknik Sipil,PT Tsubaki Indonesia Manufacturing,Management Trainee Operations,2017
+UB0405,Utomo Anggara,Ilmu Komunikasi,Bank BCA,Specialist HR,2019
+UB0406,Sarah Hidayat,Teknik Informatika,PT Kapal Api Global,Lead IT Support,2020
+UB0407,Nadia Utama,Teknik Informatika,PT Mencari Cinta Sejati,Senior DevOps,2020
+UB0408,Vina Gunawan,Administrasi Publik,Bank BCA,Consultant Sales,2021
+UB0409,Laras Irawan,Keuangan Perbankan,PT Tsubaki Indonesia Manufacturing,Manager Sales,2019
+UB0410,Agus Hartono,Teknik Informatika,"PT SMART,Tbk",Lead Data Scientist,2017
+UB0411,Fajar Budiman,Agroekoteknologi,PT Mencari Cinta Sejati,Engineer Sales,2023
+UB0412,Andi Aminah,Teknik Sipil,Telkom Indonesia,Manager Operations,2019
+UB0413,Cahya Kurnia,Teknik Industri,Gojek,Manager Marketing,2018
+UB0414,Siti Qodir,Akuntansi,Gojek,Manager HR,2022
+UB0415,Budi Budiman,Ilmu Komunikasi,Gojek,Management Trainee Sales,2015
+UB0416,Rizky Cahyono,Teknik Mesin,PT CFU Technology Indonesia,Junior Staff Sales,2020
+UB0417,Siti Budiman,Teknik Komputer,PT Sumber Rejeki,Senior Software Engineer,2020
+UB0418,Bella Suharto,Agribisnis,PT Indocyber Global Teknologi,Supervisor Finance,2019
+UB0419,Budi Nugroho,Teknik Mesin,PT Solusi Transportasi Indonesia,Analyst HR,2015
+UB0420,Citra Siregar,Teknik Sipil,PT Bank KEB Hana Indonesia,Consultant HR,2021
+UB0421,Pandu Jaya,Agribisnis,PT MAS ARYA INDONESIA,Analyst Finance,2019
+UB0422,Okta Kusuma,Teknik Komputer,Bank Mandiri,Senior Software Engineer,2017
+UB0423,Qori Oktaviani,Manajemen,"PT DCI Indonesia, Tbk",Engineer Sales,2015
+UB0424,Rizky Aminah,Manajemen,PT Handal Guna Sarana,Management Trainee Finance,2022
+UB0425,Qori Prasetyo,Keuangan Perbankan,PT Trinusa Travelindo,Specialist Finance,2022
+UB0426,Kevin Efendi,Arsitektur,PT Bank KEB Hana Indonesia,Supervisor Operations,2020
+UB0427,Indah Efendi,Pendidikan TI,"PT Japfa Comfeed Indonesia, Tbk",Consultant Sales,2021
+UB0428,Irfan Yulianto,Arsitektur,"PT. Trimegah Sekuritas Indonesia, Tbk",Officer HR,2015
+UB0429,Pandu Fauzi,Psikologi,CV Maju Mundur,Specialist HR,2021
+UB0430,Laras Susanto,Teknik Sipil,Tokopedia,Engineer Finance,2019
+UB0431,Budi Anggara,Ilmu Hukum,PT MAS ARYA INDONESIA,Junior Staff Admin,2023
+UB0432,Hadi Yudhoyono,Ilmu Komunikasi,Bank BCA,Officer HR,2020
+UB0433,Putri Kartika,Ilmu Ekonomi,PT CFU Technology Indonesia,Manager Marketing,2022
+UB0434,Julia Yulianto,Teknik Informatika,CV Maju Mundur,Senior Data Scientist,2019
+UB0435,Gita Pratama,Agroekoteknologi,PT Bank KEB Hana Indonesia,Junior Staff Admin,2019
+UB0436,Kevin Efendi,Teknik Elektro,PT Handal Guna Sarana,Senior Staff Marketing,2018
+UB0437,Mahendra Yulianto,Arsitektur,Telkom Indonesia,Analyst Operations,2015
+UB0438,Cahya Aditama,Teknologi Informasi,JAPFA FOOD INDONESIA,Lead Software Engineer,2017
+UB0439,Nadia Yulianto,Teknik Informatika,Xiaomi Technology,Lead DevOps,2018
+UB0440,Kevin Widodo,Arsitektur,PT Tsubaki Indonesia Manufacturing,Consultant Admin,2017
+UB0441,Nina Wijaya,Teknik Sipil,PT Sumber Rejeki,Consultant Marketing,2018
+UB0442,Indah Lestari,Ilmu Hukum,PT Penerbit Erlangga,Junior Staff HR,2017
+UB0443,Lestari Nugroho,Administrasi Publik,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior Staff Operations,2017
+UB0444,Utomo Wijaya,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Engineer HR,2016
+UB0445,Mahendra Efendi,Teknik Komputer,Gojek,Senior Data Scientist,2022
+UB0446,Sarah Efendi,Teknik Industri,Xiaomi Technology,Officer Finance,2020
+UB0447,Andi Pangestu,Agroekoteknologi,Gojek,Management Trainee Sales,2017
+UB0448,Farhan Kurnia,Teknologi Hasil Pertanian,PT Tsubaki Indonesia Manufacturing,Supervisor Finance,2020
+UB0449,Yoga Soekarno,Psikologi,Shopee,Manager Operations,2017
+UB0450,Rina Susanto,Teknologi Informasi,PT Handal Guna Sarana,Lead Data Scientist,2017
+UB0451,Hadi Nugroho,Arsitektur,CV Maju Mundur,Analyst Admin,2018
+UB0452,Utomo Fauzi,Ilmu Hukum,PT Kapal Api Global,Officer Operations,2020
+UB0453,Kartika Saputra,Teknologi Informasi,PT Sejahtera Abadi,Lead Data Scientist,2023
+UB0454,Indah Rahmawati,Sistem Informasi,PT Bank KEB Hana Indonesia,Junior IT Support,2021
+UB0455,Eko Oktaviani,Psikologi,PT MAS ARYA INDONESIA,Head of Department Admin,2016
+UB0456,Laras Santoso,Psikologi,PT Penerbit Erlangga,Supervisor Admin,2018
+UB0457,Desi Anggara,Ilmu Komunikasi,PT Kapal Api Global,Senior Staff HR,2020
+UB0458,Qori Qodir,Teknik Industri,PT Sejahtera Abadi,Senior Staff Admin,2019
+UB0459,Putri Nugroho,Manajemen,"PT Japfa Comfeed Indonesia, Tbk",Supervisor Finance,2015
+UB0460,Okta Nugroho,Ilmu Ekonomi,Bank BCA,Supervisor HR,2021
+UB0461,Qori Prasetyo,Teknik Lingkungan,PT Sumber Rejeki,Officer Sales,2018
+UB0462,Arif Puspa,Teknik Komputer,PT Bank KEB Hana Indonesia,Senior IT Support,2023
+UB0463,Andi Darmawan,Agribisnis,PT Indocyber Global Teknologi,Head of Department Admin,2017
+UB0464,Dimas Kusuma,Arsitektur,"PT Bank Danamon Indonesia, Tbk",Consultant HR,2023
+UB0465,Radit Suharto,Teknik Sipil,Gojek,Officer HR,2020
+UB0466,Zahra Darmawan,Teknologi Hasil Pertanian,Bank BCA,Engineer Finance,2018
+UB0467,Dimas Soekarno,Psikologi,CV Maju Mundur,Manager Operations,2015
+UB0468,Erlangga Tanjung,Teknik Industri,PT. Bank KEB Hana Indonesia,Consultant Finance,2022
+UB0469,Dimas Zulkarnain,Teknologi Informasi,PT Penerbit Erlangga,Senior IT Support,2015
+UB0470,Sarah Saputra,Teknologi Hasil Pertanian,PT Tsubaki Indonesia Manufacturing,Supervisor HR,2018
+UB0471,Lestari Setiawan,Teknik Sipil,Bank BCA,Senior Staff Admin,2018
+UB0472,Joko Jaya,Teknik Komputer,PT Mencari Cinta Sejati,Junior Data Scientist,2019
+UB0473,Tegar Permata,Pendidikan TI,PT Sumber Rejeki,Supervisor Marketing,2022
+UB0474,Hana Fauzi,Hubungan Internasional,PT Tsubaki Indonesia Manufacturing,Management Trainee Operations,2016
+UB0475,Rina Maulana,Keuangan Perbankan,PT Tsubaki Indonesia Manufacturing,Junior Staff Sales,2019
+UB0476,Yoga Santoso,Keuangan Perbankan,Xiaomi Technology,Analyst HR,2022
+UB0477,Chandra Widodo,Teknologi Informasi,PT Handal Guna Sarana,Lead IT Support,2016
+UB0478,Wahyu Kartika,Teknologi Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead DevOps,2022
+UB0479,Pandu Puspa,Manajemen,PT Tsubaki Indonesia Manufacturing,Manager Admin,2023
+UB0480,Bella Pratama,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Consultant Sales,2022
+UB0481,Fajar Wibowo,Teknik Elektro,Shopee,Analyst Operations,2020
+UB0482,Cahya Wijaya,Agroekoteknologi,PT Sejahtera Abadi,Management Trainee Marketing,2016
+UB0483,Bayu Budiman,Teknik Informatika,PT Bank KEB Hana Indonesia,Junior IT Support,2023
+UB0484,Vina Firmansyah,Akuntansi,CV Maju Mundur,Manager Marketing,2015
+UB0485,Bella Kusuma,Hubungan Internasional,PT CFU Technology Indonesia,Head of Department Admin,2018
+UB0486,Indah Susanto,Teknik Mesin,"PT SMART,Tbk",Manager Finance,2016
+UB0487,Joko Rahmawati,Manajemen,"PT DCI Indonesia, Tbk",Officer Finance,2016
+UB0488,Utomo Lestari,Arsitektur,PT Mencari Cinta Sejati,Analyst Admin,2015
+UB0489,Gilang Pangestu,Teknik Mesin,Gojek,Specialist Sales,2020
+UB0490,Kevin Wibowo,Agroekoteknologi,CV Maju Mundur,Management Trainee Finance,2021
+UB0491,Cahya Oktaviani,Ilmu Hukum,JAPFA FOOD INDONESIA,Senior Staff Finance,2022
+UB0492,Indah Wulandari,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Senior Staff Marketing,2021
+UB0493,Cahya Irawan,Sistem Informasi,PT Penerbit Erlangga,Lead Software Engineer,2021
+UB0494,Nadia Aminah,Teknologi Informasi,PT Penerbit Erlangga,Senior IT Support,2015
+UB0495,Utomo Cahyono,Sistem Informasi,PT Penerbit Erlangga,Lead Data Scientist,2021
+UB0496,Joko Oktaviani,Keuangan Perbankan,PT Trinusa Travelindo,Head of Department Finance,2022
+UB0497,Bella Kusuma,Teknik Elektro,Bank BCA,Consultant Operations,2016
+UB0498,Zahra Nasution,Psikologi,Telkom Indonesia,Junior Staff Finance,2019
+UB0499,Kartika Kurnia,Sistem Informasi,Xiaomi Technology,Lead DevOps,2019
+UB0500,Dewi Puspa,Keuangan Perbankan,PT Sejahtera Abadi,Manager HR,2019
+UB0501,Zahra Efendi,Teknik Mesin,PT Bank KEB Hana Indonesia,Consultant Finance,2021
+UB0502,Dinda Suharto,Arsitektur,"PT SMART,Tbk",Consultant Sales,2017
+UB0503,Dimas Anggara,Hubungan Internasional,PT Mencari Cinta Sejati,Management Trainee Admin,2016
+UB0504,Dinda Rahmawati,Sistem Informasi,PT. Bank KEB Hana Indonesia,Junior Product Manager,2018
+UB0505,Putri Utami,Hubungan Internasional,"PT DCI Indonesia, Tbk",Management Trainee Operations,2023
+UB0506,Yoga Tanjung,Agroekoteknologi,JAPFA FOOD INDONESIA,Junior Staff Finance,2015
+UB0507,Dewi Wulandari,Keuangan Perbankan,Gojek,Specialist Sales,2017
+UB0508,Qori Utami,Ilmu Komunikasi,CV Maju Mundur,Supervisor HR,2019
+UB0509,Dimas Wijaya,Teknologi Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead Product Manager,2019
+UB0510,Farhan Anggara,Arsitektur,"PT Bank Danamon Indonesia, Tbk",Officer Marketing,2016
+UB0511,Arif Siregar,Teknik Sipil,PT. Bank KEB Hana Indonesia,Junior Staff Operations,2020
+UB0512,Farhan Budiman,Keuangan Perbankan,JAPFA FOOD INDONESIA,Junior Staff Admin,2017
+UB0513,Putri Zulkarnain,Ilmu Ekonomi,"PT DCI Indonesia, Tbk",Engineer HR,2021
+UB0514,Rizky Aminah,Pendidikan TI,PT Sejahtera Abadi,Management Trainee Sales,2015
+UB0515,Julia Prasetyo,Ilmu Hukum,PT Indocyber Global Teknologi,Engineer Sales,2018
+UB0516,Utomo Maulana,Ilmu Hukum,Gojek,Engineer Finance,2019
+UB0517,Pandu Aditama,Ilmu Hukum,PHINTRACO GROUP,Analyst Marketing,2020
+UB0518,Bagas Kusumo,Sistem Informasi,PT Trinusa Travelindo,Senior Product Manager,2015
+UB0519,Kartika Wulandari,Teknik Sipil,PT Sumber Rejeki,Analyst Marketing,2023
+UB0520,Dinda Wijaya,Hubungan Internasional,Xiaomi Technology,Manager Admin,2020
+UB0521,Zahra Oktaviani,Teknik Mesin,Xiaomi Technology,Specialist Marketing,2023
+UB0522,Radit Laksana,Ilmu Komunikasi,"PT SMART,Tbk",Specialist Sales,2022
+UB0523,Siti Hidayat,Teknik Elektro,Tokopedia,Head of Department Marketing,2019
+UB0524,Yoga Vebrianto,Ilmu Hukum,Xiaomi Technology,Supervisor Admin,2018
+UB0525,Bayu Susanto,Manajemen,PT MAS ARYA INDONESIA,Manager Sales,2016
+UB0526,Hadi Hidayat,Arsitektur,PT Indocyber Global Teknologi,Head of Department Finance,2019
+UB0527,Qori Efendi,Arsitektur,PT Mencari Cinta Sejati,Analyst HR,2020
+UB0528,Erlangga Nasution,Teknik Informatika,PT Bank KEB Hana Indonesia,Senior IT Support,2023
+UB0529,Bagas Baswedan,Arsitektur,PT Solusi Transportasi Indonesia,Senior Staff HR,2015
+UB0530,Arif Setiawan,Teknik Sipil,Bank Mandiri,Manager Operations,2016
+UB0531,Zahra Budiman,Teknik Komputer,PT Bank KEB Hana Indonesia,Junior Data Scientist,2018
+UB0532,Arif Hartono,Agribisnis,StartUp Gagal Bangkit,Manager Finance,2017
+UB0533,Chandra Kurnia,Teknik Elektro,PT Mencari Cinta Sejati,Manager Marketing,2017
+UB0534,Nadia Utama,Teknik Mesin,PT Penerbit Erlangga,Junior Staff Finance,2021
+UB0535,Aditya Laksana,Psikologi,PHINTRACO GROUP,Manager Finance,2022
+UB0536,Julia Yudhoyono,Teknik Sipil,PT Bank KEB Hana Indonesia,Head of Department Operations,2015
+UB0537,Kevin Jaya,Pendidikan TI,Bank Mandiri,Supervisor Finance,2018
+UB0538,Dimas Susanto,Teknik Informatika,Bank Mandiri,Junior Software Engineer,2023
+UB0539,Arif Aminah,Ilmu Ekonomi,Bank BCA,Senior Staff Admin,2015
+UB0540,Fajar Yulianto,Teknologi Hasil Pertanian,Gojek,Senior Staff Operations,2016
+UB0541,Vina Darmawan,Administrasi Publik,PT Indocyber Global Teknologi,Engineer Marketing,2018
+UB0542,Bagas Anggara,Keuangan Perbankan,"PT Japfa Comfeed Indonesia, Tbk",Specialist Operations,2022
+UB0543,Dinda Utami,Agribisnis,"PT Bank Danamon Indonesia, Tbk",Specialist Sales,2019
+UB0544,Wahyu Widodo,Agribisnis,Tokopedia,Specialist Marketing,2015
+UB0545,Dimas Wulandari,Ilmu Ekonomi,Bank Mandiri,Officer Marketing,2017
+UB0546,Radit Maulana,Teknik Sipil,Shopee,Analyst Sales,2019
+UB0547,Rina Lestari,Pendidikan TI,Telkom Indonesia,Supervisor HR,2023
+UB0548,Gita Gunawan,Ilmu Ekonomi,Gojek,Specialist HR,2017
+UB0549,Arif Widodo,Keuangan Perbankan,PT Trinusa Travelindo,Analyst Finance,2022
+UB0550,Hana Qodir,Teknologi Informasi,PT Bank KEB Hana Indonesia,Junior DevOps,2017
+UB0551,Radit Kartika,Agribisnis,Gojek,Engineer Admin,2023
+UB0552,Budi Yudhoyono,Agribisnis,PT Indocyber Global Teknologi,Consultant Finance,2023
+UB0553,Gita Saputra,Teknik Industri,PT Sejahtera Abadi,Engineer Finance,2017
+UB0554,Indah Aminah,Ilmu Komunikasi,Shopee,Consultant HR,2017
+UB0555,Laras Budiman,Ilmu Ekonomi,Bank BCA,Specialist Marketing,2021
+UB0556,Gilang Darmawan,Teknologi Informasi,PT Handal Guna Sarana,Junior Data Scientist,2020
+UB0557,Lestari Setiawan,Keuangan Perbankan,PT Indocyber Global Teknologi,Analyst Operations,2022
+UB0558,Rizky Prasetyo,Teknik Informatika,"PT Bank Danamon Indonesia, Tbk",Lead Software Engineer,2019
+UB0559,Xena Hartono,Teknologi Hasil Pertanian,PHINTRACO GROUP,Officer Marketing,2015
+UB0560,Sarah Oktaviani,Manajemen,StartUp Gagal Bangkit,Supervisor HR,2017
+UB0561,Andi Puspa,Agroekoteknologi,Shopee,Junior Staff Sales,2021
+UB0562,Zahra Soekarno,Ilmu Ekonomi,"PT DCI Indonesia, Tbk",Specialist HR,2019
+UB0563,Gita Susanto,Hubungan Internasional,PT Kapal Api Global,Analyst Sales,2018
+UB0564,Joko Wijaya,Teknik Komputer,PT Bank KEB Hana Indonesia,Senior Software Engineer,2016
+UB0565,Bagas Prasetyo,Teknologi Hasil Pertanian,"PT Japfa Comfeed Indonesia, Tbk",Head of Department Admin,2015
+UB0566,Fajar Qodir,Ilmu Ekonomi,PT Sumber Rejeki,Analyst HR,2022
+UB0567,Lestari Vebrianto,Akuntansi,PT Handal Guna Sarana,Analyst Sales,2015
+UB0568,Nadia Wulandari,Teknik Sipil,Xiaomi Technology,Head of Department Sales,2021
+UB0569,Gilang Efendi,Teknik Komputer,"PT Japfa Comfeed Indonesia, Tbk",Junior Product Manager,2023
+UB0570,Dimas Utami,Sistem Informasi,CV Maju Mundur,Junior Data Scientist,2020
+UB0571,Andi Kurnia,Pendidikan TI,PT Indocyber Global Teknologi,Management Trainee Marketing,2023
+UB0572,Nadia Lestari,Psikologi,CV Maju Mundur,Head of Department Sales,2022
+UB0573,Gita Kusuma,Teknik Lingkungan,PT Mencari Cinta Sejati,Supervisor Finance,2022
+UB0574,Agus Yudhoyono,Hubungan Internasional,PT Penerbit Erlangga,Management Trainee Sales,2021
+UB0575,Chandra Efendi,Psikologi,Bank Mandiri,Senior Staff HR,2020
+UB0576,Indah Pratama,Administrasi Publik,"PT DCI Indonesia, Tbk",Junior Staff HR,2017
+UB0577,Dinda Nasution,Manajemen,CV Maju Mundur,Management Trainee Finance,2018
+UB0578,Zahra Santoso,Ilmu Hukum,PT Penerbit Erlangga,Engineer Admin,2016
+UB0579,Radit Zulkarnain,Teknik Komputer,PT CFU Technology Indonesia,Senior IT Support,2015
+UB0580,Bagas Utami,Keuangan Perbankan,Tokopedia,Supervisor Sales,2017
+UB0581,Hana Tanjung,Ilmu Komunikasi,PT Penerbit Erlangga,Junior Staff Sales,2015
+UB0582,Eko Nasution,Teknik Informatika,"PT Bank Danamon Indonesia, Tbk",Lead Product Manager,2015
+UB0583,Laras Oktaviani,Ilmu Hukum,PT Solusi Transportasi Indonesia,Senior Staff Finance,2015
+UB0584,Yoga Puspa,Teknologi Hasil Pertanian,PT Solusi Transportasi Indonesia,Officer Sales,2018
+UB0585,Sarah Oktaviani,Ilmu Komunikasi,Shopee,Analyst Operations,2021
+UB0586,Indah Laksana,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Analyst Marketing,2023
+UB0587,Pandu Laksana,Akuntansi,Bank Mandiri,Senior Staff Finance,2020
+UB0588,Nina Santoso,Teknik Lingkungan,PT Sumber Rejeki,Head of Department HR,2020
+UB0589,Dinda Cahyono,Teknik Industri,PT Kapal Api Global,Management Trainee Sales,2023
+UB0590,Rina Darmawan,Teknik Sipil,Xiaomi Technology,Supervisor Finance,2019
+UB0591,Kartika Wijaya,Teknik Mesin,PT Indocyber Global Teknologi,Head of Department HR,2016
+UB0592,Mahendra Baswedan,Teknik Mesin,PT Sumber Rejeki,Engineer Sales,2017
+UB0593,Sarah Saputra,Administrasi Publik,PT Indocyber Global Teknologi,Management Trainee HR,2021
+UB0594,Wahyu Wibowo,Hubungan Internasional,CV Maju Mundur,Head of Department Finance,2016
+UB0595,Bayu Yudhoyono,Teknik Lingkungan,StartUp Gagal Bangkit,Supervisor Admin,2015
+UB0596,Cahya Wijaya,Hubungan Internasional,Shopee,Supervisor Operations,2020
+UB0597,Dinda Cahyono,Teknik Informatika,PT Handal Guna Sarana,Lead Data Scientist,2020
+UB0598,Hadi Fauzi,Arsitektur,Shopee,Head of Department Operations,2017
+UB0599,Farhan Hidayat,Ilmu Hukum,PT Kapal Api Global,Officer Admin,2021
+UB0600,Pandu Santoso,Pendidikan TI,PT Bank KEB Hana Indonesia,Head of Department Finance,2018
+UB0601,Andi Nugroho,Teknik Sipil,Shopee,Engineer Admin,2021
+UB0602,Okta Oktaviani,Akuntansi,"PT DCI Indonesia, Tbk",Officer Sales,2022
+UB0603,Fajar Laksana,Pendidikan TI,"PT SMART,Tbk",Head of Department Operations,2023
+UB0604,Vina Fauzi,Ilmu Komunikasi,Shopee,Supervisor Admin,2016
+UB0605,Kevin Utama,Teknik Elektro,PT Sumber Rejeki,Consultant Finance,2020
+UB0606,Utomo Nugroho,Teknologi Informasi,PT Solusi Transportasi Indonesia,Lead Data Scientist,2023
+UB0607,Irfan Aminah,Manajemen,"PT DCI Indonesia, Tbk",Junior Staff HR,2021
+UB0608,Nina Aminah,Pendidikan TI,PT Sumber Rejeki,Head of Department Sales,2022
+UB0609,Gilang Permata,Ilmu Ekonomi,Shopee,Management Trainee Marketing,2016
+UB0610,Bayu Saputra,Administrasi Publik,PT. Bank KEB Hana Indonesia,Junior Staff Operations,2016
+UB0611,Kevin Gunawan,Arsitektur,PT Sejahtera Abadi,Engineer HR,2016
+UB0612,Dimas Pratama,Agroekoteknologi,"PT. Trimegah Sekuritas Indonesia, Tbk",Junior Staff Sales,2019
+UB0613,Kartika Tanjung,Agroekoteknologi,Shopee,Manager Marketing,2018
+UB0614,Wahyu Hidayat,Akuntansi,PT Bank KEB Hana Indonesia,Officer Marketing,2015
+UB0615,Hana Efendi,Teknik Sipil,Bank Mandiri,Officer HR,2021
+UB0616,Julia Zulkarnain,Teknik Sipil,PT Penerbit Erlangga,Manager Operations,2021
+UB0617,Dinda Kusumo,Psikologi,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant Admin,2023
+UB0618,Vina Vebrianto,Psikologi,Bank Mandiri,Head of Department Admin,2023
+UB0619,Citra Budiman,Teknik Informatika,"PT SMART,Tbk",Senior IT Support,2015
+UB0620,Laras Hartono,Ilmu Ekonomi,PT Penerbit Erlangga,Analyst Finance,2019
+UB0621,Zahra Nasution,Administrasi Publik,PT CFU Technology Indonesia,Consultant Marketing,2022
+UB0622,Tegar Nugroho,Teknik Elektro,PT Handal Guna Sarana,Analyst Finance,2018
+UB0623,Yoga Santoso,Hubungan Internasional,PT Tsubaki Indonesia Manufacturing,Management Trainee Admin,2016
+UB0624,Vina Kusumo,Teknik Mesin,"PT Japfa Comfeed Indonesia, Tbk",Specialist Operations,2023
+UB0625,Indah Rahmawati,Agroekoteknologi,PT Solusi Transportasi Indonesia,Supervisor Sales,2021
+UB0626,Dewi Pratama,Arsitektur,PT Tsubaki Indonesia Manufacturing,Manager HR,2018
+UB0627,Okta Susanto,Agribisnis,PT CFU Technology Indonesia,Junior Staff Admin,2021
+UB0628,Xena Baswedan,Teknik Mesin,CV Maju Mundur,Engineer Admin,2022
+UB0629,Dewi Puspa,Teknik Mesin,"PT DCI Indonesia, Tbk",Analyst Operations,2021
+UB0630,Aditya Nugroho,Pendidikan TI,"PT Japfa Comfeed Indonesia, Tbk",Management Trainee Sales,2017
+UB0631,Eko Kartika,Teknik Komputer,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead DevOps,2021
+UB0632,Nina Wulandari,Pendidikan TI,PT CFU Technology Indonesia,Analyst HR,2021
+UB0633,Bayu Nasution,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Senior Product Manager,2020
+UB0634,Budi Laksana,Teknologi Hasil Pertanian,JAPFA FOOD INDONESIA,Manager Finance,2018
+UB0635,Sarah Vebrianto,Teknik Lingkungan,"PT DCI Indonesia, Tbk",Specialist HR,2019
+UB0636,Okta Susanto,Teknologi Hasil Pertanian,Bank Mandiri,Head of Department Marketing,2019
+UB0637,Okta Hidayat,Sistem Informasi,Bank Mandiri,Junior Software Engineer,2022
+UB0638,Arif Santoso,Ilmu Komunikasi,JAPFA FOOD INDONESIA,Officer Sales,2015
+UB0639,Dewi Wibowo,Teknologi Informasi,PT Kapal Api Global,Junior Data Scientist,2023
+UB0640,Pandu Kurnia,Manajemen,"PT SMART,Tbk",Manager Operations,2022
+UB0641,Dinda Prasetyo,Manajemen,Bank Mandiri,Supervisor Marketing,2016
+UB0642,Wahyu Qodir,Manajemen,Bank Mandiri,Consultant Admin,2021
+UB0643,Aditya Aminah,Agroekoteknologi,Shopee,Manager Operations,2018
+UB0644,Kevin Firmansyah,Teknik Elektro,Shopee,Engineer Finance,2018
+UB0645,Citra Nugroho,Akuntansi,PT Penerbit Erlangga,Engineer Sales,2018
+UB0646,Gilang Qodir,Ilmu Ekonomi,Tokopedia,Consultant HR,2019
+UB0647,Wahyu Puspa,Administrasi Publik,PT Kapal Api Global,Analyst Admin,2017
+UB0648,Xena Pratama,Teknologi Informasi,"PT Bank Danamon Indonesia, Tbk",Junior Data Scientist,2023
+UB0649,Erlangga Wijaya,Psikologi,PT Kapal Api Global,Junior Staff Sales,2021
+UB0650,Hana Gunawan,Agribisnis,Shopee,Head of Department Sales,2021
+UB0651,Tegar Setiawan,Teknologi Hasil Pertanian,Tokopedia,Senior Staff Admin,2021
+UB0652,Dinda Susanto,Agroekoteknologi,Bank BCA,Analyst Sales,2017
+UB0653,Qori Permata,Agribisnis,Shopee,Specialist Sales,2015
+UB0654,Tegar Suharto,Ekonomi Islam,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior Staff Sales,2022
+UB0655,Dinda Aditama,Administrasi Publik,StartUp Gagal Bangkit,Manager Marketing,2022
+UB0656,Aditya Aditama,Hubungan Internasional,PT Tsubaki Indonesia Manufacturing,Supervisor Marketing,2015
+UB0657,Kevin Laksana,Teknologi Informasi,"PT SMART,Tbk",Lead Data Scientist,2017
+UB0658,Bagas Wibowo,Administrasi Publik,PT Indocyber Global Teknologi,Management Trainee Operations,2019
+UB0659,Eko Puspa,Manajemen,PT CFU Technology Indonesia,Consultant Finance,2018
+UB0660,Lestari Aditama,Teknik Industri,Shopee,Officer Operations,2015
+UB0661,Radit Nugroho,Teknik Sipil,PT. Bank KEB Hana Indonesia,Consultant Admin,2015
+UB0662,Okta Suharto,Agribisnis,StartUp Gagal Bangkit,Engineer Sales,2021
+UB0663,Nadia Oktaviani,Teknik Industri,Bank Mandiri,Senior Staff HR,2018
+UB0664,Joko Soekarno,Ekonomi Islam,PT MAS ARYA INDONESIA,Officer Operations,2017
+UB0665,Sarah Zulkarnain,Agroekoteknologi,Telkom Indonesia,Management Trainee Admin,2023
+UB0666,Okta Susanto,Sistem Informasi,PT Kapal Api Global,Lead Product Manager,2017
+UB0667,Wahyu Puspa,Teknik Elektro,Telkom Indonesia,Manager Operations,2016
+UB0668,Tegar Puspa,Teknik Sipil,PT Sumber Rejeki,Senior Staff Marketing,2021
+UB0669,Andi Tanjung,Manajemen,Shopee,Analyst Finance,2020
+UB0670,Pandu Soekarno,Ekonomi Islam,Xiaomi Technology,Supervisor HR,2018
+UB0671,Bella Zulkarnain,Pendidikan TI,"PT Japfa Comfeed Indonesia, Tbk",Manager Admin,2015
+UB0672,Lestari Rahmawati,Ekonomi Islam,PT CFU Technology Indonesia,Supervisor Marketing,2020
+UB0673,Agus Wulandari,Teknik Informatika,PHINTRACO GROUP,Senior Software Engineer,2022
+UB0674,Agus Siregar,Administrasi Publik,CV Maju Mundur,Junior Staff Finance,2015
+UB0675,Nina Kusuma,Teknik Sipil,PT MAS ARYA INDONESIA,Supervisor Operations,2022
+UB0676,Erlangga Aminah,Ilmu Komunikasi,Tokopedia,Manager Operations,2022
+UB0677,Qori Permata,Psikologi,PT Sumber Rejeki,Supervisor Finance,2018
+UB0678,Utomo Puspa,Hubungan Internasional,PT Handal Guna Sarana,Engineer Finance,2017
+UB0679,Fajar Fauzi,Ekonomi Islam,Telkom Indonesia,Senior Staff Finance,2020
+UB0680,Joko Utami,Administrasi Publik,PT MAS ARYA INDONESIA,Officer Admin,2021
+UB0681,Pandu Pratama,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Analyst Admin,2015
+UB0682,Joko Budiman,Akuntansi,PHINTRACO GROUP,Head of Department Sales,2017
+UB0683,Aditya Wijaya,Ilmu Ekonomi,PT Indocyber Global Teknologi,Management Trainee Sales,2023
+UB0684,Pandu Tanjung,Hubungan Internasional,"PT Japfa Comfeed Indonesia, Tbk",Supervisor Admin,2015
+UB0685,Kartika Pratama,Ilmu Komunikasi,"PT Bank Danamon Indonesia, Tbk",Analyst Admin,2020
+UB0686,Hadi Rahmawati,Manajemen,Telkom Indonesia,Specialist Marketing,2017
+UB0687,Wahyu Yudhoyono,Teknik Elektro,StartUp Gagal Bangkit,Consultant Marketing,2020
+UB0688,Chandra Siregar,Agroekoteknologi,"PT Japfa Comfeed Indonesia, Tbk",Consultant Operations,2015
+UB0689,Rizky Lestari,Teknik Elektro,PT. Bank KEB Hana Indonesia,Specialist Admin,2020
+UB0690,Citra Wulandari,Teknik Elektro,PT Sejahtera Abadi,Consultant Admin,2015
+UB0691,Yoga Budiman,Agroekoteknologi,PT Mencari Cinta Sejati,Engineer Marketing,2021
+UB0692,Vina Pangestu,Psikologi,JAPFA FOOD INDONESIA,Head of Department Admin,2023
+UB0693,Kevin Fauzi,Teknik Sipil,Xiaomi Technology,Officer HR,2016
+UB0694,Andi Wulandari,Manajemen,PT Sumber Rejeki,Engineer Finance,2020
+UB0695,Wahyu Lestari,Teknik Mesin,PT Sumber Rejeki,Management Trainee Marketing,2018
+UB0696,Erlangga Pangestu,Teknologi Informasi,PT Sumber Rejeki,Lead DevOps,2021
+UB0697,Farhan Wibowo,Teknik Sipil,Tokopedia,Specialist Marketing,2018
+UB0698,Hana Kusuma,Teknologi Informasi,PT MAS ARYA INDONESIA,Lead DevOps,2019
+UB0699,Agus Lestari,Keuangan Perbankan,JAPFA FOOD INDONESIA,Engineer Sales,2018
+UB0700,Arif Susanto,Teknik Lingkungan,Tokopedia,Management Trainee Marketing,2020
+UB0701,Rina Yudhoyono,Pendidikan TI,"PT. Trimegah Sekuritas Indonesia, Tbk",Supervisor Marketing,2021
+UB0702,Eko Irawan,Akuntansi,PT Mencari Cinta Sejati,Manager Marketing,2023
+UB0703,Utomo Zulkarnain,Teknik Lingkungan,PT Mencari Cinta Sejati,Engineer Finance,2020
+UB0704,Tegar Kusuma,Teknologi Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior IT Support,2018
+UB0705,Pandu Nasution,Teknik Mesin,StartUp Gagal Bangkit,Analyst Marketing,2016
+UB0706,Cahya Prasetyo,Ilmu Komunikasi,Tokopedia,Manager Finance,2022
+UB0707,Rina Susanto,Ilmu Hukum,Shopee,Analyst Operations,2018
+UB0708,Arif Utami,Teknologi Informasi,"PT DCI Indonesia, Tbk",Junior Software Engineer,2023
+UB0709,Gita Prasetyo,Teknik Sipil,Telkom Indonesia,Analyst Finance,2020
+UB0710,Laras Kartika,Teknologi Informasi,"PT DCI Indonesia, Tbk",Senior DevOps,2018
+UB0711,Wahyu Nasution,Teknologi Informasi,PT MAS ARYA INDONESIA,Senior DevOps,2020
+UB0712,Arif Maulana,Teknologi Hasil Pertanian,Gojek,Manager Finance,2018
+UB0713,Arif Oktaviani,Ekonomi Islam,PT. Bank KEB Hana Indonesia,Consultant Admin,2019
+UB0714,Andi Laksana,Keuangan Perbankan,JAPFA FOOD INDONESIA,Analyst HR,2016
+UB0715,Utomo Setiawan,Agribisnis,"PT Japfa Comfeed Indonesia, Tbk",Consultant HR,2017
+UB0716,Erlangga Irawan,Hubungan Internasional,PT Penerbit Erlangga,Specialist Operations,2019
+UB0717,Desi Utama,Keuangan Perbankan,"PT Japfa Comfeed Indonesia, Tbk",Specialist Operations,2021
+UB0718,Andi Darmawan,Teknik Sipil,PT Bank KEB Hana Indonesia,Specialist Operations,2017
+UB0719,Xena Suharto,Teknologi Informasi,Shopee,Senior Data Scientist,2017
+UB0720,Nina Nasution,Ilmu Hukum,"PT Japfa Comfeed Indonesia, Tbk",Engineer Marketing,2021
+UB0721,Hadi Suharto,Agribisnis,PT. Bank KEB Hana Indonesia,Manager Finance,2022
+UB0722,Tegar Kurnia,Ekonomi Islam,PT CFU Technology Indonesia,Supervisor Finance,2017
+UB0723,Nina Aditama,Administrasi Publik,Bank Mandiri,Management Trainee Admin,2023
+UB0724,Mahendra Efendi,Manajemen,PT Mencari Cinta Sejati,Management Trainee Marketing,2022
+UB0725,Gilang Aditama,Teknik Lingkungan,PT Mencari Cinta Sejati,Consultant HR,2016
+UB0726,Sarah Permata,Teknik Sipil,PT Mencari Cinta Sejati,Officer Operations,2019
+UB0727,Yoga Siregar,Teknik Industri,Tokopedia,Specialist Marketing,2019
+UB0728,Yoga Santoso,Teknik Industri,PT Mencari Cinta Sejati,Officer Sales,2017
+UB0729,Yoga Permata,Teknik Elektro,PT Mencari Cinta Sejati,Supervisor Operations,2022
+UB0730,Fajar Oktaviani,Teknik Industri,PT Trinusa Travelindo,Supervisor Admin,2022
+UB0731,Chandra Puspa,Teknologi Hasil Pertanian,"PT DCI Indonesia, Tbk",Management Trainee Operations,2015
+UB0732,Rina Wulandari,Keuangan Perbankan,PHINTRACO GROUP,Specialist Admin,2018
+UB0733,Qori Suharto,Agribisnis,PT Sumber Rejeki,Management Trainee Admin,2019
+UB0734,Julia Qodir,Teknik Informatika,Shopee,Junior Product Manager,2017
+UB0735,Agus Fauzi,Teknik Komputer,PT Sejahtera Abadi,Junior Product Manager,2019
+UB0736,Bayu Yudhoyono,Administrasi Publik,PT Mencari Cinta Sejati,Manager Finance,2021
+UB0737,Dimas Hidayat,Arsitektur,"PT Bank Danamon Indonesia, Tbk",Engineer Sales,2021
+UB0738,Nadia Pangestu,Agribisnis,CV Maju Mundur,Specialist Sales,2019
+UB0739,Siti Lestari,Teknik Komputer,Bank Mandiri,Senior IT Support,2018
+UB0740,Radit Qodir,Administrasi Publik,PT Tsubaki Indonesia Manufacturing,Consultant Admin,2019
+UB0741,Putri Baswedan,Administrasi Publik,StartUp Gagal Bangkit,Officer Finance,2020
+UB0742,Pandu Santoso,Teknik Sipil,PT CFU Technology Indonesia,Officer Admin,2022
+UB0743,Tegar Setiawan,Psikologi,"PT DCI Indonesia, Tbk",Officer Marketing,2022
+UB0744,Farhan Wibowo,Agroekoteknologi,StartUp Gagal Bangkit,Supervisor Operations,2020
+UB0745,Desi Utama,Ilmu Ekonomi,PT MAS ARYA INDONESIA,Analyst Sales,2016
+UB0746,Arif Maulana,Ilmu Komunikasi,PT Trinusa Travelindo,Senior Staff Marketing,2018
+UB0747,Okta Jaya,Teknologi Informasi,Gojek,Senior IT Support,2017
+UB0748,Gilang Kusumo,Keuangan Perbankan,PT Handal Guna Sarana,Specialist Admin,2017
+UB0749,Arif Setiawan,Akuntansi,"PT DCI Indonesia, Tbk",Manager Finance,2017
+UB0750,Okta Santoso,Agroekoteknologi,Xiaomi Technology,Supervisor Admin,2020
+UB0751,Andi Irawan,Manajemen,Tokopedia,Supervisor Admin,2019
+UB0752,Citra Qodir,Sistem Informasi,PT Handal Guna Sarana,Junior DevOps,2020
+UB0753,Hana Maulana,Administrasi Publik,Xiaomi Technology,Specialist Sales,2018
+UB0754,Cahya Suharto,Ilmu Hukum,PT Bank KEB Hana Indonesia,Manager Marketing,2018
+UB0755,Lestari Kusumo,Sistem Informasi,Shopee,Junior IT Support,2021
+UB0756,Gilang Prasetyo,Manajemen,PT Handal Guna Sarana,Manager Sales,2021
+UB0757,Aditya Cahyono,Ilmu Ekonomi,PT Kapal Api Global,Supervisor Admin,2022
+UB0758,Nina Efendi,Teknik Elektro,PT. Bank KEB Hana Indonesia,Analyst Operations,2020
+UB0759,Dewi Utama,Teknik Elektro,PT Penerbit Erlangga,Management Trainee Admin,2023
+UB0760,Kevin Siregar,Agribisnis,PT Tsubaki Indonesia Manufacturing,Officer HR,2017
+UB0761,Aditya Lestari,Teknologi Hasil Pertanian,"PT DCI Indonesia, Tbk",Manager Sales,2019
+UB0762,Tegar Laksana,Teknik Mesin,PT Mencari Cinta Sejati,Senior Staff Admin,2016
+UB0763,Sarah Hidayat,Ilmu Komunikasi,PT Sumber Rejeki,Engineer Marketing,2022
+UB0764,Radit Santoso,Teknik Elektro,PT Indocyber Global Teknologi,Junior Staff Operations,2015
+UB0765,Kevin Oktaviani,Teknologi Informasi,PT Solusi Transportasi Indonesia,Senior Product Manager,2019
+UB0766,Aditya Lestari,Teknik Mesin,PT Sumber Rejeki,Supervisor Finance,2023
+UB0767,Citra Maulana,Administrasi Publik,"PT. Trimegah Sekuritas Indonesia, Tbk",Specialist Operations,2021
+UB0768,Bagas Laksana,Agribisnis,PT Kapal Api Global,Supervisor Admin,2022
+UB0769,Rizky Suharto,Teknik Industri,PT Kapal Api Global,Specialist HR,2019
+UB0770,Tegar Hartono,Teknik Lingkungan,Bank BCA,Manager Marketing,2016
+UB0771,Aditya Maulana,Sistem Informasi,PT CFU Technology Indonesia,Senior Data Scientist,2023
+UB0772,Siti Firmansyah,Ilmu Ekonomi,Xiaomi Technology,Supervisor Marketing,2021
+UB0773,Okta Hidayat,Teknik Lingkungan,PT Handal Guna Sarana,Specialist Operations,2021
+UB0774,Lestari Cahyono,Ilmu Komunikasi,PT CFU Technology Indonesia,Management Trainee Operations,2019
+UB0775,Julia Wibowo,Akuntansi,PT Bank KEB Hana Indonesia,Specialist Finance,2020
+UB0776,Indah Saputra,Administrasi Publik,"PT DCI Indonesia, Tbk",Officer Admin,2017
+UB0777,Radit Saputra,Teknologi Hasil Pertanian,Shopee,Head of Department Sales,2020
+UB0778,Erlangga Jaya,Administrasi Publik,CV Maju Mundur,Supervisor Sales,2020
+UB0779,Tegar Susanto,Teknologi Hasil Pertanian,PT Trinusa Travelindo,Supervisor Sales,2017
+UB0780,Gita Suharto,Teknik Elektro,PT Penerbit Erlangga,Manager Admin,2019
+UB0781,Lestari Nugroho,Keuangan Perbankan,Shopee,Management Trainee Admin,2023
+UB0782,Gita Santoso,Agribisnis,Bank Mandiri,Officer HR,2018
+UB0783,Kartika Pratama,Teknologi Hasil Pertanian,PT Penerbit Erlangga,Specialist Sales,2021
+UB0784,Dinda Gunawan,Teknik Informatika,Telkom Indonesia,Lead Software Engineer,2016
+UB0785,Fajar Gunawan,Manajemen,CV Maju Mundur,Analyst Marketing,2018
+UB0786,Agus Puspa,Ilmu Komunikasi,PT Mencari Cinta Sejati,Officer HR,2019
+UB0787,Joko Permata,Ilmu Ekonomi,PT Sejahtera Abadi,Officer Operations,2017
+UB0788,Julia Santoso,Teknik Sipil,"PT Japfa Comfeed Indonesia, Tbk",Officer Marketing,2023
+UB0789,Joko Jaya,Administrasi Publik,"PT DCI Indonesia, Tbk",Management Trainee HR,2016
+UB0790,Qori Hidayat,Sistem Informasi,PT Sejahtera Abadi,Lead Product Manager,2017
+UB0791,Arif Laksana,Arsitektur,PT CFU Technology Indonesia,Head of Department HR,2022
+UB0792,Yoga Santoso,Pendidikan TI,PT Sumber Rejeki,Senior Staff Marketing,2020
+UB0793,Zahra Cahyono,Sistem Informasi,"PT Bank Danamon Indonesia, Tbk",Senior DevOps,2021
+UB0794,Kevin Siregar,Psikologi,PT Penerbit Erlangga,Specialist HR,2020
+UB0795,Utomo Firmansyah,Ilmu Hukum,PT Kapal Api Global,Management Trainee Marketing,2016
+UB0796,Putri Wibowo,Teknik Informatika,Telkom Indonesia,Senior Data Scientist,2015
+UB0797,Farhan Kusuma,Teknologi Informasi,PT Indocyber Global Teknologi,Senior Data Scientist,2023
+UB0798,Lestari Santoso,Administrasi Publik,PT Solusi Transportasi Indonesia,Head of Department Sales,2015
+UB0799,Farhan Anggara,Psikologi,PT Sejahtera Abadi,Senior Staff Sales,2022
+UB0800,Siti Yudhoyono,Teknik Komputer,PT. Bank KEB Hana Indonesia,Lead Product Manager,2022
+UB0801,Farhan Nugroho,Manajemen,Xiaomi Technology,Engineer Marketing,2016
+UB0802,Kevin Irawan,Teknik Sipil,Shopee,Manager HR,2018
+UB0803,Dinda Hartono,Pendidikan TI,Telkom Indonesia,Junior Staff HR,2019
+UB0804,Hadi Tanjung,Agribisnis,PHINTRACO GROUP,Management Trainee Admin,2017
+UB0805,Tegar Vebrianto,Ilmu Ekonomi,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Admin,2023
+UB0806,Indah Anggara,Arsitektur,Bank Mandiri,Analyst Admin,2017
+UB0807,Aditya Hidayat,Ilmu Komunikasi,PT Sejahtera Abadi,Management Trainee HR,2020
+UB0808,Laras Rahmawati,Teknik Informatika,Shopee,Senior IT Support,2017
+UB0809,Cahya Cahyono,Agribisnis,PT Solusi Transportasi Indonesia,Officer Sales,2018
+UB0810,Yoga Irawan,Ilmu Komunikasi,PT Penerbit Erlangga,Junior Staff Operations,2016
+UB0811,Tegar Kartika,Teknik Informatika,PT Mencari Cinta Sejati,Senior Software Engineer,2021
+UB0812,Wahyu Permata,Agroekoteknologi,PT CFU Technology Indonesia,Junior Staff Finance,2020
+UB0813,Arif Nugroho,Keuangan Perbankan,JAPFA FOOD INDONESIA,Junior Staff Finance,2016
+UB0814,Erlangga Tanjung,Hubungan Internasional,"PT DCI Indonesia, Tbk",Supervisor Operations,2023
+UB0815,Joko Aditama,Agribisnis,PT Sejahtera Abadi,Management Trainee Marketing,2017
+UB0816,Pandu Cahyono,Teknologi Hasil Pertanian,"PT Bank Danamon Indonesia, Tbk",Consultant Sales,2015
+UB0817,Nadia Suharto,Administrasi Publik,Xiaomi Technology,Head of Department Operations,2021
+UB0818,Julia Irawan,Teknik Informatika,PT Sumber Rejeki,Junior IT Support,2017
+UB0819,Kevin Yulianto,Sistem Informasi,"PT Bank Danamon Indonesia, Tbk",Junior Product Manager,2015
+UB0820,Eko Pratama,Teknik Informatika,PT Trinusa Travelindo,Senior Product Manager,2015
+UB0821,Radit Setiawan,Manajemen,Telkom Indonesia,Officer HR,2017
+UB0822,Agus Irawan,Teknik Lingkungan,"PT Bank Danamon Indonesia, Tbk",Manager Admin,2017
+UB0823,Radit Setiawan,Teknik Komputer,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior IT Support,2015
+UB0824,Kevin Siregar,Teknologi Informasi,PT MAS ARYA INDONESIA,Senior DevOps,2017
+UB0825,Nina Prasetyo,Teknik Komputer,PHINTRACO GROUP,Junior Product Manager,2021
+UB0826,Eko Budiman,Teknologi Hasil Pertanian,PHINTRACO GROUP,Junior Staff Finance,2023
+UB0827,Erlangga Rahmawati,Manajemen,PT Solusi Transportasi Indonesia,Head of Department Operations,2022
+UB0828,Mahendra Lestari,Hubungan Internasional,Shopee,Consultant Operations,2017
+UB0829,Andi Hartono,Ilmu Hukum,PT Kapal Api Global,Engineer Admin,2022
+UB0830,Kartika Baswedan,Administrasi Publik,PT Handal Guna Sarana,Engineer Finance,2015
+UB0831,Citra Fauzi,Teknik Lingkungan,JAPFA FOOD INDONESIA,Senior Staff Operations,2018
+UB0832,Tegar Gunawan,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Specialist Finance,2019
+UB0833,Desi Utama,Teknik Industri,PT Trinusa Travelindo,Analyst Sales,2017
+UB0834,Lestari Nugroho,Hubungan Internasional,"PT Bank Danamon Indonesia, Tbk",Analyst Sales,2019
+UB0835,Mahendra Zulkarnain,Sistem Informasi,PT Trinusa Travelindo,Senior Software Engineer,2021
+UB0836,Radit Budiman,Teknik Sipil,"PT DCI Indonesia, Tbk",Analyst Sales,2020
+UB0837,Desi Susanto,Teknik Sipil,"PT Bank Danamon Indonesia, Tbk",Officer HR,2015
+UB0838,Vina Pangestu,Teknik Mesin,Tokopedia,Supervisor Operations,2021
+UB0839,Pandu Utama,Ilmu Komunikasi,PHINTRACO GROUP,Officer Admin,2022
+UB0840,Erlangga Tanjung,Teknik Informatika,PT Kapal Api Global,Senior Software Engineer,2021
+UB0841,Nina Wijaya,Pendidikan TI,Shopee,Supervisor Sales,2019
+UB0842,Arif Qodir,Teknik Industri,PT Indocyber Global Teknologi,Officer Admin,2019
+UB0843,Indah Zulkarnain,Teknik Informatika,PT CFU Technology Indonesia,Junior Product Manager,2020
+UB0844,Hadi Hidayat,Teknik Informatika,PT Kapal Api Global,Lead Data Scientist,2018
+UB0845,Rina Vebrianto,Hubungan Internasional,JAPFA FOOD INDONESIA,Senior Staff Operations,2017
+UB0846,Farhan Aminah,Administrasi Publik,StartUp Gagal Bangkit,Senior Staff Admin,2017
+UB0847,Julia Laksana,Teknik Lingkungan,Gojek,Senior Staff Sales,2023
+UB0848,Desi Maulana,Manajemen,"PT DCI Indonesia, Tbk",Junior Staff HR,2022
+UB0849,Wahyu Aminah,Ekonomi Islam,Gojek,Officer Admin,2015
+UB0850,Chandra Kurnia,Teknik Industri,Shopee,Officer HR,2023
+UB0851,Bella Wulandari,Teknik Informatika,PT Sumber Rejeki,Lead IT Support,2023
+UB0852,Dimas Kurnia,Akuntansi,PT CFU Technology Indonesia,Specialist Marketing,2021
+UB0853,Chandra Yudhoyono,Teknologi Informasi,StartUp Gagal Bangkit,Senior Data Scientist,2019
+UB0854,Irfan Nasution,Administrasi Publik,PT CFU Technology Indonesia,Head of Department Sales,2016
+UB0855,Joko Suharto,Ekonomi Islam,PT Penerbit Erlangga,Head of Department HR,2015
+UB0856,Zahra Jaya,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Junior Product Manager,2020
+UB0857,Radit Setiawan,Pendidikan TI,PT Mencari Cinta Sejati,Management Trainee HR,2023
+UB0858,Fajar Kurnia,Psikologi,PT Handal Guna Sarana,Analyst HR,2021
+UB0859,Dinda Yudhoyono,Manajemen,"PT Japfa Comfeed Indonesia, Tbk",Senior Staff HR,2018
+UB0860,Rina Setiawan,Teknik Industri,"PT SMART,Tbk",Consultant Marketing,2020
+UB0861,Utomo Saputra,Hubungan Internasional,Bank Mandiri,Management Trainee HR,2021
+UB0862,Gita Baswedan,Manajemen,PT Indocyber Global Teknologi,Engineer Marketing,2021
+UB0863,Irfan Firmansyah,Teknik Mesin,PT Solusi Transportasi Indonesia,Management Trainee Marketing,2015
+UB0864,Agus Wulandari,Administrasi Publik,PT Penerbit Erlangga,Supervisor Operations,2015
+UB0865,Bagas Soekarno,Keuangan Perbankan,"PT SMART,Tbk",Officer Marketing,2019
+UB0866,Okta Firmansyah,Agribisnis,"PT DCI Indonesia, Tbk",Senior Staff HR,2017
+UB0867,Putri Tanjung,Teknik Informatika,StartUp Gagal Bangkit,Lead Data Scientist,2017
+UB0868,Okta Laksana,Psikologi,Xiaomi Technology,Management Trainee Finance,2023
+UB0869,Tegar Nasution,Teknik Mesin,StartUp Gagal Bangkit,Head of Department Marketing,2020
+UB0870,Citra Vebrianto,Hubungan Internasional,"PT DCI Indonesia, Tbk",Manager Marketing,2022
+UB0871,Kartika Anggara,Arsitektur,Gojek,Manager HR,2022
+UB0872,Hana Aditama,Agroekoteknologi,Bank BCA,Engineer HR,2021
+UB0873,Xena Darmawan,Ilmu Ekonomi,Tokopedia,Senior Staff Admin,2022
+UB0874,Kartika Jaya,Teknologi Informasi,PT Solusi Transportasi Indonesia,Lead Product Manager,2023
+UB0875,Irfan Aminah,Arsitektur,"PT SMART,Tbk",Engineer Admin,2022
+UB0876,Dinda Irawan,Hubungan Internasional,StartUp Gagal Bangkit,Engineer HR,2022
+UB0877,Dinda Zulkarnain,Teknik Sipil,Bank BCA,Head of Department HR,2018
+UB0878,Qori Vebrianto,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Head of Department HR,2023
+UB0879,Mahendra Nasution,Agroekoteknologi,PHINTRACO GROUP,Analyst Sales,2018
+UB0880,Gita Rahmawati,Keuangan Perbankan,PT Solusi Transportasi Indonesia,Management Trainee Operations,2021
+UB0881,Nina Jaya,Teknologi Informasi,PHINTRACO GROUP,Senior DevOps,2016
+UB0882,Tegar Budiman,Administrasi Publik,PT CFU Technology Indonesia,Supervisor HR,2022
+UB0883,Wahyu Suharto,Teknik Mesin,PT Sumber Rejeki,Engineer Sales,2016
+UB0884,Yoga Wibowo,Ilmu Hukum,PT Sumber Rejeki,Engineer Finance,2018
+UB0885,Tegar Jaya,Teknik Komputer,PT Handal Guna Sarana,Junior DevOps,2015
+UB0886,Pandu Darmawan,Agroekoteknologi,Gojek,Management Trainee Sales,2016
+UB0887,Laras Wijaya,Ilmu Hukum,PT Bank KEB Hana Indonesia,Consultant Admin,2016
+UB0888,Arif Nugroho,Teknik Lingkungan,PT CFU Technology Indonesia,Supervisor Admin,2023
+UB0889,Dewi Susanto,Teknik Informatika,CV Maju Mundur,Senior Data Scientist,2020
+UB0890,Okta Budiman,Agribisnis,"PT DCI Indonesia, Tbk",Supervisor Marketing,2019
+UB0891,Rizky Kurnia,Teknik Informatika,PT Tsubaki Indonesia Manufacturing,Lead Data Scientist,2018
+UB0892,Joko Susanto,Hubungan Internasional,PT Sumber Rejeki,Senior Staff Admin,2018
+UB0893,Kartika Pangestu,Ilmu Ekonomi,Bank Mandiri,Manager Admin,2019
+UB0894,Aditya Baswedan,Ekonomi Islam,"PT DCI Indonesia, Tbk",Head of Department Finance,2015
+UB0895,Dinda Saputra,Teknik Elektro,Bank Mandiri,Consultant HR,2021
+UB0896,Gilang Yudhoyono,Teknik Informatika,PT Indocyber Global Teknologi,Senior DevOps,2016
+UB0897,Okta Budiman,Teknik Informatika,PT. Bank KEB Hana Indonesia,Senior IT Support,2021
+UB0898,Dewi Kusumo,Teknik Komputer,PT Kapal Api Global,Senior Data Scientist,2018
+UB0899,Irfan Oktaviani,Ekonomi Islam,"PT Japfa Comfeed Indonesia, Tbk",Senior Staff Admin,2022
+UB0900,Eko Utami,Arsitektur,PT CFU Technology Indonesia,Consultant HR,2019
+UB0901,Fajar Utama,Teknik Elektro,"PT SMART,Tbk",Specialist Operations,2017
+UB0902,Eko Utami,Akuntansi,PT Kapal Api Global,Analyst Marketing,2016
+UB0903,Julia Kusuma,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Senior IT Support,2016
+UB0904,Rizky Widodo,Administrasi Publik,"PT Bank Danamon Indonesia, Tbk",Specialist Sales,2018
+UB0905,Tegar Susanto,Teknologi Informasi,Gojek,Junior Data Scientist,2015
+UB0906,Agus Irawan,Agribisnis,PT Sejahtera Abadi,Senior Staff Operations,2017
+UB0907,Bagas Wulandari,Agribisnis,PT Sumber Rejeki,Officer Marketing,2017
+UB0908,Wahyu Rahmawati,Teknik Mesin,PT Trinusa Travelindo,Head of Department HR,2017
+UB0909,Wahyu Gunawan,Ilmu Hukum,Telkom Indonesia,Officer HR,2015
+UB0910,Laras Setiawan,Hubungan Internasional,PT MAS ARYA INDONESIA,Officer Admin,2021
+UB0911,Qori Zulkarnain,Administrasi Publik,Bank Mandiri,Consultant Marketing,2023
+UB0912,Andi Aditama,Pendidikan TI,PT. Bank KEB Hana Indonesia,Senior Staff Marketing,2016
+UB0913,Cahya Rahmawati,Hubungan Internasional,Gojek,Analyst Admin,2015
+UB0914,Farhan Anggara,Teknik Sipil,JAPFA FOOD INDONESIA,Consultant Sales,2017
+UB0915,Radit Kusuma,Teknologi Hasil Pertanian,Tokopedia,Officer HR,2022
+UB0916,Farhan Budiman,Teknik Informatika,CV Maju Mundur,Lead IT Support,2019
+UB0917,Cahya Oktaviani,Pendidikan TI,"PT Bank Danamon Indonesia, Tbk",Engineer Finance,2023
+UB0918,Erlangga Tanjung,Ilmu Ekonomi,StartUp Gagal Bangkit,Analyst Sales,2019
+UB0919,Agus Kusumo,Ilmu Komunikasi,PT CFU Technology Indonesia,Specialist Operations,2017
+UB0920,Bella Anggara,Agroekoteknologi,PT Trinusa Travelindo,Analyst Operations,2023
+UB0921,Citra Firmansyah,Keuangan Perbankan,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Operations,2023
+UB0922,Gilang Suharto,Teknologi Informasi,PT Penerbit Erlangga,Lead Software Engineer,2016
+UB0923,Yoga Aditama,Teknik Industri,PT Indocyber Global Teknologi,Supervisor Sales,2017
+UB0924,Citra Zulkarnain,Teknik Komputer,Xiaomi Technology,Senior Data Scientist,2016
+UB0925,Nina Utami,Teknik Lingkungan,Tokopedia,Officer Marketing,2016
+UB0926,Fajar Yudhoyono,Arsitektur,PT Sejahtera Abadi,Head of Department HR,2015
+UB0927,Zahra Aditama,Arsitektur,Gojek,Supervisor Finance,2016
+UB0928,Fajar Prasetyo,Ekonomi Islam,PHINTRACO GROUP,Senior Staff Admin,2021
+UB0929,Nina Saputra,Administrasi Publik,JAPFA FOOD INDONESIA,Senior Staff Sales,2021
+UB0930,Zahra Fauzi,Teknik Sipil,Bank BCA,Officer HR,2021
+UB0931,Agus Laksana,Teknologi Informasi,Tokopedia,Senior Software Engineer,2019
+UB0932,Radit Vebrianto,Teknik Sipil,"PT DCI Indonesia, Tbk",Head of Department Marketing,2022
+UB0933,Qori Yudhoyono,Ilmu Ekonomi,"PT SMART,Tbk",Analyst Operations,2022
+UB0934,Nadia Fauzi,Psikologi,PT Tsubaki Indonesia Manufacturing,Senior Staff HR,2018
+UB0935,Okta Santoso,Manajemen,PT. Bank KEB Hana Indonesia,Manager Marketing,2018
+UB0936,Cahya Darmawan,Teknik Informatika,PT Sumber Rejeki,Senior DevOps,2020
+UB0937,Budi Pratama,Hubungan Internasional,"PT SMART,Tbk",Engineer HR,2017
+UB0938,Budi Santoso,Teknologi Hasil Pertanian,PT Sumber Rejeki,Manager Sales,2016
+UB0939,Kevin Laksana,Pendidikan TI,PT. Bank KEB Hana Indonesia,Consultant Finance,2023
+UB0940,Agus Aminah,Ilmu Hukum,PT Handal Guna Sarana,Management Trainee Sales,2015
+UB0941,Joko Wulandari,Teknologi Hasil Pertanian,CV Maju Mundur,Specialist HR,2020
+UB0942,Arif Budiman,Teknik Komputer,"PT Japfa Comfeed Indonesia, Tbk",Junior Software Engineer,2022
+UB0943,Okta Anggara,Keuangan Perbankan,PT CFU Technology Indonesia,Engineer Finance,2022
+UB0944,Budi Suharto,Teknik Komputer,Xiaomi Technology,Senior DevOps,2017
+UB0945,Tegar Lestari,Hubungan Internasional,Bank BCA,Head of Department HR,2021
+UB0946,Agus Yudhoyono,Sistem Informasi,Shopee,Lead Software Engineer,2019
+UB0947,Erlangga Pangestu,Teknik Lingkungan,Tokopedia,Analyst HR,2017
+UB0948,Hadi Pangestu,Teknologi Informasi,Telkom Indonesia,Lead Software Engineer,2022
+UB0949,Mahendra Laksana,Ilmu Hukum,PT Handal Guna Sarana,Engineer Finance,2018
+UB0950,Putri Wijaya,Teknik Sipil,CV Maju Mundur,Analyst HR,2015
+UB0951,Joko Yudhoyono,Keuangan Perbankan,PHINTRACO GROUP,Analyst Sales,2015
+UB0952,Hana Hidayat,Ilmu Komunikasi,Telkom Indonesia,Manager Finance,2017
+UB0953,Xena Aditama,Teknik Komputer,"PT Bank Danamon Indonesia, Tbk",Lead DevOps,2019
+UB0954,Vina Gunawan,Teknik Elektro,CV Maju Mundur,Specialist Sales,2017
+UB0955,Farhan Widodo,Pendidikan TI,PT Solusi Transportasi Indonesia,Senior Staff Marketing,2020
+UB0956,Utomo Baswedan,Teknik Sipil,Tokopedia,Consultant HR,2021
+UB0957,Siti Kusumo,Teknik Informatika,PT MAS ARYA INDONESIA,Senior Product Manager,2016
+UB0958,Laras Kusumo,Pendidikan TI,StartUp Gagal Bangkit,Supervisor Finance,2016
+UB0959,Budi Utama,Arsitektur,PT Mencari Cinta Sejati,Junior Staff Marketing,2020
+UB0960,Cahya Zulkarnain,Sistem Informasi,PT Bank KEB Hana Indonesia,Lead Product Manager,2021
+UB0961,Joko Kartika,Pendidikan TI,PT Mencari Cinta Sejati,Senior Staff HR,2015
+UB0962,Hadi Wibowo,Administrasi Publik,PT Penerbit Erlangga,Senior Staff Sales,2022
+UB0963,Nina Maulana,Sistem Informasi,PT Indocyber Global Teknologi,Lead Software Engineer,2015
+UB0964,Utomo Yudhoyono,Agribisnis,Gojek,Senior Staff Sales,2023
+UB0965,Desi Utama,Hubungan Internasional,PT MAS ARYA INDONESIA,Specialist Admin,2018
+UB0966,Laras Pratama,Teknik Komputer,CV Maju Mundur,Senior IT Support,2019
+UB0967,Bayu Fauzi,Keuangan Perbankan,"PT Bank Danamon Indonesia, Tbk",Manager Marketing,2018
+UB0968,Budi Wulandari,Agroekoteknologi,JAPFA FOOD INDONESIA,Senior Staff Sales,2021
+UB0969,Laras Kusuma,Ilmu Komunikasi,PT Trinusa Travelindo,Analyst Sales,2015
+UB0970,Radit Anggara,Keuangan Perbankan,Telkom Indonesia,Analyst Finance,2022
+UB0971,Farhan Zulkarnain,Teknik Sipil,"PT SMART,Tbk",Engineer Sales,2017
+UB0972,Citra Nasution,Teknik Elektro,PT Solusi Transportasi Indonesia,Specialist Operations,2021
+UB0973,Chandra Pangestu,Teknologi Hasil Pertanian,PT Sumber Rejeki,Manager Marketing,2019
+UB0974,Dimas Firmansyah,Ilmu Ekonomi,PT Solusi Transportasi Indonesia,Specialist Operations,2020
+UB0975,Dinda Siregar,Teknik Industri,PT Sejahtera Abadi,Consultant Finance,2021
+UB0976,Gilang Hartono,Agroekoteknologi,Telkom Indonesia,Engineer Finance,2019
+UB0977,Putri Jaya,Administrasi Publik,PT MAS ARYA INDONESIA,Engineer Operations,2018
+UB0978,Andi Lestari,Agroekoteknologi,PT. Bank KEB Hana Indonesia,Analyst HR,2022
+UB0979,Nina Yudhoyono,Agroekoteknologi,PT Tsubaki Indonesia Manufacturing,Senior Staff HR,2018
+UB0980,Indah Suharto,Teknik Komputer,Gojek,Junior Data Scientist,2019
+UB0981,Radit Pangestu,Teknologi Hasil Pertanian,PHINTRACO GROUP,Senior Staff HR,2016
+UB0982,Arif Kurnia,Sistem Informasi,PT. Bank KEB Hana Indonesia,Lead Data Scientist,2019
+UB0983,Joko Kartika,Teknologi Informasi,Bank Mandiri,Junior Product Manager,2022
+UB0984,Indah Nasution,Psikologi,"PT DCI Indonesia, Tbk",Manager HR,2020
+UB0985,Erlangga Firmansyah,Agroekoteknologi,PT Sejahtera Abadi,Supervisor HR,2023
+UB0986,Agus Permata,Teknik Sipil,PT Handal Guna Sarana,Management Trainee Marketing,2018
+UB0987,Gilang Utama,Akuntansi,Bank Mandiri,Senior Staff Marketing,2022
+UB0988,Gita Jaya,Teknik Industri,Xiaomi Technology,Analyst Finance,2019
+UB0989,Zahra Suharto,Agribisnis,PT Penerbit Erlangga,Management Trainee Finance,2021
+UB0990,Vina Utami,Teknik Lingkungan,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst HR,2019
+UB0991,Kartika Tanjung,Teknik Mesin,Gojek,Consultant Operations,2017
+UB0992,Lestari Hartono,Keuangan Perbankan,PT Bank KEB Hana Indonesia,Manager Finance,2017
+UB0993,Budi Maulana,Hubungan Internasional,Telkom Indonesia,Head of Department Marketing,2020
+UB0994,Gita Irawan,Manajemen,Bank BCA,Junior Staff HR,2022
+UB0995,Erlangga Zulkarnain,Teknologi Hasil Pertanian,Telkom Indonesia,Manager Sales,2023
+UB0996,Mahendra Wulandari,Teknik Lingkungan,CV Maju Mundur,Officer HR,2020
+UB0997,Mahendra Nugroho,Teknologi Hasil Pertanian,PT Bank KEB Hana Indonesia,Junior Staff Admin,2021
+UB0998,Irfan Kusuma,Teknik Informatika,Bank Mandiri,Junior Software Engineer,2015
+UB0999,Irfan Nasution,Teknik Komputer,PT Solusi Transportasi Indonesia,Lead IT Support,2019
+UB1000,Arif Hidayat,Ilmu Ekonomi,"PT SMART,Tbk",Senior Staff Operations,2021
+UB1001,Qori Kurnia,Teknologi Hasil Pertanian,CV Maju Mundur,Officer Admin,2015
+UB1002,Irfan Hidayat,Teknik Mesin,"PT SMART,Tbk",Analyst Operations,2019
+UB1003,Farhan Zulkarnain,Teknik Mesin,CV Maju Mundur,Consultant Marketing,2018
+UB1004,Citra Hidayat,Manajemen,PT Tsubaki Indonesia Manufacturing,Officer HR,2017
+UB1005,Dinda Gunawan,Hubungan Internasional,PT Penerbit Erlangga,Manager HR,2019
+UB1006,Farhan Siregar,Pendidikan TI,Bank BCA,Analyst Sales,2017
+UB1007,Cahya Lestari,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Lead Software Engineer,2020
+UB1008,Tegar Qodir,Ilmu Komunikasi,Telkom Indonesia,Specialist Finance,2022
+UB1009,Chandra Santoso,Teknologi Hasil Pertanian,Bank Mandiri,Supervisor Operations,2022
+UB1010,Xena Permata,Teknik Mesin,"PT. Trimegah Sekuritas Indonesia, Tbk",Management Trainee Finance,2022
+UB1011,Qori Pratama,Sistem Informasi,PHINTRACO GROUP,Junior IT Support,2016
+UB1012,Fajar Santoso,Teknik Komputer,PT Sumber Rejeki,Junior DevOps,2022
+UB1013,Laras Irawan,Teknik Lingkungan,Gojek,Engineer Marketing,2017
+UB1014,Dewi Hidayat,Teknik Komputer,Shopee,Junior Software Engineer,2019
+UB1015,Dewi Budiman,Administrasi Publik,StartUp Gagal Bangkit,Manager Operations,2019
+UB1016,Wahyu Rahmawati,Pendidikan TI,PT Penerbit Erlangga,Officer Finance,2022
+UB1017,Indah Utama,Arsitektur,PT Penerbit Erlangga,Head of Department Operations,2017
+UB1018,Agus Nasution,Teknologi Hasil Pertanian,PT Penerbit Erlangga,Specialist Admin,2023
+UB1019,Mahendra Utama,Pendidikan TI,PT MAS ARYA INDONESIA,Junior Staff Marketing,2018
+UB1020,Rina Irawan,Teknik Informatika,PT CFU Technology Indonesia,Junior Product Manager,2017
+UB1021,Joko Irawan,Teknik Sipil,StartUp Gagal Bangkit,Consultant Marketing,2020
+UB1022,Siti Pangestu,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Junior Data Scientist,2019
+UB1023,Kevin Susanto,Agroekoteknologi,CV Maju Mundur,Senior Staff Finance,2022
+UB1024,Hana Efendi,Arsitektur,PT Indocyber Global Teknologi,Consultant HR,2023
+UB1025,Andi Baswedan,Sistem Informasi,Tokopedia,Lead DevOps,2015
+UB1026,Citra Utami,Arsitektur,PT Sejahtera Abadi,Supervisor Admin,2015
+UB1027,Wahyu Aminah,Ilmu Komunikasi,"PT Japfa Comfeed Indonesia, Tbk",Analyst Sales,2018
+UB1028,Qori Kusuma,Ekonomi Islam,PT Trinusa Travelindo,Management Trainee Operations,2019
+UB1029,Yoga Utami,Agribisnis,Xiaomi Technology,Consultant Marketing,2016
+UB1030,Okta Tanjung,Ilmu Hukum,PT MAS ARYA INDONESIA,Engineer Finance,2018
+UB1031,Erlangga Gunawan,Psikologi,PT Solusi Transportasi Indonesia,Engineer Operations,2017
+UB1032,Chandra Kusumo,Ekonomi Islam,PT Kapal Api Global,Specialist Marketing,2021
+UB1033,Erlangga Soekarno,Ekonomi Islam,Bank Mandiri,Management Trainee Admin,2017
+UB1034,Fajar Budiman,Teknik Sipil,CV Maju Mundur,Senior Staff Finance,2021
+UB1035,Gilang Hidayat,Pendidikan TI,StartUp Gagal Bangkit,Head of Department HR,2015
+UB1036,Zahra Anggara,Ilmu Komunikasi,"PT Japfa Comfeed Indonesia, Tbk",Engineer Admin,2021
+UB1037,Pandu Susanto,Sistem Informasi,PT Handal Guna Sarana,Junior IT Support,2022
+UB1038,Hana Firmansyah,Akuntansi,PT. Bank KEB Hana Indonesia,Junior Staff Admin,2020
+UB1039,Wahyu Rahmawati,Teknik Industri,PT. Bank KEB Hana Indonesia,Officer Sales,2017
+UB1040,Okta Irawan,Ilmu Hukum,PT Handal Guna Sarana,Consultant HR,2020
+UB1041,Putri Baswedan,Teknologi Hasil Pertanian,PT Sumber Rejeki,Engineer Admin,2020
+UB1042,Julia Widodo,Teknik Mesin,"PT SMART,Tbk",Analyst Finance,2018
+UB1043,Dinda Pratama,Teknologi Hasil Pertanian,PT Solusi Transportasi Indonesia,Junior Staff Sales,2019
+UB1044,Okta Tanjung,Ekonomi Islam,PT Penerbit Erlangga,Supervisor Sales,2023
+UB1045,Nina Zulkarnain,Ilmu Ekonomi,PT Indocyber Global Teknologi,Analyst Marketing,2018
+UB1046,Radit Anggara,Ilmu Hukum,PT Mencari Cinta Sejati,Senior Staff Marketing,2017
+UB1047,Gita Jaya,Agroekoteknologi,PT CFU Technology Indonesia,Officer Finance,2021
+UB1048,Gita Yulianto,Teknologi Hasil Pertanian,Tokopedia,Management Trainee HR,2016
+UB1049,Qori Suharto,Keuangan Perbankan,PT Kapal Api Global,Engineer Operations,2020
+UB1050,Rizky Kusuma,Psikologi,PT Penerbit Erlangga,Consultant Sales,2017
+UB1051,Okta Siregar,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Head of Department Operations,2016
+UB1052,Bayu Wijaya,Teknik Mesin,"PT Bank Danamon Indonesia, Tbk",Specialist Admin,2023
+UB1053,Irfan Siregar,Keuangan Perbankan,PT CFU Technology Indonesia,Officer Admin,2018
+UB1054,Qori Laksana,Agribisnis,PT Sumber Rejeki,Manager Marketing,2023
+UB1055,Qori Cahyono,Teknik Industri,PHINTRACO GROUP,Supervisor Operations,2021
+UB1056,Qori Efendi,Ilmu Komunikasi,PT Indocyber Global Teknologi,Senior Staff Finance,2019
+UB1057,Pandu Siregar,Agribisnis,PHINTRACO GROUP,Consultant Finance,2020
+UB1058,Cahya Tanjung,Arsitektur,"PT DCI Indonesia, Tbk",Junior Staff Marketing,2016
+UB1059,Aditya Lestari,Teknik Mesin,"PT SMART,Tbk",Junior Staff Finance,2019
+UB1060,Irfan Wulandari,Teknik Industri,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Finance,2017
+UB1061,Farhan Saputra,Teknik Lingkungan,Shopee,Analyst Marketing,2019
+UB1062,Radit Tanjung,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Lead Software Engineer,2015
+UB1063,Irfan Hartono,Teknologi Hasil Pertanian,"PT. Trimegah Sekuritas Indonesia, Tbk",Junior Staff Operations,2018
+UB1064,Andi Firmansyah,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Head of Department HR,2023
+UB1065,Indah Pratama,Ekonomi Islam,Telkom Indonesia,Supervisor Operations,2020
+UB1066,Arif Utama,Keuangan Perbankan,"PT Japfa Comfeed Indonesia, Tbk",Supervisor Sales,2023
+UB1067,Desi Rahmawati,Administrasi Publik,PHINTRACO GROUP,Head of Department HR,2017
+UB1068,Indah Kusuma,Teknik Lingkungan,Tokopedia,Management Trainee Finance,2016
+UB1069,Nadia Kartika,Agribisnis,Gojek,Specialist Operations,2016
+UB1070,Dimas Soekarno,Ekonomi Islam,Gojek,Analyst Operations,2023
+UB1071,Indah Jaya,Ilmu Ekonomi,PHINTRACO GROUP,Consultant HR,2017
+UB1072,Tegar Nasution,Akuntansi,PT Solusi Transportasi Indonesia,Consultant Admin,2023
+UB1073,Lestari Yudhoyono,Psikologi,StartUp Gagal Bangkit,Junior Staff Marketing,2021
+UB1074,Sarah Utami,Teknik Mesin,PT Solusi Transportasi Indonesia,Consultant Marketing,2021
+UB1075,Rizky Rahmawati,Ilmu Hukum,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant Operations,2020
+UB1076,Bagas Budiman,Administrasi Publik,PT Trinusa Travelindo,Junior Staff Sales,2017
+UB1077,Siti Zulkarnain,Agribisnis,PT MAS ARYA INDONESIA,Senior Staff Finance,2015
+UB1078,Rizky Prasetyo,Administrasi Publik,PT Kapal Api Global,Senior Staff HR,2020
+UB1079,Bella Fauzi,Teknik Informatika,PT Mencari Cinta Sejati,Junior Data Scientist,2018
+UB1080,Chandra Susanto,Teknik Sipil,PT. Bank KEB Hana Indonesia,Senior Staff Sales,2016
+UB1081,Bayu Nugroho,Teknik Elektro,PT Penerbit Erlangga,Junior Staff Finance,2020
+UB1082,Julia Yulianto,Ilmu Komunikasi,Gojek,Supervisor Sales,2019
+UB1083,Laras Wibowo,Ilmu Komunikasi,Xiaomi Technology,Engineer Operations,2023
+UB1084,Irfan Nugroho,Agroekoteknologi,"PT SMART,Tbk",Head of Department Operations,2020
+UB1085,Kartika Baswedan,Ilmu Ekonomi,PT Sumber Rejeki,Engineer HR,2022
+UB1086,Citra Vebrianto,Manajemen,PHINTRACO GROUP,Engineer Finance,2016
+UB1087,Irfan Firmansyah,Ilmu Hukum,PT Solusi Transportasi Indonesia,Senior Staff Admin,2016
+UB1088,Julia Utama,Manajemen,PT Tsubaki Indonesia Manufacturing,Manager Operations,2018
+UB1089,Kevin Kusuma,Manajemen,Shopee,Senior Staff Sales,2019
+UB1090,Erlangga Laksana,Teknik Elektro,Shopee,Supervisor Admin,2021
+UB1091,Nina Anggara,Teknik Informatika,PT Mencari Cinta Sejati,Lead DevOps,2020
+UB1092,Tegar Laksana,Ilmu Hukum,"PT DCI Indonesia, Tbk",Supervisor HR,2022
+UB1093,Irfan Hidayat,Ilmu Ekonomi,Bank Mandiri,Head of Department Finance,2017
+UB1094,Radit Soekarno,Ilmu Komunikasi,Gojek,Junior Staff Admin,2021
+UB1095,Irfan Susanto,Akuntansi,Shopee,Senior Staff Operations,2019
+UB1096,Desi Efendi,Teknik Industri,PT Penerbit Erlangga,Engineer Finance,2021
+UB1097,Chandra Oktaviani,Ekonomi Islam,PT Kapal Api Global,Head of Department Sales,2023
+UB1098,Joko Utami,Teknik Lingkungan,CV Maju Mundur,Head of Department Operations,2019
+UB1099,Eko Cahyono,Keuangan Perbankan,PT CFU Technology Indonesia,Analyst Operations,2017
+UB1100,Hana Irawan,Teknologi Hasil Pertanian,PT Kapal Api Global,Specialist Sales,2018
+UB1101,Hadi Permata,Agroekoteknologi,JAPFA FOOD INDONESIA,Supervisor Sales,2019
+UB1102,Cahya Hartono,Administrasi Publik,JAPFA FOOD INDONESIA,Officer Marketing,2023
+UB1103,Sarah Kurnia,Teknik Komputer,Telkom Indonesia,Senior IT Support,2022
+UB1104,Fajar Jaya,Sistem Informasi,Shopee,Junior Data Scientist,2017
+UB1105,Kartika Puspa,Ilmu Hukum,PT Kapal Api Global,Head of Department Admin,2017
+UB1106,Yoga Hartono,Teknik Lingkungan,PT Sumber Rejeki,Senior Staff Marketing,2016
+UB1107,Bella Vebrianto,Teknik Industri,PT Trinusa Travelindo,Manager Marketing,2018
+UB1108,Zahra Maulana,Teknik Mesin,CV Maju Mundur,Specialist Marketing,2017
+UB1109,Andi Suharto,Teknik Elektro,PT CFU Technology Indonesia,Manager Sales,2017
+UB1110,Citra Baswedan,Sistem Informasi,Bank Mandiri,Lead Data Scientist,2015
+UB1111,Fajar Kartika,Teknik Lingkungan,Bank Mandiri,Head of Department Marketing,2018
+UB1112,Cahya Kusumo,Teknik Sipil,PT Trinusa Travelindo,Engineer Operations,2015
+UB1113,Agus Fauzi,Keuangan Perbankan,PT MAS ARYA INDONESIA,Head of Department Finance,2018
+UB1114,Budi Lestari,Teknik Mesin,PT CFU Technology Indonesia,Management Trainee Finance,2017
+UB1115,Dinda Puspa,Agroekoteknologi,Bank Mandiri,Analyst HR,2020
+UB1116,Farhan Utami,Ekonomi Islam,Bank BCA,Consultant Operations,2017
+UB1117,Okta Yudhoyono,Teknik Mesin,PT Sejahtera Abadi,Head of Department Marketing,2020
+UB1118,Hadi Pratama,Manajemen,"PT Bank Danamon Indonesia, Tbk",Supervisor Sales,2016
+UB1119,Rina Kurnia,Ekonomi Islam,StartUp Gagal Bangkit,Officer Sales,2015
+UB1120,Lestari Pangestu,Agroekoteknologi,Bank Mandiri,Consultant HR,2017
+UB1121,Farhan Efendi,Teknologi Hasil Pertanian,PT Bank KEB Hana Indonesia,Supervisor Sales,2018
+UB1122,Farhan Pangestu,Teknologi Hasil Pertanian,PT Bank KEB Hana Indonesia,Officer Marketing,2019
+UB1123,Rina Yulianto,Keuangan Perbankan,PT CFU Technology Indonesia,Manager Finance,2015
+UB1124,Radit Nugroho,Teknik Informatika,Gojek,Lead Software Engineer,2020
+UB1125,Budi Nasution,Teknik Mesin,PT Bank KEB Hana Indonesia,Senior Staff Marketing,2018
+UB1126,Rizky Nugroho,Manajemen,PT MAS ARYA INDONESIA,Supervisor Sales,2023
+UB1127,Joko Fauzi,Agroekoteknologi,PT Trinusa Travelindo,Senior Staff Finance,2020
+UB1128,Lestari Vebrianto,Pendidikan TI,Telkom Indonesia,Supervisor HR,2015
+UB1129,Nina Nasution,Pendidikan TI,StartUp Gagal Bangkit,Specialist Finance,2021
+UB1130,Arif Puspa,Akuntansi,PT Sumber Rejeki,Head of Department Admin,2015
+UB1131,Pandu Nasution,Teknik Mesin,"PT SMART,Tbk",Head of Department Admin,2018
+UB1132,Farhan Hartono,Ilmu Hukum,"PT Bank Danamon Indonesia, Tbk",Consultant Sales,2022
+UB1133,Nadia Kartika,Akuntansi,PT Mencari Cinta Sejati,Management Trainee Admin,2019
+UB1134,Irfan Lestari,Keuangan Perbankan,PT CFU Technology Indonesia,Analyst Marketing,2019
+UB1135,Julia Zulkarnain,Hubungan Internasional,PT CFU Technology Indonesia,Analyst Operations,2018
+UB1136,Tegar Santoso,Ilmu Hukum,PT Solusi Transportasi Indonesia,Officer Finance,2019
+UB1137,Cahya Vebrianto,Ekonomi Islam,PT Solusi Transportasi Indonesia,Consultant Finance,2021
+UB1138,Tegar Zulkarnain,Psikologi,PT CFU Technology Indonesia,Manager Operations,2022
+UB1139,Vina Kusumo,Keuangan Perbankan,PT Bank KEB Hana Indonesia,Supervisor Operations,2015
+UB1140,Kevin Baswedan,Teknik Industri,PT Penerbit Erlangga,Engineer Operations,2015
+UB1141,Chandra Siregar,Hubungan Internasional,PT Handal Guna Sarana,Officer Sales,2020
+UB1142,Hadi Saputra,Sistem Informasi,PT Mencari Cinta Sejati,Lead Software Engineer,2016
+UB1143,Farhan Aminah,Teknik Industri,"PT Bank Danamon Indonesia, Tbk",Specialist Finance,2018
+UB1144,Okta Tanjung,Teknologi Hasil Pertanian,Tokopedia,Officer HR,2017
+UB1145,Dewi Oktaviani,Hubungan Internasional,PT MAS ARYA INDONESIA,Manager Finance,2015
+UB1146,Gilang Darmawan,Sistem Informasi,PT Kapal Api Global,Lead IT Support,2022
+UB1147,Chandra Firmansyah,Akuntansi,PT Kapal Api Global,Analyst Finance,2020
+UB1148,Rina Kusumo,Ekonomi Islam,"PT Japfa Comfeed Indonesia, Tbk",Consultant Marketing,2022
+UB1149,Irfan Irawan,Teknologi Informasi,PT. Bank KEB Hana Indonesia,Senior IT Support,2018
+UB1150,Arif Susanto,Pendidikan TI,PT Solusi Transportasi Indonesia,Engineer Admin,2023
+UB1151,Rizky Irawan,Teknik Mesin,JAPFA FOOD INDONESIA,Officer HR,2022
+UB1152,Okta Aditama,Psikologi,Bank Mandiri,Junior Staff Finance,2022
+UB1153,Rina Tanjung,Teknik Komputer,PT Bank KEB Hana Indonesia,Senior Software Engineer,2017
+UB1154,Andi Puspa,Teknik Komputer,JAPFA FOOD INDONESIA,Lead Software Engineer,2018
+UB1155,Hadi Aminah,Keuangan Perbankan,Shopee,Officer Marketing,2017
+UB1156,Joko Darmawan,Teknik Lingkungan,PT MAS ARYA INDONESIA,Specialist HR,2021
+UB1157,Hana Efendi,Pendidikan TI,PT. Bank KEB Hana Indonesia,Junior Staff Admin,2021
+UB1158,Sarah Pangestu,Keuangan Perbankan,PT Handal Guna Sarana,Senior Staff Sales,2018
+UB1159,Indah Oktaviani,Akuntansi,Shopee,Manager Marketing,2022
+UB1160,Julia Firmansyah,Teknik Industri,Xiaomi Technology,Analyst Sales,2020
+UB1161,Rizky Firmansyah,Agroekoteknologi,Bank BCA,Specialist HR,2019
+UB1162,Julia Wijaya,Teknik Komputer,"PT. Trimegah Sekuritas Indonesia, Tbk",Junior Software Engineer,2015
+UB1163,Dimas Laksana,Teknik Elektro,PT Sejahtera Abadi,Consultant Marketing,2015
+UB1164,Cahya Kurnia,Teknik Mesin,"PT Japfa Comfeed Indonesia, Tbk",Management Trainee Marketing,2015
+UB1165,Dimas Fauzi,Manajemen,Telkom Indonesia,Analyst Operations,2015
+UB1166,Fajar Lestari,Ekonomi Islam,PT Solusi Transportasi Indonesia,Head of Department Sales,2016
+UB1167,Qori Soekarno,Teknologi Informasi,StartUp Gagal Bangkit,Junior Data Scientist,2021
+UB1168,Aditya Wulandari,Ilmu Komunikasi,Shopee,Consultant Marketing,2019
+UB1169,Kevin Saputra,Administrasi Publik,"PT Japfa Comfeed Indonesia, Tbk",Junior Staff Admin,2022
+UB1170,Hana Efendi,Teknik Mesin,PHINTRACO GROUP,Supervisor Marketing,2021
+UB1171,Aditya Susanto,Teknik Industri,PHINTRACO GROUP,Junior Staff Marketing,2016
+UB1172,Budi Maulana,Teknik Elektro,PT Mencari Cinta Sejati,Head of Department Sales,2023
+UB1173,Aditya Jaya,Manajemen,PT CFU Technology Indonesia,Supervisor Operations,2017
+UB1174,Xena Nasution,Teknologi Informasi,"PT SMART,Tbk",Junior Software Engineer,2017
+UB1175,Eko Aditama,Ilmu Ekonomi,PT Mencari Cinta Sejati,Specialist Sales,2023
+UB1176,Arif Firmansyah,Teknik Sipil,PT Indocyber Global Teknologi,Engineer Operations,2022
+UB1177,Joko Budiman,Teknik Mesin,Gojek,Analyst Admin,2022
+UB1178,Irfan Nasution,Teknologi Informasi,PT Solusi Transportasi Indonesia,Lead IT Support,2016
+UB1179,Siti Wulandari,Keuangan Perbankan,PT Trinusa Travelindo,Analyst HR,2015
+UB1180,Gilang Widodo,Ilmu Komunikasi,PT Solusi Transportasi Indonesia,Senior Staff Marketing,2022
+UB1181,Bella Aminah,Teknik Industri,JAPFA FOOD INDONESIA,Head of Department Operations,2019
+UB1182,Yoga Hartono,Hubungan Internasional,"PT Japfa Comfeed Indonesia, Tbk",Head of Department Admin,2017
+UB1183,Fajar Nasution,Agribisnis,Shopee,Engineer Operations,2015
+UB1184,Agus Baswedan,Agribisnis,PT Sejahtera Abadi,Senior Staff Finance,2019
+UB1185,Lestari Permata,Akuntansi,PT Sejahtera Abadi,Specialist Operations,2015
+UB1186,Yoga Setiawan,Ekonomi Islam,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Sales,2017
+UB1187,Mahendra Gunawan,Teknik Sipil,PT Mencari Cinta Sejati,Consultant Marketing,2020
+UB1188,Irfan Nasution,Teknik Komputer,PHINTRACO GROUP,Lead IT Support,2016
+UB1189,Budi Utama,Teknik Industri,Bank Mandiri,Engineer Sales,2021
+UB1190,Radit Saputra,Ilmu Komunikasi,StartUp Gagal Bangkit,Officer Sales,2020
+UB1191,Andi Yulianto,Administrasi Publik,PT Penerbit Erlangga,Analyst Sales,2019
+UB1192,Putri Kusumo,Teknik Lingkungan,PT Tsubaki Indonesia Manufacturing,Head of Department Finance,2022
+UB1193,Rina Darmawan,Pendidikan TI,PT Trinusa Travelindo,Officer Marketing,2019
+UB1194,Erlangga Baswedan,Ilmu Hukum,PHINTRACO GROUP,Consultant Marketing,2018
+UB1195,Sarah Firmansyah,Akuntansi,Tokopedia,Head of Department HR,2020
+UB1196,Bella Wulandari,Teknologi Hasil Pertanian,PT Indocyber Global Teknologi,Junior Staff Admin,2015
+UB1197,Aditya Pratama,Teknik Mesin,Gojek,Head of Department Finance,2020
+UB1198,Zahra Anggara,Administrasi Publik,Bank Mandiri,Specialist Finance,2020
+UB1199,Tegar Permata,Ekonomi Islam,PHINTRACO GROUP,Senior Staff Finance,2020
+UB1200,Julia Permata,Ilmu Ekonomi,Bank BCA,Manager HR,2022
+UB1201,Dewi Permata,Ilmu Hukum,PT Sejahtera Abadi,Engineer Admin,2021
+UB1202,Putri Utami,Hubungan Internasional,PT Sumber Rejeki,Engineer Marketing,2018
+UB1203,Chandra Kusuma,Pendidikan TI,Xiaomi Technology,Manager HR,2021
+UB1204,Dimas Kurnia,Pendidikan TI,"PT. Trimegah Sekuritas Indonesia, Tbk",Management Trainee Admin,2015
+UB1205,Utomo Aditama,Hubungan Internasional,PT Trinusa Travelindo,Junior Staff Finance,2018
+UB1206,Kartika Lestari,Keuangan Perbankan,PT Tsubaki Indonesia Manufacturing,Manager Admin,2015
+UB1207,Kevin Nasution,Ekonomi Islam,PT CFU Technology Indonesia,Management Trainee Operations,2015
+UB1208,Bella Nugroho,Arsitektur,PT Sejahtera Abadi,Junior Staff Sales,2020
+UB1209,Pandu Kusumo,Sistem Informasi,StartUp Gagal Bangkit,Lead IT Support,2017
+UB1210,Gita Soekarno,Ilmu Hukum,Bank Mandiri,Junior Staff HR,2023
+UB1211,Hana Tanjung,Manajemen,PT Sumber Rejeki,Junior Staff Sales,2023
+UB1212,Indah Zulkarnain,Ilmu Ekonomi,PT Tsubaki Indonesia Manufacturing,Manager HR,2016
+UB1213,Erlangga Cahyono,Ilmu Komunikasi,PT Solusi Transportasi Indonesia,Junior Staff Finance,2016
+UB1214,Zahra Soekarno,Psikologi,StartUp Gagal Bangkit,Supervisor Operations,2016
+UB1215,Joko Siregar,Agribisnis,PT Trinusa Travelindo,Consultant Operations,2019
+UB1216,Rina Nasution,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Junior Data Scientist,2015
+UB1217,Citra Soekarno,Administrasi Publik,PT MAS ARYA INDONESIA,Junior Staff Operations,2016
+UB1218,Cahya Susanto,Psikologi,PT Penerbit Erlangga,Supervisor Marketing,2018
+UB1219,Hana Rahmawati,Teknik Informatika,Tokopedia,Senior IT Support,2016
+UB1220,Indah Jaya,Teknologi Hasil Pertanian,Xiaomi Technology,Analyst Operations,2020
+UB1221,Bella Baswedan,Ekonomi Islam,PT MAS ARYA INDONESIA,Management Trainee Marketing,2022
+UB1222,Siti Nasution,Ilmu Komunikasi,Xiaomi Technology,Manager Finance,2021
+UB1223,Farhan Utami,Teknik Elektro,Bank BCA,Specialist HR,2018
+UB1224,Sarah Yudhoyono,Keuangan Perbankan,PT Trinusa Travelindo,Officer Operations,2022
+UB1225,Laras Saputra,Teknik Mesin,PT Sejahtera Abadi,Officer HR,2020
+UB1226,Dinda Suharto,Manajemen,PT Sumber Rejeki,Manager Admin,2018
+UB1227,Tegar Susanto,Pendidikan TI,PT Mencari Cinta Sejati,Senior Staff Admin,2022
+UB1228,Desi Kurnia,Teknik Sipil,Telkom Indonesia,Engineer Admin,2021
+UB1229,Lestari Kurnia,Agribisnis,"PT DCI Indonesia, Tbk",Management Trainee Admin,2020
+UB1230,Nadia Setiawan,Teknik Mesin,PT Tsubaki Indonesia Manufacturing,Specialist Admin,2017
+UB1231,Cahya Irawan,Psikologi,PT Sejahtera Abadi,Officer Operations,2016
+UB1232,Dimas Oktaviani,Keuangan Perbankan,Xiaomi Technology,Management Trainee HR,2018
+UB1233,Dimas Hidayat,Ilmu Hukum,"PT Bank Danamon Indonesia, Tbk",Officer Marketing,2015
+UB1234,Kevin Permata,Arsitektur,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Finance,2019
+UB1235,Pandu Yudhoyono,Hubungan Internasional,Bank Mandiri,Consultant Admin,2020
+UB1236,Cahya Puspa,Teknologi Hasil Pertanian,"PT Bank Danamon Indonesia, Tbk",Supervisor Sales,2019
+UB1237,Wahyu Baswedan,Ilmu Ekonomi,PT. Bank KEB Hana Indonesia,Management Trainee HR,2018
+UB1238,Aditya Suharto,Teknik Informatika,PT Penerbit Erlangga,Senior IT Support,2015
+UB1239,Fajar Suharto,Teknik Lingkungan,"PT Bank Danamon Indonesia, Tbk",Analyst Marketing,2018
+UB1240,Dinda Siregar,Teknologi Hasil Pertanian,PT Tsubaki Indonesia Manufacturing,Senior Staff Admin,2017
+UB1241,Rina Prasetyo,Sistem Informasi,Gojek,Junior Software Engineer,2020
+UB1242,Lestari Nugroho,Teknik Informatika,PT Indocyber Global Teknologi,Senior IT Support,2022
+UB1243,Dewi Aminah,Manajemen,PT CFU Technology Indonesia,Supervisor Admin,2017
+UB1244,Dimas Wibowo,Ekonomi Islam,JAPFA FOOD INDONESIA,Manager Sales,2020
+UB1245,Lestari Pratama,Ilmu Komunikasi,PT Penerbit Erlangga,Junior Staff Marketing,2023
+UB1246,Desi Utami,Hubungan Internasional,JAPFA FOOD INDONESIA,Management Trainee Marketing,2022
+UB1247,Dinda Prasetyo,Agribisnis,PT Penerbit Erlangga,Engineer Sales,2020
+UB1248,Budi Permata,Teknik Elektro,PT Sejahtera Abadi,Manager Admin,2023
+UB1249,Irfan Widodo,Ilmu Komunikasi,PT Handal Guna Sarana,Analyst Marketing,2023
+UB1250,Bella Kurnia,Teknik Lingkungan,PT Solusi Transportasi Indonesia,Junior Staff Finance,2018
+UB1251,Joko Susanto,Teknik Sipil,PT CFU Technology Indonesia,Consultant HR,2020
+UB1252,Okta Utami,Psikologi,StartUp Gagal Bangkit,Consultant Sales,2023
+UB1253,Chandra Qodir,Teknik Industri,Bank BCA,Consultant Finance,2020
+UB1254,Desi Widodo,Teknik Mesin,PT Tsubaki Indonesia Manufacturing,Officer Sales,2018
+UB1255,Laras Yudhoyono,Agroekoteknologi,PT Kapal Api Global,Officer Marketing,2015
+UB1256,Dewi Rahmawati,Ilmu Hukum,CV Maju Mundur,Consultant Operations,2022
+UB1257,Pandu Kartika,Keuangan Perbankan,PT MAS ARYA INDONESIA,Supervisor Finance,2017
+UB1258,Andi Saputra,Sistem Informasi,PT Kapal Api Global,Junior Product Manager,2020
+UB1259,Radit Rahmawati,Manajemen,PT Handal Guna Sarana,Officer Marketing,2022
+UB1260,Bagas Rahmawati,Ilmu Ekonomi,Gojek,Manager Operations,2023
+UB1261,Chandra Hidayat,Teknik Lingkungan,PT Sejahtera Abadi,Senior Staff Admin,2016
+UB1262,Radit Yulianto,Teknik Mesin,PHINTRACO GROUP,Specialist Finance,2016
+UB1263,Arif Pratama,Arsitektur,PT Tsubaki Indonesia Manufacturing,Supervisor Finance,2015
+UB1264,Aditya Prasetyo,Akuntansi,PT CFU Technology Indonesia,Manager Finance,2023
+UB1265,Laras Puspa,Hubungan Internasional,PT Sumber Rejeki,Head of Department Admin,2016
+UB1266,Rizky Yulianto,Teknik Elektro,"PT SMART,Tbk",Supervisor Finance,2015
+UB1267,Dewi Wulandari,Ekonomi Islam,PT Penerbit Erlangga,Head of Department Marketing,2022
+UB1268,Citra Qodir,Arsitektur,Bank BCA,Specialist Sales,2022
+UB1269,Bagas Widodo,Arsitektur,PT Penerbit Erlangga,Junior Staff Admin,2016
+UB1270,Julia Rahmawati,Ilmu Hukum,PT CFU Technology Indonesia,Junior Staff Admin,2022
+UB1271,Rizky Kusuma,Pendidikan TI,"PT Bank Danamon Indonesia, Tbk",Supervisor Finance,2020
+UB1272,Okta Kartika,Teknik Mesin,Gojek,Management Trainee Marketing,2021
+UB1273,Gita Wulandari,Pendidikan TI,PT Handal Guna Sarana,Manager Sales,2020
+UB1274,Tegar Gunawan,Hubungan Internasional,CV Maju Mundur,Manager Sales,2019
+UB1275,Irfan Santoso,Arsitektur,JAPFA FOOD INDONESIA,Engineer Marketing,2023
+UB1276,Andi Cahyono,Arsitektur,PT Indocyber Global Teknologi,Senior Staff Marketing,2019
+UB1277,Xena Utami,Agroekoteknologi,PT CFU Technology Indonesia,Officer Finance,2015
+UB1278,Bagas Pratama,Hubungan Internasional,JAPFA FOOD INDONESIA,Senior Staff Marketing,2017
+UB1279,Yoga Oktaviani,Teknik Informatika,StartUp Gagal Bangkit,Junior Product Manager,2016
+UB1280,Indah Fauzi,Pendidikan TI,StartUp Gagal Bangkit,Head of Department Admin,2023
+UB1281,Tegar Oktaviani,Ilmu Ekonomi,Bank Mandiri,Head of Department Sales,2020
+UB1282,Wahyu Irawan,Teknik Industri,JAPFA FOOD INDONESIA,Analyst HR,2015
+UB1283,Arif Oktaviani,Hubungan Internasional,Xiaomi Technology,Consultant Sales,2015
+UB1284,Siti Yulianto,Teknik Elektro,"PT Bank Danamon Indonesia, Tbk",Engineer Admin,2019
+UB1285,Eko Nasution,Teknik Sipil,Xiaomi Technology,Head of Department HR,2016
+UB1286,Hana Permata,Pendidikan TI,PT Bank KEB Hana Indonesia,Head of Department Admin,2019
+UB1287,Siti Fauzi,Agribisnis,JAPFA FOOD INDONESIA,Head of Department HR,2021
+UB1288,Vina Kartika,Hubungan Internasional,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant Operations,2022
+UB1289,Kevin Budiman,Arsitektur,CV Maju Mundur,Senior Staff Admin,2018
+UB1290,Vina Hidayat,Psikologi,PT Penerbit Erlangga,Manager Marketing,2022
+UB1291,Siti Hartono,Teknik Mesin,Bank Mandiri,Engineer Marketing,2022
+UB1292,Dinda Kusuma,Teknik Lingkungan,"PT. Trimegah Sekuritas Indonesia, Tbk",Supervisor HR,2020
+UB1293,Bayu Wijaya,Sistem Informasi,"PT DCI Indonesia, Tbk",Junior IT Support,2016
+UB1294,Bagas Tanjung,Agroekoteknologi,"PT Bank Danamon Indonesia, Tbk",Senior Staff Finance,2019
+UB1295,Arif Jaya,Agroekoteknologi,PT Sumber Rejeki,Consultant Finance,2021
+UB1296,Okta Susanto,Keuangan Perbankan,Bank BCA,Supervisor HR,2015
+UB1297,Eko Widodo,Teknik Industri,StartUp Gagal Bangkit,Senior Staff Admin,2015
+UB1298,Agus Prasetyo,Teknik Informatika,StartUp Gagal Bangkit,Junior DevOps,2015
+UB1299,Aditya Suharto,Agroekoteknologi,PT Mencari Cinta Sejati,Manager Operations,2017
+UB1300,Gita Kartika,Teknik Elektro,PT MAS ARYA INDONESIA,Consultant Marketing,2015
+UB1301,Yoga Darmawan,Teknik Informatika,"PT SMART,Tbk",Junior Software Engineer,2015
+UB1302,Yoga Aminah,Agroekoteknologi,Xiaomi Technology,Junior Staff Operations,2018
+UB1303,Hadi Oktaviani,Ekonomi Islam,PT Mencari Cinta Sejati,Supervisor Marketing,2015
+UB1304,Arif Wibowo,Ilmu Ekonomi,Gojek,Management Trainee Operations,2022
+UB1305,Radit Widodo,Arsitektur,Shopee,Head of Department Operations,2016
+UB1306,Utomo Budiman,Akuntansi,Bank BCA,Junior Staff Admin,2020
+UB1307,Joko Lestari,Teknik Sipil,PT Trinusa Travelindo,Junior Staff Operations,2020
+UB1308,Dimas Siregar,Teknik Mesin,PHINTRACO GROUP,Specialist Marketing,2020
+UB1309,Kartika Kusuma,Teknik Elektro,"PT Bank Danamon Indonesia, Tbk",Junior Staff Marketing,2018
+UB1310,Dimas Lestari,Teknik Informatika,PT MAS ARYA INDONESIA,Senior Data Scientist,2021
+UB1311,Dinda Baswedan,Ilmu Hukum,"PT SMART,Tbk",Manager Operations,2021
+UB1312,Fajar Utami,Teknik Elektro,PT Sejahtera Abadi,Analyst Sales,2023
+UB1313,Eko Qodir,Teknik Komputer,PHINTRACO GROUP,Senior Software Engineer,2017
+UB1314,Dewi Santoso,Teknik Industri,PT Kapal Api Global,Consultant Finance,2021
+UB1315,Budi Laksana,Teknik Mesin,"PT SMART,Tbk",Specialist Finance,2023
+UB1316,Hana Pratama,Teknologi Informasi,StartUp Gagal Bangkit,Lead Product Manager,2018
+UB1317,Budi Pratama,Keuangan Perbankan,PT Mencari Cinta Sejati,Manager Operations,2019
+UB1318,Erlangga Maulana,Teknik Mesin,PT Tsubaki Indonesia Manufacturing,Consultant Finance,2018
+UB1319,Mahendra Anggara,Teknologi Hasil Pertanian,"PT SMART,Tbk",Senior Staff Finance,2016
+UB1320,Rizky Kurnia,Teknik Industri,PT CFU Technology Indonesia,Manager Finance,2017
+UB1321,Chandra Anggara,Teknologi Informasi,PT Sejahtera Abadi,Junior IT Support,2022
+UB1322,Gita Widodo,Keuangan Perbankan,PT Bank KEB Hana Indonesia,Manager Operations,2015
+UB1323,Irfan Tanjung,Teknik Lingkungan,PT Penerbit Erlangga,Management Trainee Admin,2019
+UB1324,Indah Puspa,Sistem Informasi,StartUp Gagal Bangkit,Senior DevOps,2022
+UB1325,Tegar Pratama,Teknik Sipil,PT Mencari Cinta Sejati,Engineer Finance,2020
+UB1326,Joko Wibowo,Administrasi Publik,Xiaomi Technology,Junior Staff Sales,2021
+UB1327,Andi Yulianto,Teknik Komputer,PT Handal Guna Sarana,Junior Product Manager,2023
+UB1328,Bagas Wijaya,Teknologi Informasi,CV Maju Mundur,Junior Product Manager,2019
+UB1329,Kevin Susanto,Ekonomi Islam,Shopee,Manager Operations,2015
+UB1330,Radit Tanjung,Teknik Mesin,Gojek,Analyst HR,2020
+UB1331,Rizky Kusuma,Teknologi Hasil Pertanian,Tokopedia,Engineer Operations,2021
+UB1332,Nadia Pangestu,Psikologi,Gojek,Head of Department Finance,2023
+UB1333,Chandra Saputra,Hubungan Internasional,StartUp Gagal Bangkit,Supervisor Sales,2020
+UB1334,Dewi Soekarno,Agribisnis,PT Tsubaki Indonesia Manufacturing,Senior Staff Operations,2015
+UB1335,Tegar Saputra,Ekonomi Islam,Shopee,Senior Staff Finance,2022
+UB1336,Zahra Saputra,Ilmu Ekonomi,Bank BCA,Engineer Sales,2016
+UB1337,Cahya Yudhoyono,Agroekoteknologi,PT MAS ARYA INDONESIA,Engineer Admin,2020
+UB1338,Hana Wulandari,Teknologi Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead Product Manager,2016
+UB1339,Arif Baswedan,Manajemen,CV Maju Mundur,Junior Staff Operations,2021
+UB1340,Arif Irawan,Teknik Industri,"PT Bank Danamon Indonesia, Tbk",Engineer Marketing,2019
+UB1341,Eko Nugroho,Hubungan Internasional,Telkom Indonesia,Analyst HR,2015
+UB1342,Aditya Zulkarnain,Manajemen,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant Operations,2021
+UB1343,Dinda Setiawan,Ilmu Ekonomi,Tokopedia,Supervisor Operations,2016
+UB1344,Irfan Zulkarnain,Ekonomi Islam,PT Penerbit Erlangga,Management Trainee Finance,2016
+UB1345,Arif Nasution,Teknologi Informasi,Shopee,Lead DevOps,2023
+UB1346,Kevin Soekarno,Ilmu Hukum,Gojek,Consultant HR,2023
+UB1347,Qori Maulana,Arsitektur,PT Handal Guna Sarana,Consultant Sales,2016
+UB1348,Rina Kusumo,Teknik Komputer,PT Sejahtera Abadi,Junior IT Support,2015
+UB1349,Joko Saputra,Akuntansi,PHINTRACO GROUP,Engineer Marketing,2016
+UB1350,Wahyu Hidayat,Teknik Informatika,PT Sumber Rejeki,Junior IT Support,2023
+UB1351,Dimas Vebrianto,Teknologi Hasil Pertanian,PT Sumber Rejeki,Engineer HR,2015
+UB1352,Fajar Yudhoyono,Teknik Elektro,"PT Japfa Comfeed Indonesia, Tbk",Analyst HR,2016
+UB1353,Xena Tanjung,Hubungan Internasional,PT Kapal Api Global,Management Trainee Marketing,2015
+UB1354,Agus Baswedan,Teknologi Hasil Pertanian,PHINTRACO GROUP,Head of Department Admin,2017
+UB1355,Rizky Prasetyo,Teknik Lingkungan,PT MAS ARYA INDONESIA,Consultant Operations,2017
+UB1356,Andi Budiman,Teknik Industri,PT Sejahtera Abadi,Specialist Operations,2020
+UB1357,Qori Widodo,Teknik Lingkungan,Gojek,Senior Staff Marketing,2015
+UB1358,Kevin Yudhoyono,Akuntansi,PT Bank KEB Hana Indonesia,Officer Operations,2020
+UB1359,Laras Puspa,Keuangan Perbankan,Telkom Indonesia,Analyst HR,2016
+UB1360,Aditya Aminah,Ekonomi Islam,PT Handal Guna Sarana,Management Trainee Operations,2020
+UB1361,Putri Budiman,Teknologi Informasi,PT MAS ARYA INDONESIA,Lead DevOps,2017
+UB1362,Indah Qodir,Akuntansi,PT Mencari Cinta Sejati,Officer Admin,2019
+UB1363,Kevin Budiman,Ilmu Komunikasi,Tokopedia,Consultant HR,2023
+UB1364,Bella Kusuma,Teknik Lingkungan,Shopee,Head of Department Operations,2019
+UB1365,Qori Aminah,Hubungan Internasional,PT Indocyber Global Teknologi,Senior Staff Finance,2015
+UB1366,Irfan Widodo,Hubungan Internasional,Xiaomi Technology,Analyst Admin,2023
+UB1367,Pandu Widodo,Ilmu Komunikasi,Xiaomi Technology,Specialist HR,2022
+UB1368,Gita Soekarno,Teknik Elektro,Telkom Indonesia,Manager Marketing,2016
+UB1369,Bagas Kusumo,Teknik Industri,Shopee,Management Trainee Marketing,2020
+UB1370,Erlangga Wibowo,Agribisnis,Gojek,Manager Sales,2016
+UB1371,Eko Aditama,Administrasi Publik,PT MAS ARYA INDONESIA,Head of Department HR,2019
+UB1372,Nadia Efendi,Ekonomi Islam,PT Solusi Transportasi Indonesia,Senior Staff HR,2018
+UB1373,Eko Aditama,Teknik Mesin,Shopee,Engineer HR,2016
+UB1374,Rina Kartika,Pendidikan TI,PT MAS ARYA INDONESIA,Officer Admin,2022
+UB1375,Tegar Aminah,Psikologi,PT Indocyber Global Teknologi,Manager Operations,2015
+UB1376,Budi Suharto,Manajemen,"PT SMART,Tbk",Specialist Operations,2019
+UB1377,Vina Baswedan,Agribisnis,PT Bank KEB Hana Indonesia,Head of Department Finance,2021
+UB1378,Nadia Prasetyo,Teknik Komputer,PT Trinusa Travelindo,Lead DevOps,2015
+UB1379,Aditya Aditama,Teknik Sipil,PT. Bank KEB Hana Indonesia,Analyst Finance,2019
+UB1380,Budi Baswedan,Manajemen,"PT SMART,Tbk",Junior Staff Admin,2015
+UB1381,Chandra Utama,Agroekoteknologi,PT Solusi Transportasi Indonesia,Engineer Operations,2016
+UB1382,Pandu Maulana,Pendidikan TI,Telkom Indonesia,Junior Staff HR,2020
+UB1383,Rina Aminah,Ilmu Ekonomi,PT Indocyber Global Teknologi,Senior Staff Sales,2023
+UB1384,Hadi Rahmawati,Teknologi Informasi,PT Solusi Transportasi Indonesia,Lead DevOps,2021
+UB1385,Bayu Pangestu,Ilmu Komunikasi,PT MAS ARYA INDONESIA,Engineer HR,2017
+UB1386,Julia Vebrianto,Teknik Lingkungan,PT Tsubaki Indonesia Manufacturing,Consultant HR,2017
+UB1387,Rizky Oktaviani,Teknologi Informasi,Tokopedia,Senior Product Manager,2023
+UB1388,Nadia Yulianto,Arsitektur,StartUp Gagal Bangkit,Head of Department Admin,2023
+UB1389,Gita Vebrianto,Agroekoteknologi,"PT DCI Indonesia, Tbk",Specialist HR,2018
+UB1390,Utomo Hartono,Ekonomi Islam,Telkom Indonesia,Consultant HR,2019
+UB1391,Irfan Lestari,Sistem Informasi,"PT DCI Indonesia, Tbk",Senior Data Scientist,2021
+UB1392,Vina Wijaya,Teknik Elektro,PT Mencari Cinta Sejati,Management Trainee Operations,2020
+UB1393,Hadi Rahmawati,Agroekoteknologi,Xiaomi Technology,Specialist Admin,2022
+UB1394,Kartika Darmawan,Akuntansi,Gojek,Junior Staff Admin,2021
+UB1395,Qori Nasution,Ilmu Komunikasi,PT Handal Guna Sarana,Officer Marketing,2015
+UB1396,Gilang Laksana,Teknik Elektro,PT MAS ARYA INDONESIA,Junior Staff HR,2022
+UB1397,Laras Fauzi,Teknik Informatika,PT Sumber Rejeki,Senior Software Engineer,2022
+UB1398,Indah Setiawan,Ilmu Komunikasi,Bank BCA,Analyst Operations,2016
+UB1399,Radit Suharto,Sistem Informasi,Gojek,Lead Software Engineer,2015
+UB1400,Julia Saputra,Ilmu Hukum,"PT Japfa Comfeed Indonesia, Tbk",Specialist Sales,2022
+UB1401,Tegar Lestari,Sistem Informasi,PT. Bank KEB Hana Indonesia,Junior Data Scientist,2020
+UB1402,Farhan Hartono,Teknik Informatika,PT MAS ARYA INDONESIA,Lead Data Scientist,2015
+UB1403,Agus Efendi,Administrasi Publik,PHINTRACO GROUP,Management Trainee HR,2016
+UB1404,Bagas Rahmawati,Ekonomi Islam,PT Indocyber Global Teknologi,Junior Staff Finance,2021
+UB1405,Bayu Anggara,Teknik Mesin,Bank BCA,Supervisor Admin,2019
+UB1406,Siti Jaya,Teknik Mesin,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Marketing,2018
+UB1407,Dinda Darmawan,Teknik Komputer,"PT DCI Indonesia, Tbk",Lead Data Scientist,2019
+UB1408,Wahyu Kartika,Ekonomi Islam,PT Kapal Api Global,Junior Staff Sales,2018
+UB1409,Zahra Baswedan,Teknik Lingkungan,PT Indocyber Global Teknologi,Head of Department Finance,2016
+UB1410,Budi Yudhoyono,Ekonomi Islam,"PT DCI Indonesia, Tbk",Management Trainee Marketing,2017
+UB1411,Arif Soekarno,Manajemen,Telkom Indonesia,Specialist Sales,2023
+UB1412,Okta Aditama,Ilmu Ekonomi,PT Bank KEB Hana Indonesia,Manager Admin,2022
+UB1413,Sarah Tanjung,Agribisnis,PT CFU Technology Indonesia,Analyst Marketing,2023
+UB1414,Budi Laksana,Ilmu Komunikasi,Xiaomi Technology,Consultant Finance,2018
+UB1415,Sarah Santoso,Manajemen,PT Sejahtera Abadi,Supervisor HR,2019
+UB1416,Desi Cahyono,Akuntansi,PT Kapal Api Global,Senior Staff Finance,2016
+UB1417,Eko Anggara,Ilmu Hukum,PT Sejahtera Abadi,Officer Sales,2022
+UB1418,Hadi Susanto,Agroekoteknologi,PHINTRACO GROUP,Head of Department Admin,2015
+UB1419,Andi Baswedan,Manajemen,PT Sumber Rejeki,Officer HR,2023
+UB1420,Laras Wulandari,Teknik Elektro,Telkom Indonesia,Engineer Finance,2017
+UB1421,Indah Fauzi,Manajemen,"PT. Trimegah Sekuritas Indonesia, Tbk",Management Trainee Operations,2020
+UB1422,Joko Irawan,Teknik Komputer,PT Bank KEB Hana Indonesia,Lead DevOps,2023
+UB1423,Utomo Zulkarnain,Teknik Sipil,Shopee,Officer Admin,2017
+UB1424,Irfan Utami,Teknologi Informasi,Xiaomi Technology,Lead Software Engineer,2018
+UB1425,Rina Oktaviani,Ilmu Ekonomi,"PT Bank Danamon Indonesia, Tbk",Head of Department Sales,2020
+UB1426,Joko Kusumo,Teknik Sipil,PT MAS ARYA INDONESIA,Head of Department Admin,2016
+UB1427,Chandra Oktaviani,Agroekoteknologi,Tokopedia,Junior Staff Marketing,2020
+UB1428,Zahra Aminah,Teknik Industri,Gojek,Officer Admin,2019
+UB1429,Bagas Widodo,Pendidikan TI,PT Kapal Api Global,Head of Department Admin,2023
+UB1430,Rizky Utami,Pendidikan TI,PT Indocyber Global Teknologi,Management Trainee Finance,2018
+UB1431,Utomo Maulana,Teknik Mesin,Gojek,Manager Operations,2016
+UB1432,Dinda Kusuma,Ekonomi Islam,PT Indocyber Global Teknologi,Head of Department Marketing,2019
+UB1433,Kartika Laksana,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Junior Product Manager,2018
+UB1434,Utomo Prasetyo,Agribisnis,PT Kapal Api Global,Specialist Sales,2023
+UB1435,Joko Nasution,Teknologi Hasil Pertanian,PT Sejahtera Abadi,Consultant Marketing,2015
+UB1436,Qori Saputra,Ilmu Komunikasi,PT Sejahtera Abadi,Junior Staff Admin,2016
+UB1437,Lestari Tanjung,Teknik Komputer,PHINTRACO GROUP,Senior DevOps,2017
+UB1438,Okta Oktaviani,Teknik Elektro,Shopee,Specialist Finance,2023
+UB1439,Yoga Utama,Sistem Informasi,PT Sejahtera Abadi,Junior Data Scientist,2021
+UB1440,Dinda Aminah,Teknik Elektro,PT Sumber Rejeki,Junior Staff Finance,2017
+UB1441,Okta Gunawan,Ilmu Hukum,PT Handal Guna Sarana,Senior Staff HR,2021
+UB1442,Qori Maulana,Teknik Elektro,"PT SMART,Tbk",Supervisor Operations,2017
+UB1443,Bagas Utama,Administrasi Publik,PT. Bank KEB Hana Indonesia,Senior Staff Operations,2016
+UB1444,Wahyu Darmawan,Teknik Elektro,Bank Mandiri,Consultant Sales,2018
+UB1445,Indah Kurnia,Teknologi Hasil Pertanian,PT Solusi Transportasi Indonesia,Consultant HR,2018
+UB1446,Erlangga Yulianto,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Senior IT Support,2022
+UB1447,Citra Santoso,Administrasi Publik,PT Trinusa Travelindo,Supervisor Operations,2021
+UB1448,Chandra Hartono,Agribisnis,PT Penerbit Erlangga,Consultant Admin,2022
+UB1449,Julia Wibowo,Keuangan Perbankan,PT. Bank KEB Hana Indonesia,Supervisor HR,2016
+UB1450,Erlangga Nugroho,Agroekoteknologi,StartUp Gagal Bangkit,Head of Department Sales,2019
+UB1451,Yoga Efendi,Teknik Elektro,PT Trinusa Travelindo,Senior Staff Marketing,2022
+UB1452,Putri Saputra,Ilmu Komunikasi,Bank Mandiri,Head of Department Operations,2019
+UB1453,Farhan Rahmawati,Agribisnis,PT Tsubaki Indonesia Manufacturing,Senior Staff Marketing,2017
+UB1454,Lestari Oktaviani,Ekonomi Islam,"PT DCI Indonesia, Tbk",Management Trainee Sales,2017
+UB1455,Nina Hidayat,Keuangan Perbankan,PT Sejahtera Abadi,Officer Finance,2016
+UB1456,Siti Prasetyo,Ekonomi Islam,"PT Japfa Comfeed Indonesia, Tbk",Senior Staff Operations,2015
+UB1457,Qori Baswedan,Manajemen,PT Bank KEB Hana Indonesia,Manager Sales,2016
+UB1458,Zahra Permata,Administrasi Publik,CV Maju Mundur,Analyst Admin,2021
+UB1459,Aditya Firmansyah,Teknologi Informasi,CV Maju Mundur,Lead Software Engineer,2015
+UB1460,Xena Zulkarnain,Teknologi Informasi,Bank BCA,Senior DevOps,2018
+UB1461,Laras Suharto,Agribisnis,CV Maju Mundur,Supervisor Operations,2015
+UB1462,Dimas Qodir,Agroekoteknologi,Shopee,Junior Staff Operations,2017
+UB1463,Kevin Zulkarnain,Sistem Informasi,StartUp Gagal Bangkit,Senior IT Support,2021
+UB1464,Andi Puspa,Teknik Informatika,PT Sejahtera Abadi,Junior DevOps,2022
+UB1465,Irfan Anggara,Keuangan Perbankan,Bank BCA,Specialist Finance,2023
+UB1466,Irfan Suharto,Teknik Lingkungan,Telkom Indonesia,Consultant HR,2021
+UB1467,Bayu Maulana,Arsitektur,PT Indocyber Global Teknologi,Manager Sales,2019
+UB1468,Lestari Gunawan,Administrasi Publik,PT. Bank KEB Hana Indonesia,Senior Staff Operations,2020
+UB1469,Andi Laksana,Arsitektur,PT CFU Technology Indonesia,Junior Staff Operations,2023
+UB1470,Bayu Cahyono,Psikologi,Tokopedia,Supervisor Operations,2023
+UB1471,Chandra Susanto,Arsitektur,PT CFU Technology Indonesia,Consultant Operations,2023
+UB1472,Indah Budiman,Pendidikan TI,PT CFU Technology Indonesia,Head of Department Admin,2018
+UB1473,Irfan Soekarno,Ilmu Komunikasi,PT MAS ARYA INDONESIA,Manager Marketing,2021
+UB1474,Okta Anggara,Ekonomi Islam,Shopee,Management Trainee Operations,2023
+UB1475,Gilang Nasution,Psikologi,PT Mencari Cinta Sejati,Management Trainee Marketing,2018
+UB1476,Pandu Lestari,Hubungan Internasional,PT Sejahtera Abadi,Supervisor Operations,2023
+UB1477,Agus Puspa,Ilmu Ekonomi,PT Trinusa Travelindo,Consultant Admin,2022
+UB1478,Laras Saputra,Arsitektur,Tokopedia,Engineer Operations,2015
+UB1479,Farhan Aminah,Teknik Elektro,Telkom Indonesia,Senior Staff Admin,2017
+UB1480,Siti Siregar,Ekonomi Islam,PT Bank KEB Hana Indonesia,Officer Admin,2017
+UB1481,Chandra Yudhoyono,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Supervisor Admin,2017
+UB1482,Xena Anggara,Teknologi Informasi,PT Handal Guna Sarana,Junior Product Manager,2016
+UB1483,Siti Yudhoyono,Teknik Informatika,Shopee,Lead Product Manager,2020
+UB1484,Nadia Kusumo,Teknik Mesin,Shopee,Head of Department Admin,2020
+UB1485,Rizky Laksana,Teknik Lingkungan,StartUp Gagal Bangkit,Consultant Sales,2015
+UB1486,Erlangga Santoso,Keuangan Perbankan,PT Kapal Api Global,Junior Staff Finance,2017
+UB1487,Bella Puspa,Teknik Sipil,PT. Bank KEB Hana Indonesia,Head of Department HR,2020
+UB1488,Radit Rahmawati,Ilmu Hukum,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Finance,2022
+UB1489,Desi Wibowo,Teknologi Informasi,JAPFA FOOD INDONESIA,Junior IT Support,2021
+UB1490,Agus Siregar,Akuntansi,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant HR,2019
+UB1491,Laras Aminah,Teknologi Informasi,PT Kapal Api Global,Senior IT Support,2015
+UB1492,Laras Hidayat,Sistem Informasi,"PT DCI Indonesia, Tbk",Senior Product Manager,2016
+UB1493,Desi Kartika,Sistem Informasi,Tokopedia,Lead Software Engineer,2017
+UB1494,Chandra Zulkarnain,Ilmu Hukum,"PT SMART,Tbk",Management Trainee Admin,2023
+UB1495,Budi Aditama,Psikologi,Shopee,Management Trainee Admin,2022
+UB1496,Laras Efendi,Manajemen,Shopee,Specialist Finance,2023
+UB1497,Gita Efendi,Ilmu Hukum,PT CFU Technology Indonesia,Manager Operations,2019
+UB1498,Hana Hidayat,Psikologi,PT Kapal Api Global,Engineer Admin,2022
+UB1499,Sarah Setiawan,Teknik Industri,PT MAS ARYA INDONESIA,Senior Staff Finance,2018
+UB1500,Radit Siregar,Ilmu Komunikasi,Tokopedia,Head of Department Operations,2020
+UB1501,Indah Widodo,Keuangan Perbankan,PT Mencari Cinta Sejati,Manager Finance,2022
+UB1502,Xena Aditama,Keuangan Perbankan,PT Penerbit Erlangga,Junior Staff HR,2015
+UB1503,Citra Widodo,Pendidikan TI,PHINTRACO GROUP,Junior Staff HR,2022
+UB1504,Sarah Laksana,Teknik Informatika,PT CFU Technology Indonesia,Junior IT Support,2018
+UB1505,Citra Utami,Teknik Elektro,Gojek,Head of Department Finance,2016
+UB1506,Rizky Vebrianto,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Head of Department Admin,2017
+UB1507,Qori Wibowo,Pendidikan TI,"PT Bank Danamon Indonesia, Tbk",Consultant Finance,2015
+UB1508,Fajar Saputra,Ekonomi Islam,PT Solusi Transportasi Indonesia,Junior Staff HR,2021
+UB1509,Putri Yulianto,Teknik Komputer,PT MAS ARYA INDONESIA,Junior DevOps,2021
+UB1510,Nina Maulana,Teknologi Informasi,PT Sejahtera Abadi,Junior IT Support,2017
+UB1511,Budi Pratama,Sistem Informasi,PT Penerbit Erlangga,Junior DevOps,2021
+UB1512,Laras Aditama,Teknologi Hasil Pertanian,PT Mencari Cinta Sejati,Manager HR,2016
+UB1513,Gilang Siregar,Arsitektur,PT Handal Guna Sarana,Engineer Operations,2023
+UB1514,Nina Kusumo,Teknik Komputer,PT MAS ARYA INDONESIA,Senior Data Scientist,2020
+UB1515,Yoga Saputra,Teknik Elektro,PT Sumber Rejeki,Analyst Marketing,2019
+UB1516,Dewi Siregar,Pendidikan TI,PT. Bank KEB Hana Indonesia,Junior Staff Sales,2021
+UB1517,Fajar Kusuma,Hubungan Internasional,PT Trinusa Travelindo,Senior Staff Sales,2017
+UB1518,Rizky Setiawan,Teknik Elektro,"PT DCI Indonesia, Tbk",Specialist Marketing,2022
+UB1519,Pandu Fauzi,Ekonomi Islam,"PT SMART,Tbk",Engineer Finance,2022
+UB1520,Hana Darmawan,Sistem Informasi,PT Penerbit Erlangga,Junior IT Support,2023
+UB1521,Zahra Puspa,Akuntansi,Bank Mandiri,Head of Department Admin,2022
+UB1522,Utomo Soekarno,Arsitektur,PHINTRACO GROUP,Specialist HR,2022
+UB1523,Qori Hartono,Teknik Komputer,StartUp Gagal Bangkit,Senior Software Engineer,2017
+UB1524,Kartika Efendi,Arsitektur,Bank BCA,Specialist Admin,2015
+UB1525,Sarah Wijaya,Teknik Elektro,PT Tsubaki Indonesia Manufacturing,Officer Marketing,2016
+UB1526,Putri Darmawan,Teknik Mesin,Bank Mandiri,Consultant Admin,2017
+UB1527,Gita Kurnia,Akuntansi,"PT SMART,Tbk",Consultant HR,2021
+UB1528,Erlangga Maulana,Agribisnis,PT Sumber Rejeki,Officer Sales,2022
+UB1529,Budi Oktaviani,Ekonomi Islam,"PT Bank Danamon Indonesia, Tbk",Analyst Marketing,2016
+UB1530,Irfan Maulana,Agroekoteknologi,PT. Bank KEB Hana Indonesia,Officer Operations,2016
+UB1531,Laras Prasetyo,Hubungan Internasional,Shopee,Junior Staff Operations,2019
+UB1532,Laras Yulianto,Arsitektur,PT Kapal Api Global,Head of Department Sales,2023
+UB1533,Siti Hidayat,Ilmu Komunikasi,PT Tsubaki Indonesia Manufacturing,Officer Marketing,2019
+UB1534,Desi Soekarno,Teknik Mesin,PT Mencari Cinta Sejati,Engineer Marketing,2022
+UB1535,Hadi Wulandari,Agribisnis,StartUp Gagal Bangkit,Head of Department Operations,2017
+UB1536,Budi Utami,Akuntansi,Bank BCA,Junior Staff Operations,2023
+UB1537,Tegar Susanto,Ekonomi Islam,PT Sejahtera Abadi,Senior Staff HR,2022
+UB1538,Lestari Wulandari,Administrasi Publik,PT Penerbit Erlangga,Officer Admin,2023
+UB1539,Desi Rahmawati,Administrasi Publik,PT Sumber Rejeki,Supervisor Operations,2023
+UB1540,Budi Pratama,Teknik Industri,PT Kapal Api Global,Supervisor Operations,2015
+UB1541,Irfan Cahyono,Psikologi,JAPFA FOOD INDONESIA,Consultant Sales,2017
+UB1542,Dewi Permata,Teknik Informatika,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior Product Manager,2017
+UB1543,Radit Jaya,Agroekoteknologi,"PT Bank Danamon Indonesia, Tbk",Supervisor Finance,2015
+UB1544,Dinda Qodir,Teknik Industri,"PT SMART,Tbk",Head of Department Finance,2019
+UB1545,Fajar Pratama,Teknologi Hasil Pertanian,PT Handal Guna Sarana,Consultant Sales,2022
+UB1546,Bagas Fauzi,Administrasi Publik,PT Sejahtera Abadi,Officer Finance,2018
+UB1547,Chandra Zulkarnain,Ekonomi Islam,Gojek,Supervisor Finance,2022
+UB1548,Siti Suharto,Teknik Lingkungan,PT Sejahtera Abadi,Manager HR,2015
+UB1549,Hana Hartono,Psikologi,"PT Japfa Comfeed Indonesia, Tbk",Specialist Operations,2019
+UB1550,Dewi Santoso,Akuntansi,PHINTRACO GROUP,Management Trainee Marketing,2019
+UB1551,Hana Anggara,Teknik Sipil,PT Penerbit Erlangga,Head of Department Admin,2015
+UB1552,Tegar Efendi,Sistem Informasi,PT Mencari Cinta Sejati,Senior Data Scientist,2015
+UB1553,Tegar Efendi,Agribisnis,PT Penerbit Erlangga,Supervisor Admin,2023
+UB1554,Dinda Firmansyah,Psikologi,PT Kapal Api Global,Supervisor Finance,2018
+UB1555,Tegar Kurnia,Agribisnis,PT Solusi Transportasi Indonesia,Senior Staff Operations,2019
+UB1556,Fajar Jaya,Sistem Informasi,"PT DCI Indonesia, Tbk",Senior Software Engineer,2023
+UB1557,Kartika Zulkarnain,Pendidikan TI,PT Sejahtera Abadi,Engineer Operations,2015
+UB1558,Dinda Widodo,Agribisnis,PT Handal Guna Sarana,Officer Sales,2021
+UB1559,Lestari Kusuma,Pendidikan TI,PT Indocyber Global Teknologi,Senior Staff Finance,2018
+UB1560,Erlangga Vebrianto,Pendidikan TI,Telkom Indonesia,Engineer Sales,2018
+UB1561,Zahra Nasution,Teknik Industri,PT Tsubaki Indonesia Manufacturing,Junior Staff Finance,2022
+UB1562,Bella Efendi,Teknologi Hasil Pertanian,Shopee,Junior Staff Marketing,2015
+UB1563,Rina Hartono,Administrasi Publik,"PT DCI Indonesia, Tbk",Junior Staff Marketing,2018
+UB1564,Citra Suharto,Teknik Komputer,PT Bank KEB Hana Indonesia,Senior IT Support,2021
+UB1565,Cahya Wulandari,Sistem Informasi,PT Handal Guna Sarana,Lead Software Engineer,2020
+UB1566,Siti Darmawan,Administrasi Publik,Tokopedia,Officer HR,2023
+UB1567,Aditya Kusuma,Akuntansi,"PT. Trimegah Sekuritas Indonesia, Tbk",Consultant Finance,2018
+UB1568,Yoga Tanjung,Teknik Industri,PT Handal Guna Sarana,Specialist Operations,2023
+UB1569,Gita Kusumo,Teknik Industri,StartUp Gagal Bangkit,Head of Department Admin,2020
+UB1570,Hana Santoso,Ekonomi Islam,Xiaomi Technology,Senior Staff Admin,2015
+UB1571,Aditya Fauzi,Teknik Informatika,CV Maju Mundur,Junior Data Scientist,2023
+UB1572,Wahyu Aminah,Psikologi,Gojek,Supervisor Finance,2016
+UB1573,Joko Darmawan,Arsitektur,PT Solusi Transportasi Indonesia,Senior Staff Admin,2022
+UB1574,Indah Oktaviani,Administrasi Publik,PT Sejahtera Abadi,Analyst HR,2016
+UB1575,Indah Zulkarnain,Teknik Komputer,PT. Bank KEB Hana Indonesia,Lead Data Scientist,2019
+UB1576,Hadi Irawan,Teknologi Hasil Pertanian,Telkom Indonesia,Head of Department Marketing,2016
+UB1577,Gilang Pangestu,Agroekoteknologi,PT MAS ARYA INDONESIA,Junior Staff HR,2015
+UB1578,Fajar Soekarno,Psikologi,PT Tsubaki Indonesia Manufacturing,Senior Staff Marketing,2021
+UB1579,Joko Laksana,Psikologi,"PT Bank Danamon Indonesia, Tbk",Management Trainee HR,2021
+UB1580,Julia Oktaviani,Teknik Mesin,PT. Bank KEB Hana Indonesia,Engineer Operations,2018
+UB1581,Bella Cahyono,Administrasi Publik,Gojek,Supervisor Sales,2023
+UB1582,Andi Vebrianto,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Senior Staff HR,2023
+UB1583,Bagas Hartono,Teknologi Hasil Pertanian,Bank Mandiri,Officer Marketing,2022
+UB1584,Gilang Aditama,Ilmu Hukum,StartUp Gagal Bangkit,Consultant Operations,2023
+UB1585,Julia Permata,Psikologi,PT Sejahtera Abadi,Specialist Sales,2018
+UB1586,Agus Wibowo,Psikologi,JAPFA FOOD INDONESIA,Management Trainee Marketing,2019
+UB1587,Okta Siregar,Manajemen,Shopee,Head of Department Marketing,2023
+UB1588,Sarah Aditama,Teknik Mesin,PT Kapal Api Global,Manager Finance,2018
+UB1589,Citra Irawan,Teknik Mesin,Bank BCA,Officer Sales,2020
+UB1590,Hadi Yulianto,Pendidikan TI,PT Indocyber Global Teknologi,Manager Marketing,2023
+UB1591,Dewi Vebrianto,Ilmu Ekonomi,PT Mencari Cinta Sejati,Specialist Sales,2021
+UB1592,Aditya Fauzi,Pendidikan TI,Tokopedia,Analyst Marketing,2023
+UB1593,Aditya Zulkarnain,Teknik Lingkungan,PT Solusi Transportasi Indonesia,Senior Staff Admin,2017
+UB1594,Arif Kurnia,Teknik Mesin,"PT Japfa Comfeed Indonesia, Tbk",Senior Staff Finance,2021
+UB1595,Agus Nugroho,Ekonomi Islam,Telkom Indonesia,Junior Staff Sales,2021
+UB1596,Zahra Setiawan,Teknik Mesin,"PT. Trimegah Sekuritas Indonesia, Tbk",Senior Staff Marketing,2018
+UB1597,Tegar Wibowo,Teknik Lingkungan,PT Kapal Api Global,Senior Staff Admin,2017
+UB1598,Irfan Puspa,Akuntansi,StartUp Gagal Bangkit,Officer Admin,2020
+UB1599,Sarah Siregar,Teknik Mesin,PT Sumber Rejeki,Specialist Operations,2016
+UB1600,Bagas Setiawan,Teknik Sipil,PT Sejahtera Abadi,Supervisor Finance,2015
+UB1601,Nadia Nugroho,Teknik Komputer,PT Sumber Rejeki,Junior IT Support,2016
+UB1602,Kartika Yulianto,Agribisnis,PT Trinusa Travelindo,Engineer HR,2023
+UB1603,Gita Budiman,Ilmu Ekonomi,"PT DCI Indonesia, Tbk",Consultant HR,2018
+UB1604,Dinda Nugroho,Ekonomi Islam,Shopee,Consultant Sales,2019
+UB1605,Xena Widodo,Sistem Informasi,PT. Bank KEB Hana Indonesia,Junior Product Manager,2023
+UB1606,Lestari Efendi,Akuntansi,PT MAS ARYA INDONESIA,Consultant Marketing,2019
+UB1607,Julia Susanto,Teknologi Hasil Pertanian,"PT DCI Indonesia, Tbk",Management Trainee Sales,2023
+UB1608,Gita Prasetyo,Teknik Elektro,Tokopedia,Supervisor HR,2019
+UB1609,Mahendra Utama,Teknik Sipil,"PT Japfa Comfeed Indonesia, Tbk",Specialist HR,2021
+UB1610,Qori Oktaviani,Teknik Lingkungan,PT. Bank KEB Hana Indonesia,Supervisor Marketing,2019
+UB1611,Wahyu Wulandari,Sistem Informasi,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead Software Engineer,2017
+UB1612,Rina Rahmawati,Ilmu Hukum,"PT SMART,Tbk",Manager Sales,2018
+UB1613,Indah Yulianto,Teknologi Informasi,Tokopedia,Lead Product Manager,2022
+UB1614,Cahya Pratama,Psikologi,PT Handal Guna Sarana,Engineer HR,2021
+UB1615,Utomo Hartono,Teknik Elektro,PT Indocyber Global Teknologi,Junior Staff HR,2016
+UB1616,Arif Qodir,Ilmu Komunikasi,Bank BCA,Engineer Sales,2018
+UB1617,Irfan Irawan,Teknologi Hasil Pertanian,Gojek,Head of Department Operations,2016
+UB1618,Zahra Gunawan,Ilmu Komunikasi,Gojek,Consultant Operations,2016
+UB1619,Tegar Laksana,Keuangan Perbankan,PT CFU Technology Indonesia,Supervisor HR,2020
+UB1620,Hana Aminah,Teknik Komputer,"PT SMART,Tbk",Lead DevOps,2020
+UB1621,Qori Permata,Teknik Industri,PT Handal Guna Sarana,Manager Finance,2022
+UB1622,Kartika Setiawan,Teknik Lingkungan,PT Bank KEB Hana Indonesia,Engineer HR,2016
+UB1623,Radit Susanto,Teknologi Informasi,PT Penerbit Erlangga,Lead Software Engineer,2020
+UB1624,Rizky Maulana,Hubungan Internasional,PT Mencari Cinta Sejati,Supervisor Sales,2017
+UB1625,Aditya Tanjung,Administrasi Publik,PT Kapal Api Global,Head of Department Admin,2020
+UB1626,Nadia Nugroho,Teknologi Informasi,PT Kapal Api Global,Lead DevOps,2016
+UB1627,Aditya Wibowo,Ilmu Ekonomi,JAPFA FOOD INDONESIA,Head of Department Marketing,2019
+UB1628,Erlangga Irawan,Keuangan Perbankan,PT Tsubaki Indonesia Manufacturing,Engineer Operations,2023
+UB1629,Tegar Kusumo,Ilmu Hukum,StartUp Gagal Bangkit,Junior Staff Sales,2017
+UB1630,Budi Santoso,Teknik Informatika,"PT SMART,Tbk",Junior DevOps,2022
+UB1631,Fajar Efendi,Teknik Komputer,PT CFU Technology Indonesia,Senior IT Support,2019
+UB1632,Siti Maulana,Manajemen,PT Indocyber Global Teknologi,Manager Marketing,2021
+UB1633,Qori Anggara,Ekonomi Islam,Gojek,Supervisor HR,2021
+UB1634,Eko Kurnia,Agribisnis,PT MAS ARYA INDONESIA,Head of Department Operations,2017
+UB1635,Vina Laksana,Agribisnis,"PT DCI Indonesia, Tbk",Engineer Admin,2021
+UB1636,Chandra Nasution,Teknik Mesin,PT MAS ARYA INDONESIA,Consultant Finance,2021
+UB1637,Desi Qodir,Psikologi,PT Indocyber Global Teknologi,Specialist HR,2019
+UB1638,Desi Irawan,Ekonomi Islam,PT Solusi Transportasi Indonesia,Senior Staff Sales,2020
+UB1639,Eko Hartono,Manajemen,"PT. Trimegah Sekuritas Indonesia, Tbk",Manager Operations,2019
+UB1640,Erlangga Tanjung,Teknik Lingkungan,CV Maju Mundur,Supervisor HR,2018
+UB1641,Radit Lestari,Manajemen,Telkom Indonesia,Head of Department Sales,2023
+UB1642,Sarah Permata,Arsitektur,PT CFU Technology Indonesia,Supervisor Finance,2018
+UB1643,Pandu Kurnia,Teknik Elektro,"PT SMART,Tbk",Senior Staff Admin,2022
+UB1644,Tegar Darmawan,Teknik Komputer,Tokopedia,Senior Software Engineer,2021
+UB1645,Utomo Nugroho,Akuntansi,PT Bank KEB Hana Indonesia,Head of Department HR,2019
+UB1646,Bella Utama,Teknik Lingkungan,PT Indocyber Global Teknologi,Engineer Finance,2017
+UB1647,Qori Utama,Psikologi,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Marketing,2018
+UB1648,Radit Vebrianto,Arsitektur,PT Indocyber Global Teknologi,Head of Department Sales,2016
+UB1649,Andi Widodo,Teknik Lingkungan,Telkom Indonesia,Manager Sales,2019
+UB1650,Rina Nasution,Hubungan Internasional,"PT Bank Danamon Indonesia, Tbk",Supervisor Operations,2017
+UB1651,Nina Jaya,Agribisnis,Tokopedia,Supervisor Marketing,2016
+UB1652,Bagas Hidayat,Teknik Elektro,"PT. Trimegah Sekuritas Indonesia, Tbk",Supervisor Operations,2019
+UB1653,Dimas Firmansyah,Pendidikan TI,JAPFA FOOD INDONESIA,Supervisor Operations,2019
+UB1654,Aditya Permata,Psikologi,StartUp Gagal Bangkit,Officer Admin,2017
+UB1655,Mahendra Pangestu,Teknik Mesin,PT Sejahtera Abadi,Senior Staff Operations,2023
+UB1656,Wahyu Anggara,Ilmu Ekonomi,StartUp Gagal Bangkit,Senior Staff HR,2017
+UB1657,Utomo Prasetyo,Ilmu Hukum,PT CFU Technology Indonesia,Specialist Sales,2017
+UB1658,Siti Vebrianto,Teknik Industri,PT Penerbit Erlangga,Junior Staff Marketing,2019
+UB1659,Dimas Oktaviani,Pendidikan TI,PT Penerbit Erlangga,Head of Department Marketing,2016
+UB1660,Laras Kusuma,Hubungan Internasional,PT Penerbit Erlangga,Engineer HR,2022
+UB1661,Farhan Gunawan,Akuntansi,PT Handal Guna Sarana,Management Trainee HR,2017
+UB1662,Mahendra Hartono,Arsitektur,PT Kapal Api Global,Consultant Sales,2020
+UB1663,Irfan Hidayat,Ilmu Ekonomi,CV Maju Mundur,Engineer Marketing,2018
+UB1664,Andi Prasetyo,Teknik Mesin,"PT. Trimegah Sekuritas Indonesia, Tbk",Supervisor Sales,2015
+UB1665,Desi Zulkarnain,Administrasi Publik,PT MAS ARYA INDONESIA,Engineer HR,2017
+UB1666,Aditya Kusumo,Arsitektur,PT Handal Guna Sarana,Engineer Marketing,2017
+UB1667,Rina Soekarno,Agribisnis,Bank Mandiri,Management Trainee Sales,2021
+UB1668,Pandu Gunawan,Agribisnis,Bank BCA,Analyst HR,2016
+UB1669,Nadia Laksana,Sistem Informasi,Gojek,Junior DevOps,2021
+UB1670,Farhan Utami,Teknik Mesin,Telkom Indonesia,Management Trainee Finance,2020
+UB1671,Indah Nasution,Sistem Informasi,Gojek,Lead DevOps,2022
+UB1672,Bella Budiman,Ilmu Ekonomi,Bank BCA,Junior Staff Sales,2020
+UB1673,Tegar Soekarno,Teknologi Informasi,PT Sumber Rejeki,Senior Data Scientist,2016
+UB1674,Julia Kusumo,Teknologi Hasil Pertanian,PT. Bank KEB Hana Indonesia,Senior Staff Admin,2019
+UB1675,Wahyu Permata,Teknologi Informasi,Telkom Indonesia,Junior IT Support,2015
+UB1676,Bayu Kusumo,Teknologi Informasi,PT Tsubaki Indonesia Manufacturing,Lead Data Scientist,2021
+UB1677,Gita Setiawan,Agribisnis,PT MAS ARYA INDONESIA,Junior Staff Sales,2017
+UB1678,Wahyu Vebrianto,Teknik Komputer,PT Sumber Rejeki,Junior IT Support,2017
+UB1679,Arif Lestari,Teknik Elektro,PT Sejahtera Abadi,Specialist Finance,2020
+UB1680,Arif Jaya,Pendidikan TI,PT Sejahtera Abadi,Junior Staff HR,2020
+UB1681,Okta Wulandari,Pendidikan TI,Tokopedia,Head of Department Marketing,2021
+UB1682,Fajar Anggara,Pendidikan TI,PT Handal Guna Sarana,Analyst Admin,2018
+UB1683,Mahendra Santoso,Hubungan Internasional,Telkom Indonesia,Management Trainee Operations,2017
+UB1684,Cahya Soekarno,Teknologi Hasil Pertanian,PT Sejahtera Abadi,Analyst Sales,2019
+UB1685,Hana Laksana,Psikologi,PT. Bank KEB Hana Indonesia,Specialist HR,2023
+UB1686,Qori Kusumo,Akuntansi,Bank Mandiri,Senior Staff HR,2017
+UB1687,Kartika Utami,Arsitektur,"PT Bank Danamon Indonesia, Tbk",Head of Department Operations,2023
+UB1688,Putri Kartika,Teknik Sipil,PT Indocyber Global Teknologi,Junior Staff Operations,2020
+UB1689,Aditya Yudhoyono,Teknologi Informasi,Bank BCA,Junior IT Support,2018
+UB1690,Bella Gunawan,Teknik Informatika,PT Tsubaki Indonesia Manufacturing,Lead Product Manager,2018
+UB1691,Dinda Cahyono,Teknologi Informasi,PT. Bank KEB Hana Indonesia,Lead IT Support,2017
+UB1692,Aditya Aditama,Teknik Lingkungan,PT Trinusa Travelindo,Junior Staff Operations,2021
+UB1693,Hadi Permata,Teknik Industri,PT Trinusa Travelindo,Supervisor Sales,2015
+UB1694,Agus Nugroho,Teknik Komputer,PT. Bank KEB Hana Indonesia,Lead Software Engineer,2022
+UB1695,Zahra Lestari,Teknik Lingkungan,PT Solusi Transportasi Indonesia,Consultant Marketing,2019
+UB1696,Gilang Fauzi,Akuntansi,PT Indocyber Global Teknologi,Junior Staff Operations,2021
+UB1697,Bagas Hidayat,Teknik Industri,PHINTRACO GROUP,Management Trainee Marketing,2015
+UB1698,Gita Utama,Teknik Elektro,PT Sumber Rejeki,Manager Marketing,2018
+UB1699,Hana Lestari,Ilmu Ekonomi,PT Bank KEB Hana Indonesia,Senior Staff Operations,2017
+UB1700,Bella Susanto,Teknologi Hasil Pertanian,PT Trinusa Travelindo,Specialist Sales,2022
+UB1701,Sarah Jaya,Teknik Informatika,JAPFA FOOD INDONESIA,Lead IT Support,2019
+UB1702,Gilang Tanjung,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Manager Finance,2022
+UB1703,Erlangga Soekarno,Teknik Komputer,PT Penerbit Erlangga,Lead IT Support,2020
+UB1704,Hadi Irawan,Akuntansi,PT MAS ARYA INDONESIA,Consultant Finance,2023
+UB1705,Eko Rahmawati,Agribisnis,PT Indocyber Global Teknologi,Manager Admin,2019
+UB1706,Budi Widodo,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Senior Data Scientist,2022
+UB1707,Laras Kusumo,Pendidikan TI,Shopee,Management Trainee Admin,2022
+UB1708,Wahyu Santoso,Teknik Komputer,StartUp Gagal Bangkit,Senior Software Engineer,2019
+UB1709,Bayu Permata,Teknik Komputer,"PT. Trimegah Sekuritas Indonesia, Tbk",Junior Product Manager,2021
+UB1710,Citra Rahmawati,Teknik Mesin,PT Indocyber Global Teknologi,Analyst Marketing,2021
+UB1711,Yoga Qodir,Sistem Informasi,StartUp Gagal Bangkit,Lead DevOps,2017
+UB1712,Fajar Gunawan,Ekonomi Islam,PT Kapal Api Global,Engineer Finance,2015
+UB1713,Citra Yudhoyono,Akuntansi,CV Maju Mundur,Manager HR,2021
+UB1714,Irfan Wijaya,Pendidikan TI,"PT DCI Indonesia, Tbk",Officer Finance,2020
+UB1715,Erlangga Aditama,Manajemen,"PT DCI Indonesia, Tbk",Senior Staff Admin,2020
+UB1716,Vina Puspa,Arsitektur,PT Indocyber Global Teknologi,Consultant HR,2022
+UB1717,Citra Puspa,Teknologi Informasi,PHINTRACO GROUP,Lead Software Engineer,2018
+UB1718,Qori Cahyono,Akuntansi,PT. Bank KEB Hana Indonesia,Specialist Sales,2015
+UB1719,Hadi Jaya,Pendidikan TI,Xiaomi Technology,Management Trainee Admin,2023
+UB1720,Siti Tanjung,Teknik Mesin,PT Mencari Cinta Sejati,Head of Department Admin,2021
+UB1721,Dimas Utama,Ilmu Hukum,PT MAS ARYA INDONESIA,Engineer Marketing,2018
+UB1722,Radit Zulkarnain,Sistem Informasi,Xiaomi Technology,Senior Data Scientist,2021
+UB1723,Pandu Kusuma,Ekonomi Islam,"PT Bank Danamon Indonesia, Tbk",Senior Staff Admin,2019
+UB1724,Joko Anggara,Arsitektur,PT Bank KEB Hana Indonesia,Officer Marketing,2023
+UB1725,Qori Laksana,Arsitektur,StartUp Gagal Bangkit,Analyst Operations,2019
+UB1726,Aditya Pratama,Teknik Informatika,Gojek,Senior DevOps,2018
+UB1727,Desi Firmansyah,Ilmu Hukum,PT. Bank KEB Hana Indonesia,Management Trainee Admin,2022
+UB1728,Dinda Utami,Ilmu Komunikasi,PT Sejahtera Abadi,Junior Staff HR,2021
+UB1729,Julia Utama,Teknik Sipil,PT Indocyber Global Teknologi,Specialist Sales,2015
+UB1730,Joko Fauzi,Teknik Lingkungan,PT Sejahtera Abadi,Manager Operations,2019
+UB1731,Erlangga Anggara,Ilmu Hukum,PT Sejahtera Abadi,Manager HR,2015
+UB1732,Hadi Aminah,Sistem Informasi,PT Kapal Api Global,Senior Product Manager,2019
+UB1733,Tegar Wijaya,Ilmu Komunikasi,PT Sumber Rejeki,Senior Staff Marketing,2019
+UB1734,Laras Anggara,Psikologi,"PT DCI Indonesia, Tbk",Analyst Operations,2021
+UB1735,Irfan Aditama,Manajemen,PHINTRACO GROUP,Officer Sales,2019
+UB1736,Pandu Nasution,Ilmu Ekonomi,PT Trinusa Travelindo,Management Trainee Marketing,2018
+UB1737,Andi Hidayat,Teknik Sipil,PT Sumber Rejeki,Engineer Operations,2021
+UB1738,Utomo Lestari,Pendidikan TI,PT Trinusa Travelindo,Management Trainee Operations,2018
+UB1739,Lestari Widodo,Ilmu Hukum,PT Bank KEB Hana Indonesia,Specialist Finance,2016
+UB1740,Utomo Kartika,Administrasi Publik,PT Tsubaki Indonesia Manufacturing,Engineer Marketing,2023
+UB1741,Utomo Widodo,Hubungan Internasional,Gojek,Analyst Finance,2022
+UB1742,Erlangga Wulandari,Teknik Sipil,JAPFA FOOD INDONESIA,Supervisor Sales,2017
+UB1743,Desi Lestari,Administrasi Publik,PT Mencari Cinta Sejati,Specialist Marketing,2019
+UB1744,Gita Zulkarnain,Hubungan Internasional,Xiaomi Technology,Head of Department HR,2019
+UB1745,Farhan Setiawan,Administrasi Publik,"PT Bank Danamon Indonesia, Tbk",Management Trainee Sales,2023
+UB1746,Andi Budiman,Ilmu Hukum,PT Bank KEB Hana Indonesia,Head of Department Finance,2023
+UB1747,Eko Setiawan,Hubungan Internasional,PT Bank KEB Hana Indonesia,Senior Staff Marketing,2017
+UB1748,Agus Utama,Teknik Komputer,PT Bank KEB Hana Indonesia,Junior Data Scientist,2019
+UB1749,Aditya Kartika,Sistem Informasi,PT MAS ARYA INDONESIA,Junior Data Scientist,2022
+UB1750,Putri Baswedan,Sistem Informasi,Bank BCA,Junior Data Scientist,2022
+UB1751,Bella Fauzi,Akuntansi,"PT. Trimegah Sekuritas Indonesia, Tbk",Management Trainee Marketing,2017
+UB1752,Nadia Wulandari,Teknik Mesin,"PT Japfa Comfeed Indonesia, Tbk",Specialist Admin,2019
+UB1753,Eko Aminah,Teknik Komputer,StartUp Gagal Bangkit,Junior Software Engineer,2018
+UB1754,Vina Firmansyah,Ekonomi Islam,PT CFU Technology Indonesia,Management Trainee Admin,2017
+UB1755,Radit Lestari,Ilmu Ekonomi,PT Sumber Rejeki,Specialist Marketing,2021
+UB1756,Zahra Baswedan,Manajemen,PT Sumber Rejeki,Consultant Sales,2020
+UB1757,Indah Irawan,Teknik Komputer,Tokopedia,Lead Software Engineer,2020
+UB1758,Radit Lestari,Teknik Komputer,Xiaomi Technology,Junior Software Engineer,2023
+UB1759,Irfan Nasution,Psikologi,PT Handal Guna Sarana,Specialist Operations,2017
+UB1760,Erlangga Susanto,Akuntansi,Tokopedia,Management Trainee Finance,2023
+UB1761,Dewi Maulana,Teknologi Hasil Pertanian,PT Trinusa Travelindo,Head of Department Finance,2017
+UB1762,Pandu Irawan,Teknik Industri,PT MAS ARYA INDONESIA,Consultant Admin,2016
+UB1763,Hana Nasution,Ekonomi Islam,PT Handal Guna Sarana,Consultant Finance,2021
+UB1764,Bella Kurnia,Agribisnis,PT Tsubaki Indonesia Manufacturing,Head of Department Admin,2015
+UB1765,Rina Nugroho,Sistem Informasi,Xiaomi Technology,Senior Data Scientist,2017
+UB1766,Farhan Oktaviani,Sistem Informasi,PT. Bank KEB Hana Indonesia,Senior DevOps,2021
+UB1767,Rizky Lestari,Teknik Mesin,PT Indocyber Global Teknologi,Management Trainee HR,2023
+UB1768,Bagas Fauzi,Psikologi,"PT Japfa Comfeed Indonesia, Tbk",Manager Admin,2018
+UB1769,Siti Cahyono,Teknik Industri,"PT Japfa Comfeed Indonesia, Tbk",Management Trainee Admin,2021
+UB1770,Hana Santoso,Psikologi,PT Tsubaki Indonesia Manufacturing,Consultant HR,2018
+UB1771,Budi Soekarno,Teknik Elektro,PT Mencari Cinta Sejati,Specialist Sales,2023
+UB1772,Farhan Jaya,Ilmu Komunikasi,Bank Mandiri,Specialist Sales,2020
+UB1773,Dimas Kurnia,Pendidikan TI,Shopee,Manager Admin,2019
+UB1774,Mahendra Aminah,Teknik Mesin,PT. Bank KEB Hana Indonesia,Manager Admin,2017
+UB1775,Gilang Cahyono,Hubungan Internasional,PT MAS ARYA INDONESIA,Management Trainee Operations,2021
+UB1776,Agus Nugroho,Teknologi Informasi,Bank Mandiri,Lead Software Engineer,2022
+UB1777,Chandra Setiawan,Ilmu Hukum,PT Solusi Transportasi Indonesia,Engineer HR,2019
+UB1778,Gita Susanto,Teknik Informatika,Telkom Indonesia,Senior IT Support,2023
+UB1779,Lestari Budiman,Agroekoteknologi,PHINTRACO GROUP,Officer HR,2018
+UB1780,Gilang Tanjung,Pendidikan TI,CV Maju Mundur,Head of Department Marketing,2021
+UB1781,Agus Darmawan,Teknik Komputer,"PT. Trimegah Sekuritas Indonesia, Tbk",Lead Software Engineer,2023
+UB1782,Sarah Maulana,Teknologi Hasil Pertanian,PT MAS ARYA INDONESIA,Head of Department Operations,2020
+UB1783,Hana Oktaviani,Teknik Informatika,Xiaomi Technology,Senior IT Support,2015
+UB1784,Zahra Utami,Sistem Informasi,PT CFU Technology Indonesia,Lead Product Manager,2017
+UB1785,Vina Permata,Akuntansi,"PT DCI Indonesia, Tbk",Engineer Operations,2015
+UB1786,Dewi Wibowo,Hubungan Internasional,"PT Bank Danamon Indonesia, Tbk",Engineer Marketing,2018
+UB1787,Gilang Prasetyo,Agribisnis,Xiaomi Technology,Supervisor Marketing,2022
+UB1788,Cahya Susanto,Ekonomi Islam,Telkom Indonesia,Head of Department Operations,2023
+UB1789,Agus Aminah,Ilmu Ekonomi,Gojek,Officer Marketing,2016
+UB1790,Dinda Permata,Teknik Komputer,PT Tsubaki Indonesia Manufacturing,Junior DevOps,2019
+UB1791,Joko Firmansyah,Ilmu Komunikasi,"PT Japfa Comfeed Indonesia, Tbk",Analyst Operations,2021
+UB1792,Desi Maulana,Akuntansi,PT. Bank KEB Hana Indonesia,Supervisor Operations,2018
+UB1793,Putri Saputra,Teknik Sipil,PT MAS ARYA INDONESIA,Specialist Finance,2015
+UB1794,Fajar Zulkarnain,Pendidikan TI,"PT Bank Danamon Indonesia, Tbk",Head of Department Marketing,2020
+UB1795,Nina Rahmawati,Teknik Komputer,PHINTRACO GROUP,Lead DevOps,2023
+UB1796,Hadi Santoso,Hubungan Internasional,StartUp Gagal Bangkit,Manager Admin,2018
+UB1797,Kevin Kusumo,Teknologi Hasil Pertanian,PT Trinusa Travelindo,Officer Finance,2021
+UB1798,Hadi Soekarno,Hubungan Internasional,PT Kapal Api Global,Officer HR,2019
+UB1799,Bella Vebrianto,Teknik Informatika,PT Penerbit Erlangga,Senior Data Scientist,2020
+UB1800,Okta Firmansyah,Arsitektur,PT MAS ARYA INDONESIA,Specialist Operations,2020
+UB1801,Arif Oktaviani,Psikologi,PT Penerbit Erlangga,Junior Staff Operations,2015
+UB1802,Dewi Suharto,Arsitektur,PT Sejahtera Abadi,Analyst Sales,2017
+UB1803,Lestari Qodir,Teknik Sipil,PT Mencari Cinta Sejati,Specialist Admin,2017
+UB1804,Laras Aminah,Sistem Informasi,PT Kapal Api Global,Junior IT Support,2023
+UB1805,Bagas Budiman,Teknik Lingkungan,"PT DCI Indonesia, Tbk",Consultant Finance,2015
+UB1806,Andi Pratama,Agroekoteknologi,Gojek,Analyst Admin,2023
+UB1807,Dewi Puspa,Ilmu Hukum,PT Sejahtera Abadi,Consultant Finance,2015
+UB1808,Eko Aditama,Teknik Komputer,Bank BCA,Lead IT Support,2015
+UB1809,Zahra Darmawan,Sistem Informasi,PHINTRACO GROUP,Junior DevOps,2016
+UB1810,Radit Gunawan,Administrasi Publik,JAPFA FOOD INDONESIA,Engineer Operations,2018
+UB1811,Bayu Budiman,Teknik Lingkungan,PT Tsubaki Indonesia Manufacturing,Senior Staff Admin,2018
+UB1812,Sarah Tanjung,Teknik Komputer,StartUp Gagal Bangkit,Lead Software Engineer,2023
+UB1813,Putri Susanto,Teknik Sipil,PT Tsubaki Indonesia Manufacturing,Management Trainee Marketing,2022
+UB1814,Tegar Aditama,Teknik Mesin,PT Sumber Rejeki,Manager HR,2018
+UB1815,Okta Susanto,Sistem Informasi,"PT Japfa Comfeed Indonesia, Tbk",Lead Data Scientist,2020
+UB1816,Nadia Tanjung,Ilmu Ekonomi,Gojek,Management Trainee Operations,2021
+UB1817,Pandu Kartika,Pendidikan TI,PT Trinusa Travelindo,Head of Department Sales,2016
+UB1818,Xena Cahyono,Teknik Komputer,PT Sumber Rejeki,Lead Data Scientist,2015
+UB1819,Hana Utami,Ilmu Komunikasi,"PT DCI Indonesia, Tbk",Supervisor Finance,2017
+UB1820,Tegar Pratama,Ilmu Komunikasi,PT Handal Guna Sarana,Management Trainee Sales,2015
+UB1821,Wahyu Zulkarnain,Teknik Lingkungan,PT Trinusa Travelindo,Officer Marketing,2019
+UB1822,Bella Siregar,Arsitektur,JAPFA FOOD INDONESIA,Analyst Sales,2020
+UB1823,Eko Setiawan,Manajemen,"PT SMART,Tbk",Management Trainee Admin,2023
+UB1824,Irfan Wulandari,Agribisnis,"PT DCI Indonesia, Tbk",Junior Staff HR,2018
+UB1825,Hadi Kurnia,Ilmu Hukum,"PT SMART,Tbk",Junior Staff HR,2018
+UB1826,Agus Cahyono,Manajemen,"PT SMART,Tbk",Consultant HR,2020
+UB1827,Cahya Aditama,Keuangan Perbankan,Bank BCA,Junior Staff Finance,2019
+UB1828,Fajar Puspa,Teknik Elektro,PT Solusi Transportasi Indonesia,Manager Admin,2016
+UB1829,Kevin Firmansyah,Agroekoteknologi,PT Handal Guna Sarana,Analyst Admin,2021
+UB1830,Rina Hartono,Agroekoteknologi,PT CFU Technology Indonesia,Analyst Operations,2022
+UB1831,Eko Jaya,Teknik Industri,PT Handal Guna Sarana,Consultant Admin,2022
+UB1832,Desi Aminah,Ilmu Komunikasi,Gojek,Officer Admin,2021
+UB1833,Rizky Maulana,Teknik Komputer,Gojek,Lead IT Support,2017
+UB1834,Indah Firmansyah,Agroekoteknologi,"PT SMART,Tbk",Manager Admin,2018
+UB1835,Xena Wulandari,Keuangan Perbankan,JAPFA FOOD INDONESIA,Manager Admin,2017
+UB1836,Zahra Rahmawati,Keuangan Perbankan,PT Bank KEB Hana Indonesia,Manager Finance,2019
+UB1837,Wahyu Wulandari,Teknik Mesin,PT Kapal Api Global,Senior Staff Marketing,2015
+UB1838,Yoga Cahyono,Psikologi,PT Sejahtera Abadi,Manager Admin,2016
+UB1839,Dimas Prasetyo,Teknik Informatika,PT Trinusa Travelindo,Senior DevOps,2017
+UB1840,Chandra Jaya,Manajemen,PHINTRACO GROUP,Officer HR,2017
+UB1841,Dimas Maulana,Teknologi Hasil Pertanian,PT Penerbit Erlangga,Junior Staff Admin,2015
+UB1842,Nadia Kurnia,Hubungan Internasional,PT Tsubaki Indonesia Manufacturing,Head of Department Sales,2017
+UB1843,Utomo Kurnia,Teknik Industri,"PT Japfa Comfeed Indonesia, Tbk",Management Trainee Marketing,2022
+UB1844,Hana Kartika,Agroekoteknologi,PT Sejahtera Abadi,Analyst Finance,2021
+UB1845,Yoga Kusuma,Keuangan Perbankan,PT Mencari Cinta Sejati,Specialist Operations,2020
+UB1846,Nina Prasetyo,Ilmu Ekonomi,PT Trinusa Travelindo,Consultant Sales,2019
+UB1847,Eko Kurnia,Arsitektur,"PT SMART,Tbk",Junior Staff Marketing,2021
+UB1848,Citra Tanjung,Teknik Elektro,PT Handal Guna Sarana,Specialist Admin,2016
+UB1849,Rizky Anggara,Teknik Elektro,PT Handal Guna Sarana,Engineer Sales,2021
+UB1850,Indah Hartono,Arsitektur,Tokopedia,Junior Staff Finance,2016
+UB1851,Tegar Widodo,Sistem Informasi,Tokopedia,Lead IT Support,2023
+UB1852,Vina Pangestu,Teknik Sipil,PT MAS ARYA INDONESIA,Manager Admin,2022
+UB1853,Bella Soekarno,Agroekoteknologi,Gojek,Officer Sales,2019
+UB1854,Siti Rahmawati,Teknik Sipil,StartUp Gagal Bangkit,Management Trainee Operations,2023
+UB1855,Rizky Cahyono,Ilmu Hukum,Bank BCA,Consultant HR,2023
+UB1856,Joko Utami,Teknik Informatika,PT Trinusa Travelindo,Lead DevOps,2021
+UB1857,Kartika Puspa,Manajemen,Gojek,Specialist Sales,2015
+UB1858,Fajar Gunawan,Hubungan Internasional,StartUp Gagal Bangkit,Junior Staff HR,2023
+UB1859,Irfan Yudhoyono,Ilmu Komunikasi,PT Bank KEB Hana Indonesia,Supervisor HR,2020
+UB1860,Bagas Budiman,Teknik Industri,Telkom Indonesia,Analyst HR,2020
+UB1861,Zahra Utama,Teknik Industri,PT Kapal Api Global,Specialist Finance,2021
+UB1862,Kartika Laksana,Ilmu Ekonomi,PT Handal Guna Sarana,Officer Operations,2021
+UB1863,Kevin Fauzi,Teknologi Informasi,PT Handal Guna Sarana,Senior Product Manager,2018
+UB1864,Qori Setiawan,Teknik Mesin,Bank Mandiri,Specialist Sales,2020
+UB1865,Chandra Pangestu,Teknik Informatika,PT Indocyber Global Teknologi,Junior IT Support,2017
+UB1866,Dinda Oktaviani,Teknik Informatika,Gojek,Lead IT Support,2021
+UB1867,Vina Jaya,Administrasi Publik,CV Maju Mundur,Manager Operations,2022
+UB1868,Pandu Aditama,Agroekoteknologi,"PT Bank Danamon Indonesia, Tbk",Junior Staff Finance,2016
+UB1869,Siti Pratama,Agribisnis,PT Tsubaki Indonesia Manufacturing,Specialist Marketing,2018
+UB1870,Agus Kusuma,Ilmu Ekonomi,PHINTRACO GROUP,Supervisor HR,2020
+UB1871,Okta Wulandari,Hubungan Internasional,PT Mencari Cinta Sejati,Officer Operations,2021
+UB1872,Utomo Nugroho,Teknik Elektro,PT Kapal Api Global,Supervisor HR,2017
+UB1873,Rina Pratama,Arsitektur,PT Handal Guna Sarana,Senior Staff HR,2023
+UB1874,Dewi Maulana,Hubungan Internasional,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Finance,2018
+UB1875,Nadia Laksana,Psikologi,StartUp Gagal Bangkit,Consultant Operations,2015
+UB1876,Laras Aminah,Ilmu Hukum,CV Maju Mundur,Analyst Admin,2019
+UB1877,Budi Rahmawati,Teknik Mesin,PT Kapal Api Global,Supervisor HR,2015
+UB1878,Dimas Jaya,Sistem Informasi,PT Tsubaki Indonesia Manufacturing,Lead Product Manager,2015
+UB1879,Rina Susanto,Ilmu Hukum,PT Handal Guna Sarana,Head of Department Operations,2015
+UB1880,Utomo Aditama,Teknik Elektro,Shopee,Senior Staff Finance,2020
+UB1881,Rina Baswedan,Akuntansi,Xiaomi Technology,Engineer Marketing,2023
+UB1882,Budi Aditama,Psikologi,Xiaomi Technology,Junior Staff Admin,2020
+UB1883,Farhan Laksana,Ilmu Ekonomi,"PT DCI Indonesia, Tbk",Engineer Marketing,2015
+UB1884,Yoga Nasution,Teknik Mesin,Telkom Indonesia,Junior Staff Admin,2020
+UB1885,Arif Lestari,Administrasi Publik,PT Mencari Cinta Sejati,Officer HR,2016
+UB1886,Wahyu Oktaviani,Ilmu Hukum,Bank BCA,Junior Staff Admin,2022
+UB1887,Utomo Budiman,Teknik Mesin,PT Bank KEB Hana Indonesia,Analyst Marketing,2021
+UB1888,Pandu Anggara,Teknik Lingkungan,Gojek,Head of Department Sales,2018
+UB1889,Rizky Yulianto,Sistem Informasi,Xiaomi Technology,Senior DevOps,2023
+UB1890,Vina Widodo,Teknik Elektro,PT Bank KEB Hana Indonesia,Head of Department Finance,2023
+UB1891,Julia Wijaya,Teknik Mesin,Telkom Indonesia,Officer Marketing,2021
+UB1892,Irfan Kusuma,Teknik Mesin,"PT DCI Indonesia, Tbk",Supervisor HR,2016
+UB1893,Okta Darmawan,Pendidikan TI,Tokopedia,Analyst Finance,2015
+UB1894,Citra Hartono,Sistem Informasi,Gojek,Junior Product Manager,2020
+UB1895,Eko Vebrianto,Ilmu Hukum,PT Trinusa Travelindo,Senior Staff HR,2018
+UB1896,Farhan Siregar,Teknologi Informasi,PT Sumber Rejeki,Lead IT Support,2019
+UB1897,Nina Fauzi,Teknik Komputer,PHINTRACO GROUP,Senior Software Engineer,2015
+UB1898,Dimas Nasution,Agribisnis,Bank BCA,Head of Department Operations,2018
+UB1899,Citra Susanto,Sistem Informasi,PT Mencari Cinta Sejati,Lead Product Manager,2018
+UB1900,Rizky Anggara,Ilmu Ekonomi,"PT. Trimegah Sekuritas Indonesia, Tbk",Analyst Operations,2016
+UB1901,Siti Yulianto,Akuntansi,PT Sejahtera Abadi,Head of Department Sales,2015
+UB1902,Yoga Suharto,Akuntansi,PHINTRACO GROUP,Officer Sales,2023
+UB1903,Citra Fauzi,Sistem Informasi,"PT SMART,Tbk",Junior Product Manager,2021
+UB1904,Vina Efendi,Ekonomi Islam,PT Bank KEB Hana Indonesia,Manager Marketing,2018
+UB1905,Hana Prasetyo,Ekonomi Islam,PT Penerbit Erlangga,Supervisor HR,2018
+UB1906,Nina Suharto,Teknologi Hasil Pertanian,PT CFU Technology Indonesia,Management Trainee Operations,2018
+UB1907,Bagas Kusumo,Ilmu Hukum,PT Tsubaki Indonesia Manufacturing,Supervisor Admin,2023
+UB1908,Erlangga Kusuma,Agribisnis,CV Maju Mundur,Analyst Sales,2023
+UB1909,Utomo Kusuma,Teknologi Hasil Pertanian,Gojek,Junior Staff Operations,2021
+UB1910,Utomo Utama,Manajemen,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Marketing,2023
+UB1911,Chandra Saputra,Ilmu Hukum,"PT DCI Indonesia, Tbk",Engineer Sales,2016
+UB1912,Chandra Saputra,Hubungan Internasional,PT Indocyber Global Teknologi,Senior Staff Marketing,2016
+UB1913,Citra Kusumo,Hubungan Internasional,"PT DCI Indonesia, Tbk",Officer HR,2018
+UB1914,Kevin Siregar,Agribisnis,StartUp Gagal Bangkit,Consultant Marketing,2018
+UB1915,Bella Maulana,Ilmu Hukum,PT Indocyber Global Teknologi,Senior Staff Operations,2017
+UB1916,Farhan Oktaviani,Ekonomi Islam,JAPFA FOOD INDONESIA,Consultant Admin,2015
+UB1917,Pandu Anggara,Teknik Informatika,Bank Mandiri,Lead Data Scientist,2022
+UB1918,Radit Vebrianto,Arsitektur,PT CFU Technology Indonesia,Engineer Sales,2017
+UB1919,Mahendra Yudhoyono,Ilmu Ekonomi,"PT. Trimegah Sekuritas Indonesia, Tbk",Engineer Operations,2019
+UB1920,Rina Jaya,Teknik Informatika,PT Bank KEB Hana Indonesia,Junior Product Manager,2016
+UB1921,Andi Pangestu,Teknik Informatika,PT Sumber Rejeki,Lead Software Engineer,2022
+UB1922,Radit Darmawan,Ilmu Ekonomi,PT Handal Guna Sarana,Manager Finance,2020
+UB1923,Wahyu Baswedan,Ekonomi Islam,"PT Japfa Comfeed Indonesia, Tbk",Senior Staff Operations,2021
+UB1924,Yoga Maulana,Ilmu Hukum,PHINTRACO GROUP,Junior Staff Marketing,2022
+UB1925,Rizky Laksana,Agribisnis,JAPFA FOOD INDONESIA,Supervisor Finance,2016
+UB1926,Sarah Widodo,Teknik Komputer,PT Penerbit Erlangga,Senior Data Scientist,2018
+UB1927,Pandu Setiawan,Administrasi Publik,PT Mencari Cinta Sejati,Supervisor Marketing,2022
+UB1928,Budi Vebrianto,Ilmu Ekonomi,PT Sejahtera Abadi,Engineer Sales,2018
+UB1929,Indah Siregar,Teknologi Hasil Pertanian,"PT. Trimegah Sekuritas Indonesia, Tbk",Head of Department Operations,2018
+UB1930,Budi Rahmawati,Sistem Informasi,CV Maju Mundur,Senior IT Support,2022
+UB1931,Mahendra Darmawan,Administrasi Publik,PT Tsubaki Indonesia Manufacturing,Specialist Admin,2022
+UB1932,Dewi Anggara,Ilmu Ekonomi,PT. Bank KEB Hana Indonesia,Engineer Sales,2016
+UB1933,Bella Soekarno,Ilmu Hukum,"PT SMART,Tbk",Manager Sales,2018
+UB1934,Tegar Santoso,Keuangan Perbankan,PT Tsubaki Indonesia Manufacturing,Senior Staff HR,2019
+UB1935,Citra Hidayat,Agribisnis,PT Solusi Transportasi Indonesia,Junior Staff Sales,2023
+UB1936,Xena Qodir,Teknik Komputer,Shopee,Senior Software Engineer,2018
+UB1937,Eko Maulana,Teknik Mesin,PT Sejahtera Abadi,Officer HR,2015
+UB1938,Rina Soekarno,Agribisnis,PT Solusi Transportasi Indonesia,Supervisor Operations,2017
+UB1939,Farhan Rahmawati,Teknik Lingkungan,Gojek,Engineer Marketing,2020
+UB1940,Zahra Yulianto,Ilmu Hukum,PT Trinusa Travelindo,Senior Staff HR,2015
+UB1941,Aditya Zulkarnain,Akuntansi,Xiaomi Technology,Consultant Sales,2022
+UB1942,Farhan Laksana,Teknik Komputer,PT Handal Guna Sarana,Senior IT Support,2022
+UB1943,Cahya Aminah,Teknik Lingkungan,Telkom Indonesia,Senior Staff Admin,2015
+UB1944,Dinda Firmansyah,Arsitektur,Tokopedia,Consultant Admin,2017
+UB1945,Irfan Fauzi,Agribisnis,PT Indocyber Global Teknologi,Analyst Admin,2021
+UB1946,Xena Yudhoyono,Teknik Elektro,Shopee,Junior Staff HR,2023
+UB1947,Bagas Fauzi,Agroekoteknologi,PT Bank KEB Hana Indonesia,Head of Department Operations,2017
+UB1948,Aditya Permata,Psikologi,Gojek,Management Trainee Sales,2022
+UB1949,Qori Qodir,Sistem Informasi,PT Bank KEB Hana Indonesia,Senior Product Manager,2022
+UB1950,Putri Permata,Ilmu Ekonomi,StartUp Gagal Bangkit,Analyst Operations,2022
+UB1951,Rizky Widodo,Pendidikan TI,Telkom Indonesia,Engineer Finance,2022
+UB1952,Hana Nasution,Teknologi Informasi,"PT SMART,Tbk",Junior Data Scientist,2016
+UB1953,Kartika Puspa,Teknik Sipil,PT. Bank KEB Hana Indonesia,Analyst HR,2021
+UB1954,Eko Lestari,Akuntansi,StartUp Gagal Bangkit,Engineer HR,2016
+UB1955,Laras Maulana,Manajemen,PT Sejahtera Abadi,Management Trainee HR,2020
+UB1956,Fajar Permata,Hubungan Internasional,PT Kapal Api Global,Analyst Sales,2023
+UB1957,Zahra Suharto,Teknik Mesin,PT Tsubaki Indonesia Manufacturing,Manager Finance,2018
+UB1958,Zahra Setiawan,Ilmu Komunikasi,PT Handal Guna Sarana,Engineer Operations,2018
+UB1959,Dewi Kusumo,Ilmu Komunikasi,Shopee,Head of Department Operations,2017
+UB1960,Gita Oktaviani,Ekonomi Islam,"PT SMART,Tbk",Senior Staff Operations,2021
+UB1961,Kartika Baswedan,Teknik Komputer,PT Solusi Transportasi Indonesia,Senior DevOps,2020
+UB1962,Chandra Saputra,Teknik Sipil,PT Mencari Cinta Sejati,Officer Finance,2017
+UB1963,Dimas Wijaya,Teknik Elektro,PT Sejahtera Abadi,Management Trainee Admin,2022
+UB1964,Cahya Puspa,Agribisnis,PT Bank KEB Hana Indonesia,Management Trainee Admin,2019
+UB1965,Indah Fauzi,Keuangan Perbankan,PT Mencari Cinta Sejati,Officer Sales,2023
+UB1966,Bayu Utama,Arsitektur,PT Penerbit Erlangga,Analyst Finance,2018
+UB1967,Irfan Gunawan,Arsitektur,PT Mencari Cinta Sejati,Manager Marketing,2020
+UB1968,Andi Kusuma,Ekonomi Islam,Tokopedia,Junior Staff Finance,2019
+UB1969,Zahra Utama,Akuntansi,Bank BCA,Manager Operations,2023
+UB1970,Nadia Utama,Teknologi Informasi,Bank BCA,Junior IT Support,2020
+UB1971,Aditya Tanjung,Sistem Informasi,Xiaomi Technology,Lead Data Scientist,2023
+UB1972,Dinda Laksana,Sistem Informasi,"PT Japfa Comfeed Indonesia, Tbk",Lead Product Manager,2015
+UB1973,Lestari Hartono,Teknik Mesin,PHINTRACO GROUP,Specialist Operations,2020
+UB1974,Hana Fauzi,Keuangan Perbankan,PT Trinusa Travelindo,Consultant Operations,2022
+UB1975,Lestari Permata,Teknik Mesin,PT Handal Guna Sarana,Manager Finance,2019
+UB1976,Aditya Baswedan,Teknik Mesin,PT CFU Technology Indonesia,Officer Finance,2015
+UB1977,Utomo Puspa,Teknik Informatika,PT Trinusa Travelindo,Junior DevOps,2020
+UB1978,Sarah Darmawan,Manajemen,"PT Bank Danamon Indonesia, Tbk",Management Trainee Sales,2017
+UB1979,Tegar Nugroho,Teknik Informatika,PT Solusi Transportasi Indonesia,Senior Data Scientist,2018
+UB1980,Kevin Prasetyo,Ilmu Hukum,"PT SMART,Tbk",Senior Staff Finance,2015
+UB1981,Xena Aminah,Administrasi Publik,PT Mencari Cinta Sejati,Senior Staff Finance,2019
+UB1982,Bagas Laksana,Arsitektur,Bank Mandiri,Senior Staff Finance,2023
+UB1983,Dewi Wijaya,Teknologi Informasi,PT Kapal Api Global,Lead IT Support,2023
+UB1984,Zahra Puspa,Teknik Lingkungan,PT Mencari Cinta Sejati,Analyst HR,2019
+UB1985,Sarah Aminah,Teknik Informatika,Gojek,Lead DevOps,2016
+UB1986,Joko Setiawan,Teknologi Hasil Pertanian,PT Indocyber Global Teknologi,Consultant Admin,2021
+UB1987,Citra Hartono,Administrasi Publik,PT. Bank KEB Hana Indonesia,Manager HR,2020
+UB1988,Citra Nugroho,Agroekoteknologi,PT Penerbit Erlangga,Junior Staff Sales,2017
+UB1989,Agus Wibowo,Arsitektur,PT Solusi Transportasi Indonesia,Officer Admin,2022
+UB1990,Rizky Hidayat,Hubungan Internasional,PT Solusi Transportasi Indonesia,Head of Department Sales,2019
+UB1991,Utomo Pratama,Teknik Mesin,PT Indocyber Global Teknologi,Head of Department Finance,2018
+UB1992,Citra Yulianto,Arsitektur,Tokopedia,Analyst HR,2017
+UB1993,Chandra Firmansyah,Keuangan Perbankan,"PT Japfa Comfeed Indonesia, Tbk",Analyst Finance,2017
+UB1994,Radit Rahmawati,Ekonomi Islam,PT Kapal Api Global,Specialist Finance,2020
+UB1995,Indah Tanjung,Sistem Informasi,PHINTRACO GROUP,Lead DevOps,2015
+UB1996,Fajar Maulana,Sistem Informasi,PT Indocyber Global Teknologi,Lead Product Manager,2017
+UB1997,Fajar Oktaviani,Manajemen,CV Maju Mundur,Manager Admin,2022
+UB1998,Yoga Firmansyah,Manajemen,PT Tsubaki Indonesia Manufacturing,Head of Department HR,2016
+UB1999,Lestari Cahyono,Keuangan Perbankan,PT Bank KEB Hana Indonesia,Senior Staff Sales,2015
+UB2000,Rina Budiman,Teknik Komputer,Shopee,Junior IT Support,2019

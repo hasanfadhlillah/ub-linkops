@@ -4,14 +4,24 @@ import os
 
 # --- KONFIGURASI ---
 OUTPUT_PATH = "data/external/alumni.csv"
-JUMLAH_ALUMNI = 100  # Kita bikin 100 alumni biar kelihatan banyak database-nya
+JUMLAH_ALUMNI = 2000
 
-# --- DATASET GENERATOR (KHAS UB) ---
-# Daftar Nama Depan & Belakang Indonesia
-first_names = ["Budi", "Siti", "Rizky", "Dewi", "Andi", "Fajar", "Nina", "Dimas", "Rina", "Agus", 
-               "Putri", "Bayu", "Citra", "Eko", "Gita", "Hadi", "Indah", "Joko", "Kartika", "Lestari"]
-last_names = ["Santoso", "Aminah", "Pratama", "Lestari", "Wijaya", "Nugroho", "Kartika", "Anggara", "Kurnia", "Setiawan",
-              "Puspa", "Saputra", "Wulandari", "Susanto", "Permata", "Kusuma", "Hidayat", "Praseyto", "Utami", "Firmansyah"]
+# --- DATASET GENERATOR (KHAS INDONESIA & UB) ---
+first_names = [
+    "Budi", "Siti", "Rizky", "Dewi", "Andi", "Fajar", "Nina", "Dimas", "Rina", "Agus", 
+    "Putri", "Bayu", "Citra", "Eko", "Gita", "Hadi", "Indah", "Joko", "Kartika", "Lestari",
+    "Aditya", "Bagas", "Cahya", "Dinda", "Erlangga", "Farhan", "Gilang", "Hana", "Irfan", "Julia",
+    "Kevin", "Laras", "Mahendra", "Nadia", "Okta", "Pandu", "Qori", "Radit", "Sarah", "Tegar",
+    "Utomo", "Vina", "Wahyu", "Xena", "Yoga", "Zahra", "Arif", "Bella", "Chandra", "Desi"
+]
+
+last_names = [
+    "Santoso", "Aminah", "Pratama", "Lestari", "Wijaya", "Nugroho", "Kartika", "Anggara", "Kurnia", "Setiawan",
+    "Puspa", "Saputra", "Wulandari", "Susanto", "Permata", "Kusuma", "Hidayat", "Prasetyo", "Utami", "Firmansyah",
+    "Aditama", "Budiman", "Cahyono", "Darmawan", "Efendi", "Fauzi", "Gunawan", "Hartono", "Irawan", "Jaya",
+    "Kusumo", "Laksana", "Maulana", "Nasution", "Oktaviani", "Pangestu", "Qodir", "Rahmawati", "Siregar", "Tanjung",
+    "Utama", "Vebrianto", "Wibowo", "Yulianto", "Zulkarnain", "Suharto", "Widodo", "Baswedan", "Yudhoyono", "Soekarno"
+]
 
 # Daftar Jurusan di UB (Sesuai Fakultas)
 majors = [
@@ -27,37 +37,45 @@ majors = [
     "Ilmu Hukum", "Ilmu Komunikasi", "Administrasi Publik", "Hubungan Internasional", "Psikologi"
 ]
 
-# Perusahaan (Harus match sama target scraping kita biar fitur Matching jalan!)
+# --- NAMA PERUSAHAAN SESUAI HASIL SCRAPING ---
 companies = [
-    "Tokopedia", "Gojek", "Traveloka", "Shopee", "Bank Jago", "Bank BCA", "Bank Mandiri", 
-    "Telkom Indonesia", "Ruangguru", "Bibit.id", "Astra International", "BliBli", "Tiket.com",
-    "Pertamina", "PLN", "Unilever", "Danone", "Gudang Garam", "Sampoerna"
+    # Top Real Companies (Hasil Scrape JobStreet)
+    "PT Bank Danamon Indonesia, Tbk", "PT Solusi Transportasi Indonesia", "PT Trinusa Travelindo",
+    "JAPFA FOOD INDONESIA", "PT CFU Technology Indonesia", "PT. Trimegah Sekuritas Indonesia, Tbk",
+    "PT Japfa Comfeed Indonesia, Tbk", "PT Tsubaki Indonesia Manufacturing", "Xiaomi Technology",
+    "PT MAS ARYA INDONESIA", "PT DCI Indonesia, Tbk", "PT SMART,Tbk", "PT Indocyber Global Teknologi",
+    "PT Kapal Api Global", "PT Bank KEB Hana Indonesia", "PT. Bank KEB Hana Indonesia",
+    "PHINTRACO GROUP", "PT Penerbit Erlangga", "PT Handal Guna Sarana", 
+    
+    # Data Fallback 
+    "PT Mencari Cinta Sejati", "CV Maju Mundur", "PT Sumber Rejeki", 
+    "StartUp Gagal Bangkit", "PT Sejahtera Abadi",
+    
+    # Brand Populer
+    "Gojek", "Tokopedia", "Shopee", "Bank BCA", "Bank Mandiri", "Telkom Indonesia"
 ]
 
 positions = [
     "Senior Staff", "Junior Staff", "Manager", "Head of Department", "Specialist", 
-    "Engineer", "Analyst", "Officer", "Consultant", "Supervisor"
+    "Engineer", "Analyst", "Officer", "Consultant", "Supervisor", "Management Trainee"
 ]
 
 def generate_alumni_data():
     data = []
     for i in range(1, JUMLAH_ALUMNI + 1):
-        # Generate ID UB
-        alumni_id = f"UB{str(i).zfill(3)}" # Jadinya UB001, UB002, dst
+        # Generate ID UB (4 digit: UB0001 - UB2000)
+        alumni_id = f"UB{str(i).zfill(4)}" 
         
-        # Generate Nama
         name = f"{random.choice(first_names)} {random.choice(last_names)}"
-        
-        # Generate Jurusan & Posisi
         major = random.choice(majors)
         company = random.choice(companies)
         
-        # Logic dikit: Kalau jurusan IT, posisinya berbau IT. Kalau bukan, General.
+        # Logic: Kalau jurusan IT, posisinya IT. Kalau bukan, General.
         if major in ["Teknik Informatika", "Sistem Informasi", "Teknik Komputer", "Teknologi Informasi"]:
             pos_prefix = random.choice(["Software Engineer", "Data Scientist", "Product Manager", "DevOps", "IT Support"])
             position = f"{random.choice(['Senior', 'Junior', 'Lead'])} {pos_prefix}"
         else:
-            position = f"{random.choice(positions)} {random.choice(['Marketing', 'Finance', 'HR', 'Operations', 'Sales'])}"
+            position = f"{random.choice(positions)} {random.choice(['Marketing', 'Finance', 'HR', 'Operations', 'Sales', 'Admin'])}"
 
         graduation_year = random.randint(2015, 2023)
         
@@ -73,15 +91,13 @@ def generate_alumni_data():
     return data
 
 if __name__ == "__main__":
-    print("🎓 Generating Data Alumni UB...")
+    print(f"🎓 Generating {JUMLAH_ALUMNI} Data Alumni UB...")
     alumni_data = generate_alumni_data()
     
     df = pd.DataFrame(alumni_data)
     
-    # Pastikan folder ada
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     
-    # Simpan CSV
     df.to_csv(OUTPUT_PATH, index=False)
     print(f"✅ Berhasil membuat {len(df)} data alumni di: {OUTPUT_PATH}")
     print("Contoh 5 Data Teratas:")
