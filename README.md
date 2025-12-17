@@ -1,3 +1,12 @@
+Siap! Ini adalah **Konten `README.md**` yang didesain agar repository GitHub kamu terlihat **Profesional, Lengkap, dan "WOW"** di mata dosen atau rekruter.
+
+Saya telah menyusunnya dengan struktur standar *Open Source Project* yang meliputi: Badges (biar keren), Latar Belakang, Fitur, Instalasi, dan Cara Pakai.
+
+---
+
+### 📂 FILE 1: `README.md` (Copy-Paste Ini)
+
+```markdown
 # 🎓 UB-LinkOps: Intelligent Career Matcher & Alumni Network Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
@@ -49,3 +58,69 @@ ub-linkops/
 ├── notebooks/                  # Eksperimen Data Science (EDA & Model)
 ├── README.md                   # Dokumentasi Proyek
 └── requirements.txt            # Daftar Dependensi
+
+```
+
+---
+
+## 🛠️ Instalasi & Cara Penggunaan
+
+### 1. Clone Repository
+
+```bash
+git clone [https://github.com/USERNAME_GITHUB_KAMU/ub-linkops.git](https://github.com/USERNAME_GITHUB_KAMU/ub-linkops.git)
+cd ub-linkops
+
+```
+
+### 2. Install Dependensi
+
+Pastikan Python 3.9+ sudah terinstall, lalu jalankan:
+
+```bash
+pip install -r requirements.txt
+
+```
+
+*(Isi `requirements.txt`: selenium, pandas, webdriver-manager)*
+
+### 3. Menjalankan Data Ingestion Service
+
+Untuk memulai proses scraping lowongan kerja secara kontinu:
+
+```bash
+python src/scraper_job.py
+
+```
+
+*Script ini akan membuka browser (bisa di-set headless), mencari lowongan secara bergantian untuk berbagai jurusan, dan menyimpannya ke `data/raw/jobs_data.csv`.*
+
+### 4. Meng-generate Data Alumni (Opsional)
+
+Jika ingin memperbarui database alumni agar sinkron dengan data lowongan terbaru:
+
+```bash
+python src/generate_alumni.py
+
+```
+
+---
+
+## 📊 Statistik Dataset (Saat Ini)
+
+* **Total Lowongan Terkumpul:** 4.500+ Baris Data
+* **Total Data Alumni:** 2.000+ Profil
+* **Cakupan Domain:** IT, Engineering, Finance, Agriculture, Law, Creative.
+
+---
+
+## 👥 Tim Pengembang
+
+Proyek ini dikembangkan oleh Mahasiswa **Universitas Brawijaya**:
+
+1. **Muhammad Hasan Fadhlillah** (225150207111026)
+2. **Muhammad Husain Fadhlillah** (225150207111027)
+
+---
+
+*Dibuat dengan ❤️ untuk kemajuan karier mahasiswa UB.*
