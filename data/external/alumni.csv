@@ -1,0 +1,101 @@
+alumni_id,name,major,company,position,graduation_year
+UB001,Dimas Kusuma,Sistem Informasi,Pertamina,Lead Product Manager,2016
+UB002,Kartika Permata,Teknik Informatika,BliBli,Lead DevOps,2017
+UB003,Eko Pratama,Teknik Sipil,Pertamina,Supervisor Sales,2022
+UB004,Gita Santoso,Sistem Informasi,Ruangguru,Junior DevOps,2017
+UB005,Gita Anggara,Akuntansi,Shopee,Manager Finance,2019
+UB006,Andi Nugroho,Arsitektur,Bibit.id,Officer Operations,2022
+UB007,Dimas Kurnia,Teknologi Hasil Pertanian,Tiket.com,Consultant Sales,2019
+UB008,Rizky Wijaya,Psikologi,Danone,Engineer Marketing,2017
+UB009,Joko Kurnia,Ekonomi Islam,Shopee,Officer Sales,2023
+UB010,Andi Wijaya,Teknik Informatika,Bank Mandiri,Lead Software Engineer,2022
+UB011,Rizky Aminah,Arsitektur,BliBli,Engineer Sales,2018
+UB012,Putri Utami,Manajemen,Traveloka,Head of Department Marketing,2020
+UB013,Fajar Saputra,Ilmu Ekonomi,Bank Jago,Senior Staff Finance,2019
+UB014,Bayu Anggara,Teknik Elektro,Bank Mandiri,Senior Staff HR,2020
+UB015,Rina Kurnia,Agribisnis,Sampoerna,Supervisor Operations,2017
+UB016,Gita Lestari,Administrasi Publik,Gudang Garam,Officer Operations,2023
+UB017,Gita Saputra,Agribisnis,Unilever,Engineer Operations,2021
+UB018,Putri Permata,Pendidikan TI,Traveloka,Supervisor Finance,2021
+UB019,Agus Permata,Hubungan Internasional,Tokopedia,Engineer Sales,2021
+UB020,Rizky Utami,Teknologi Hasil Pertanian,Tokopedia,Junior Staff Finance,2016
+UB021,Rizky Santoso,Keuangan Perbankan,Traveloka,Engineer Operations,2020
+UB022,Rina Aminah,Akuntansi,Unilever,Specialist Marketing,2018
+UB023,Andi Kusuma,Teknik Mesin,Astra International,Head of Department Sales,2022
+UB024,Rina Lestari,Keuangan Perbankan,Bank BCA,Consultant HR,2016
+UB025,Putri Wulandari,Teknik Mesin,Traveloka,Consultant Sales,2019
+UB026,Dewi Praseyto,Administrasi Publik,Pertamina,Specialist HR,2023
+UB027,Citra Wijaya,Psikologi,Bibit.id,Junior Staff Marketing,2023
+UB028,Rina Setiawan,Manajemen,Sampoerna,Engineer HR,2019
+UB029,Hadi Hidayat,Manajemen,PLN,Analyst Finance,2015
+UB030,Indah Hidayat,Ilmu Ekonomi,Pertamina,Junior Staff Sales,2017
+UB031,Siti Wulandari,Teknik Informatika,Tiket.com,Junior Software Engineer,2018
+UB032,Nina Santoso,Pendidikan TI,Shopee,Senior Staff Finance,2015
+UB033,Kartika Saputra,Ilmu Komunikasi,Tokopedia,Analyst Operations,2021
+UB034,Citra Kurnia,Ekonomi Islam,Bank Mandiri,Junior Staff Sales,2021
+UB035,Citra Susanto,Ilmu Ekonomi,Tokopedia,Head of Department Sales,2022
+UB036,Gita Wulandari,Teknik Informatika,Danone,Junior Data Scientist,2016
+UB037,Kartika Wulandari,Teknik Sipil,PLN,Head of Department Marketing,2019
+UB038,Putri Hidayat,Pendidikan TI,Astra International,Manager Operations,2023
+UB039,Andi Kusuma,Manajemen,Shopee,Senior Staff Finance,2018
+UB040,Andi Permata,Hubungan Internasional,Gudang Garam,Supervisor HR,2021
+UB041,Eko Wulandari,Teknik Elektro,Danone,Junior Staff Sales,2016
+UB042,Rizky Aminah,Teknologi Informasi,Telkom Indonesia,Junior IT Support,2020
+UB043,Nina Pratama,Psikologi,Tiket.com,Engineer Sales,2017
+UB044,Lestari Utami,Ilmu Ekonomi,Shopee,Manager HR,2023
+UB045,Gita Pratama,Teknik Komputer,Sampoerna,Junior Software Engineer,2015
+UB046,Nina Praseyto,Teknologi Informasi,Bank Mandiri,Junior Product Manager,2022
+UB047,Lestari Pratama,Psikologi,Traveloka,Manager Sales,2021
+UB048,Indah Nugroho,Pendidikan TI,Gojek,Engineer Sales,2015
+UB049,Joko Hidayat,Akuntansi,Sampoerna,Analyst Operations,2016
+UB050,Eko Praseyto,Teknik Elektro,Bank Mandiri,Analyst Operations,2023
+UB051,Andi Susanto,Hubungan Internasional,Bank Mandiri,Senior Staff Sales,2023
+UB052,Rina Utami,Agroekoteknologi,Ruangguru,Supervisor Marketing,2018
+UB053,Lestari Permata,Keuangan Perbankan,PLN,Specialist Sales,2021
+UB054,Joko Aminah,Agribisnis,Gojek,Junior Staff HR,2015
+UB055,Kartika Lestari,Teknik Informatika,Traveloka,Junior Data Scientist,2016
+UB056,Citra Wulandari,Sistem Informasi,PLN,Lead DevOps,2021
+UB057,Siti Setiawan,Teknik Lingkungan,Telkom Indonesia,Manager Finance,2018
+UB058,Rizky Saputra,Teknik Elektro,BliBli,Analyst Operations,2021
+UB059,Lestari Lestari,Teknologi Informasi,Tiket.com,Senior IT Support,2023
+UB060,Andi Lestari,Teknologi Hasil Pertanian,Ruangguru,Junior Staff Marketing,2018
+UB061,Indah Setiawan,Teknik Informatika,Bank BCA,Junior Data Scientist,2015
+UB062,Nina Utami,Agribisnis,Gojek,Supervisor Finance,2018
+UB063,Nina Anggara,Agroekoteknologi,Sampoerna,Specialist Finance,2023
+UB064,Kartika Praseyto,Teknik Mesin,Telkom Indonesia,Supervisor HR,2021
+UB065,Eko Lestari,Teknik Elektro,Bank BCA,Manager Operations,2016
+UB066,Eko Kusuma,Arsitektur,Traveloka,Senior Staff Marketing,2020
+UB067,Siti Saputra,Ekonomi Islam,Astra International,Officer Finance,2022
+UB068,Siti Hidayat,Manajemen,BliBli,Officer Finance,2016
+UB069,Eko Lestari,Agribisnis,Tiket.com,Analyst Operations,2018
+UB070,Lestari Anggara,Ilmu Hukum,Astra International,Consultant Finance,2017
+UB071,Rizky Kurnia,Ekonomi Islam,Bibit.id,Officer Finance,2020
+UB072,Siti Kurnia,Administrasi Publik,Gudang Garam,Officer Sales,2016
+UB073,Kartika Pratama,Psikologi,Gojek,Analyst HR,2022
+UB074,Rizky Kurnia,Teknik Komputer,Bank BCA,Senior DevOps,2015
+UB075,Fajar Lestari,Teknologi Informasi,Shopee,Junior Software Engineer,2023
+UB076,Dimas Saputra,Agroekoteknologi,Tiket.com,Manager Finance,2023
+UB077,Rizky Nugroho,Teknik Sipil,Bank Jago,Head of Department Operations,2021
+UB078,Rizky Santoso,Keuangan Perbankan,PLN,Head of Department Sales,2022
+UB079,Kartika Aminah,Teknik Sipil,Unilever,Head of Department Sales,2023
+UB080,Eko Kurnia,Ilmu Ekonomi,BliBli,Specialist Finance,2018
+UB081,Fajar Setiawan,Agroekoteknologi,Traveloka,Analyst Finance,2022
+UB082,Citra Susanto,Manajemen,Astra International,Manager Operations,2019
+UB083,Budi Utami,Sistem Informasi,Telkom Indonesia,Lead Product Manager,2023
+UB084,Rizky Saputra,Teknik Industri,Bank BCA,Engineer Finance,2015
+UB085,Rina Utami,Arsitektur,Ruangguru,Consultant Finance,2016
+UB086,Budi Nugroho,Teknologi Informasi,Pertamina,Senior IT Support,2020
+UB087,Dewi Utami,Psikologi,Astra International,Specialist Finance,2015
+UB088,Dimas Aminah,Keuangan Perbankan,Traveloka,Engineer Finance,2015
+UB089,Lestari Setiawan,Teknologi Informasi,Tokopedia,Lead Data Scientist,2015
+UB090,Indah Permata,Agroekoteknologi,Tiket.com,Supervisor Sales,2020
+UB091,Eko Hidayat,Ilmu Hukum,Gojek,Analyst Marketing,2021
+UB092,Eko Anggara,Agribisnis,Unilever,Supervisor HR,2016
+UB093,Indah Pratama,Ilmu Hukum,Bank Jago,Manager Sales,2017
+UB094,Citra Wijaya,Ekonomi Islam,Bank Jago,Senior Staff HR,2019
+UB095,Fajar Permata,Hubungan Internasional,Pertamina,Supervisor Sales,2022
+UB096,Eko Santoso,Ilmu Komunikasi,Gudang Garam,Junior Staff Finance,2019
+UB097,Dewi Kurnia,Teknik Sipil,Tiket.com,Analyst Marketing,2016
+UB098,Citra Pratama,Teknik Elektro,Astra International,Senior Staff Operations,2016
+UB099,Bayu Susanto,Teknologi Informasi,Bank Mandiri,Lead Product Manager,2020
+UB100,Eko Hidayat,Teknologi Informasi,Astra International,Lead IT Support,2022
