@@ -11,6 +11,8 @@ services:
       - ./src:/app/src
     ports:
       - "8000:8000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     environment:
       - PYTHONUNBUFFERED=1
     # Jalankan Scraper
@@ -49,14 +51,14 @@ services:
 
   # --- SERVICE 4: MLFLOW TRACKING SERVER ---
   mlflow-server:
-    image: ghcr.io/mlflow/mlflow:latest
+    image: ghcr.io/mlflow/mlflow:v2.13.0
     container_name: ub-linkops-mlflow
     ports:
       - "5000:5000"
     volumes:
       - ./mlruns:/app/mlruns
     environment:
-      - MLFLOW_HTTP_ALLOW_ALL_HOSTS="true"
+      - MLFLOW_HTTP_ALLOW_ALL_HOSTS=true
     command: mlflow server --host 0.0.0.0 --port 5000
     networks:
       - ublinkops-network

@@ -21,7 +21,7 @@ def run_experiment():
     print(f"🧪 Memulai Eksperimen Model SBERT dengan {len(documents)} data lowongan...")
 
     # --- KONFIGURASI TRACKING SERVER ---
-    mlflow.set_tracking_uri("http://ub-linkops-mlflow:5000") 
+    mlflow.set_tracking_uri("http://host.docker.internal:5000") 
 
     # Set MLflow Experiment
     mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)
