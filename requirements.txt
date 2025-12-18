@@ -3,3 +3,11 @@ pandas
 webdriver-manager
 psycopg2-binary
 sqlalchemy
+
+# --- ML & API Dependencies ---
+sentence-transformers
+mlflow
+scikit-learn
+fastapi
+uvicorn
+python-multipart
