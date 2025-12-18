@@ -1,6 +1,6 @@
 # --- Core ---
-selenium
-pandas
+selenium==4.27.0
+pandas==2.2.3
 webdriver-manager
 psycopg2-binary
 sqlalchemy
@@ -8,22 +8,22 @@ scikit-learn
 python-multipart
 
 # --- AI & ML ---
-sentence-transformers
-mlflow
+torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==3.3.1
+mlflow==2.13.0
 dvc
-dvc-s3  # Untuk konek ke MinIO
-s3fs    # Filesystem S3
+dvc-s3  
+s3fs    
 
 # --- Backend & API ---
-fastapi
-uvicorn
-redis   # Untuk Caching
-requests
-
-# --- Observability ---
-prometheus-fastapi-instrumentator # Untuk Monitoring API
-
-# --- Frontend ---
-streamlit
+fastapi==0.115.6
+uvicorn==0.34.0
+redis
 requests
 pypdf
+
+# --- Observability ---
+prometheus-fastapi-instrumentator
+
+# --- Frontend ---
+streamlit==1.41.1
