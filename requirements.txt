@@ -3,14 +3,8 @@ pandas
 webdriver-manager
 psycopg2-binary
 sqlalchemy
-
-# --- ML & API Dependencies ---
 mlflow
 scikit-learn
 fastapi
 uvicorn
-
-
---extra-index-url https://download.pytorch.org/whl/cpu
-torch
-sentence-transformers
+python-multipart
