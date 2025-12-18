@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: ub-linkops-service
+spec:
+  type: LoadBalancer # Biar bisa diakses publik
+  selector:
+    app: ub-linkops
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8000

@@ -1,0 +1,20 @@
+name: UB-LinkOps CI Pipeline
+
+on: [push]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+      # Kita tes apakah script training bisa jalan tanpa error
+      - name: Run Model Validation
+        run: |
+          python src/training/train.py

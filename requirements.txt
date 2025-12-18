@@ -1,10 +1,27 @@
+# --- Core ---
 selenium
 pandas
 webdriver-manager
 psycopg2-binary
 sqlalchemy
-mlflow
 scikit-learn
+python-multipart
+
+# --- AI & ML ---
+sentence-transformers
+mlflow
+dvc
+dvc-s3  # Untuk konek ke MinIO
+s3fs    # Filesystem S3
+
+# --- Backend & API ---
 fastapi
 uvicorn
-python-multipart
+redis   # Untuk Caching
+requests
+
+# --- Observability ---
+prometheus-fastapi-instrumentator # Untuk Monitoring API
+
+# --- Frontend ---
+streamlit

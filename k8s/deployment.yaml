@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ub-linkops-api
+spec:
+  replicas: 3 # Scale Out: Jalankan 3 copy sekaligus
+  selector:
+    matchLabels:
+      app: ub-linkops
+  template:
+    metadata:
+      labels:
+        app: ub-linkops
+    spec:
+      containers:
+        - name: api-container
+          image: hasanfadhlillah/ub-linkops:latest
+          ports:
+            - containerPort: 8000
+          env:
+            - name: REDIS_URL
+              value: "redis://redis-service:6379"

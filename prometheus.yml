@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: "ub-linkops-api"
+    static_configs:
+      - targets: ["api-service:8000"]
