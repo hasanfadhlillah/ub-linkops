@@ -5,9 +5,12 @@ psycopg2-binary
 sqlalchemy
 
 # --- ML & API Dependencies ---
-sentence-transformers
 mlflow
 scikit-learn
 fastapi
 uvicorn
-python-multipart
+
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+sentence-transformers
