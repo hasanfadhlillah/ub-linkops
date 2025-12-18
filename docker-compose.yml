@@ -3,7 +3,7 @@ version: "3.8"
 services:
   # 1. SCRAPER & TRAINING WORKER
   scraper-service:
-    build: .
+    image: ub-linkops-image
     container_name: ub-linkops-scraper
     volumes:
       - ./data:/app/data
@@ -23,7 +23,7 @@ services:
 
   # 2. BACKEND API (FastAPI)
   api-service:
-    build: .
+    image: ub-linkops-image
     container_name: ub-linkops-api
     ports:
       - "8000:8000"
@@ -44,7 +44,7 @@ services:
 
   # 3. FRONTEND (Streamlit)
   frontend-service:
-    build: .
+    image: ub-linkops-image
     container_name: ub-linkops-frontend
     ports:
       - "8501:8501"
