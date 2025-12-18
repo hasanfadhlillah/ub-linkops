@@ -15,12 +15,15 @@ def run_experiment():
 
     # Load Data
     df = pd.read_csv(DATA_PATH)
-    # Ambil sampel 100 data saja untuk eksperimen cepat (hapus .head(100) untuk full training)
+    # Gunakan seluruh data clean hasil preprocessing
     documents = df['clean_text'].tolist()
     
     print(f"🧪 Memulai Eksperimen Model SBERT dengan {len(documents)} data lowongan...")
 
-    # Set MLflow
+    # --- KONFIGURASI TRACKING SERVER ---
+    mlflow.set_tracking_uri("http://ub-linkops-mlflow:5000") 
+
+    # Set MLflow Experiment
     mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)
 
     # Daftar Model Kandidat (Kecil vs Sedang)
@@ -43,7 +46,7 @@ def run_experiment():
             
             duration = time.time() - start_time
             
-            # 3. Log Metrics ke MLflow
+            # 3. Log Metrics & Params ke MLflow
             mlflow.log_param("model_name", model_name)
             mlflow.log_param("data_count", len(documents))
             mlflow.log_metric("embedding_time_sec", duration)
@@ -51,7 +54,7 @@ def run_experiment():
             
             print(f"      ✅ Selesai dalam {duration:.2f} detik.")
 
-    print("🏁 Eksperimen Selesai! Cek MLflow UI untuk detailnya.")
+    print("🏁 Eksperimen Selesai! Cek MLflow UI di http://localhost:5000 untuk detailnya.")
 
 if __name__ == "__main__":
     run_experiment()

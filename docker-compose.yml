@@ -47,6 +47,18 @@ services:
     networks:
       - ublinkops-network
 
+  # --- SERVICE 4: MLFLOW TRACKING SERVER ---
+  mlflow-server:
+    image: ghcr.io/mlflow/mlflow:latest
+    container_name: ub-linkops-mlflow
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./mlruns:/app/mlruns
+    command: mlflow ui --host 0.0.0.0
+    networks:
+      - ublinkops-network
+
 # Definisi Network & Volume
 networks:
   ublinkops-network:
