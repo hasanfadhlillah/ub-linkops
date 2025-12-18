@@ -13,14 +13,18 @@ RUN apt-get update && apt-get install -y \
 # 2. Install PyTorch CPU Only (Layer 2)
 RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
 
-# 3. Install Library Lain (Layer 3)
+# 3. Upgrade installer agar bisa membaca dependency modern
+RUN pip install --no-cache-dir --upgrade pip setuptools wheel
+
+# 4. Install Library Lain (Layer 3)
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 4. Install Sentence Transformers (Layer 4)
+# 5. Install Sentence Transformers (Layer 4)
 RUN pip install --no-cache-dir sentence-transformers
 
-# 5. Copy Kode Project
+# 6. Copy Kode Project
 COPY . .
 
-CMD ["python", "src/scraper_job.py"]
+# Default command (akan di-override oleh docker-compose)
+CMD ["python", "src/scraper/scraper_job.py"]

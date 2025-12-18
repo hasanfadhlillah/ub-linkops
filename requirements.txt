@@ -25,3 +25,5 @@ prometheus-fastapi-instrumentator # Untuk Monitoring API
 
 # --- Frontend ---
 streamlit
+requests
+pypdf

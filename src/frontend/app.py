@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
 import pandas as pd
+from pypdf import PdfReader # Import PdfReader
 
 # --- KONFIGURASI ---
 # Alamat Backend API (Menggunakan nama service di Docker Network)
@@ -45,18 +46,31 @@ with col1:
             "Ilmu Hukum", "Administrasi Publik", "Pertanian"
         ])
         
-        # --- FITUR UPLOAD CV (TXT File) ---
-        uploaded_file = st.file_uploader("Upload CV (Format .txt)", type=['txt'])
+        # --- FITUR UPLOAD CV (PDF & TXT) ---
+        # Sekarang support PDF dan TXT
+        uploaded_file = st.file_uploader("Upload CV (Format PDF atau .txt)", type=['pdf', 'txt'])
         
-        # Jika user upload file, baca isinya. Jika tidak, sediakan text area.
         cv_text_input = ""
         if uploaded_file is not None:
-            # Membaca file yang diupload
-            cv_text_input = uploaded_file.read().decode("utf-8")
-            st.success("✅ File CV berhasil dibaca!")
-            # Tampilkan preview (hidden) agar dikirim saat submit
-        
+            try:
+                # Cek tipe file
+                if uploaded_file.type == "application/pdf":
+                    # Proses PDF
+                    reader = PdfReader(uploaded_file)
+                    text = ""
+                    for page in reader.pages:
+                        text += page.extract_text() + "\n"
+                    cv_text_input = text
+                    st.success(f"✅ File PDF berhasil dibaca! ({len(reader.pages)} halaman)")
+                else:
+                    # Proses TXT (seperti sebelumnya)
+                    cv_text_input = uploaded_file.read().decode("utf-8")
+                    st.success("✅ File Text berhasil dibaca!")
+            except Exception as e:
+                st.error(f"Gagal membaca file: {e}")
+
         # Text Area tetap ada untuk opsi Copy-Paste atau edit hasil upload
+        # Value akan terisi otomatis jika file diupload
         cv_text = st.text_area("Isi / Edit CV:", value=cv_text_input, height=250, 
                                placeholder="Atau paste isi CV kamu di sini...")
         
@@ -120,7 +134,7 @@ with col2:
                                     else:
                                         st.caption("Belum ada data alumni tersimpan di perusahaan ini.")
 
-                                    # --- BAGIAN DETAIL TEKNIS (UNTUK 2 POIN TAMBAHAN) ---
+                                    # --- BAGIAN DETAIL TEKNIS ---
                                     with st.expander("🔍 Lihat Detail Teknis (Metadata)"):
                                         # POIN 6: Original Score (Sebelum Boost)
                                         st.write(f"**Original Semantic Score:** {job['original_score']:.4f}")
