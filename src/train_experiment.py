@@ -18,7 +18,7 @@ def run_experiment():
     # Ambil sampel 100 data saja untuk eksperimen cepat (hapus .head(100) untuk full training)
     documents = df['clean_text'].tolist()
     
-    print(f"🧪 Memulai Eksperimen dengan {len(documents)} data lowongan...")
+    print(f"🧪 Memulai Eksperimen Model SBERT dengan {len(documents)} data lowongan...")
 
     # Set MLflow
     mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)

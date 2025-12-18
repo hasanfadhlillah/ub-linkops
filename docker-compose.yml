@@ -9,9 +9,11 @@ services:
       # Mapping folder data container ke laptop (biar CSV muncul di laptop)
       - ./data:/app/data
       - ./src:/app/src
+    ports:
+      - "8000:8000"
     environment:
       - PYTHONUNBUFFERED=1
-    # Perintah: Jalankan Scraper
+    # Jalankan Scraper
     command: python src/scraper_job.py
     networks:
       - ublinkops-network
