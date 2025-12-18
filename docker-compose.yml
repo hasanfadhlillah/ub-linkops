@@ -56,7 +56,7 @@ services:
     volumes:
       - ./mlruns:/app/mlruns
     environment:
-      - MLFLOW_HTTP_ALLOW_ALL_HOSTS=true
+      - MLFLOW_HTTP_ALLOW_ALL_HOSTS="true"
     command: mlflow server --host 0.0.0.0 --port 5000
     networks:
       - ublinkops-network
