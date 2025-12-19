@@ -13,8 +13,8 @@ Instrumentator().instrument(app).expose(app)
 print("⏳ Loading Models & Data...")
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-JOBS_PATH = "data/processed/jobs_clean.csv"
-ALUMNI_PATH = "data/external/alumni.csv"
+JOBS_PATH = "data/jobs_clean.csv"
+ALUMNI_PATH = "data/alumni.csv"
 
 # Load Data Sekali Saja
 if os.path.exists(JOBS_PATH):
