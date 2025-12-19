@@ -16,7 +16,6 @@ st.set_page_config(
 
 # --- HEADER & SIDEBAR ---
 with st.sidebar:
-    st.image("https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.wikipedia.org%2Fwiki%2FBerkas%3ALogo_Universitas_Brawijaya.svg&psig=AOvVaw1JTuvrIHFZrT22pi1x0qoD&ust=1766195457250000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODevfjEyJEDFQAAAAAdAAAAABAK", width=150)
     st.title("UB-LinkOps")
     st.markdown("---")
     st.write("**Tentang Aplikasi:**")
