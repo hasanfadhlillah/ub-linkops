@@ -38,7 +38,10 @@ services:
 
   # 3. MLFLOW
   mlflow-server:
-    image: ghcr.io/mlflow/mlflow:v2.13.0
+    build:
+      context: .
+      dockerfile: Dockerfile.mlflow
+
     container_name: ub-linkops-mlflow
     ports:
       - "5000:5000"
@@ -49,6 +52,7 @@ services:
       - ./mlruns:/mlartifacts
     depends_on:
       - postgres-db
+    # Command tetap sama
     command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri postgresql://admin:password123@postgres-db:5432/ublinkops_db --default-artifact-root /mlartifacts
     networks:
       - ublinkops-network
