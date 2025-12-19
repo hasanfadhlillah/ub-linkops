@@ -1,0 +1,41 @@
+name: UB-LinkOps CD (Delivery)
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Login to Docker Hub
+        uses: docker/login-action@v2
+        with:
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      # BUILD & PUSH API SERVICE
+      - name: Build and push API
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: Dockerfile
+          push: true
+          # Ganti 'hasanfadhlillah' dengan username docker hub kamu
+          tags: ${{ secrets.DOCKER_USERNAME }}/ub-linkops-api:latest
+
+      # (Opsional) BUILD & PUSH FRONTEND
+      # Karena Dockerfile-nya sama, kita bisa tag ulang saja biar efisien
+      - name: Build and push Frontend
+        uses: docker/build-push-action@v4
+        with:
+          context: .
+          file: Dockerfile
+          push: true
+          tags: ${{ secrets.DOCKER_USERNAME }}/ub-linkops-frontend:latest
