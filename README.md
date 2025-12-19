@@ -1,117 +1,148 @@
 # 🎓 UB-LinkOps: Intelligent Career Matcher & Alumni Network Analyzer
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-green?style=for-the-badge&logo=selenium)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?style=for-the-badge&logo=pandas)
-![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.31-FF4B4B?style=for-the-badge&logo=streamlit)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2?style=for-the-badge&logo=mlflow)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=for-the-badge&logo=grafana)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Deployment-FFD21E?style=for-the-badge&logo=huggingface)
 
-> **Platform MLOps cerdas yang menjembatani mahasiswa Universitas Brawijaya dengan dunia industri melalui Semantic Matching & Analisis Jejaring Alumni.**
+> **Platform MLOps End-to-End yang menjembatani mahasiswa Universitas Brawijaya dengan dunia industri melalui Semantic Matching & Analisis Jejaring Alumni.**
 
 ---
 
 ## 📖 Latar Belakang Project
-**UB-LinkOps** adalah proyek akhir mata kuliah **Machine Learning Operations (MLOps)** yang bertujuan untuk menyelesaikan masalah "mismatch" antara lulusan universitas dan kebutuhan industri. 
+**UB-LinkOps** adalah proyek akhir mata kuliah **Machine Learning Operations (MLOps)** yang bertujuan untuk menyelesaikan masalah "mismatch" antara lulusan universitas dan kebutuhan industri.
 
-Sistem ini tidak hanya merekomendasikan lowongan kerja berdasarkan kata kunci, tetapi menggunakan pendekatan **Hybrid Intelligence**:
-1.  **Semantic Matching:** Mencocokkan konteks CV mahasiswa dengan lowongan kerja secara mendalam (bukan sekadar keyword).
+Sistem ini menerapkan siklus **Closed-Loop MLOps** yang mengintegrasikan pengambilan data otomatis, pelatihan model berkelanjutan (*Continuous Training*), dan pemantauan performa (*Observability*).
+
+Kami menggunakan pendekatan **Hybrid Intelligence**:
+1.  **Semantic Matching (SBERT):** Mencocokkan konteks CV mahasiswa dengan lowongan kerja secara mendalam menggunakan *Sentence-BERT Transformers* (bukan sekadar keyword).
 2.  **Alumni Network Booster:** Memberikan prioritas rekomendasi pada perusahaan yang memiliki rekam jejak mempekerjakan alumni Universitas Brawijaya.
 
 ---
 
 ## 🚀 Fitur Unggulan (Key Features)
 
-### 1. Continuous Data Ingestion (Hybrid Scraper)
-Sistem pengumpulan data lowongan kerja yang berjalan otomatis (*background service*) dengan kemampuan:
-* **Real-time Scraping:** Mengambil data langsung dari portal **JobStreet Indonesia**.
-* **Inklusivitas Fakultas:** Algoritma rotasi keyword yang mencakup seluruh rumpun ilmu di UB (Teknologi, Ekonomi, Pertanian, Teknik, Sosial Hukum).
-* **Fail-Safe Mechanism:** Fitur cerdas yang otomatis beralih ke *Simulated Data Generator* jika terjadi gangguan koneksi atau pemblokiran IP, menjamin pipeline data tidak pernah berhenti.
+### 🧠 Intelligent Core
+* **SBERT Model:** Menggunakan model `all-MiniLM-L6-v2` untuk representasi vektor teks yang akurat.
+* **Alumni Booster Algorithm:** Logika bisnis unik yang meningkatkan skor relevansi sebesar **15%** jika ditemukan alumni UB di perusahaan target.
 
-### 2. Internal Data Simulation (Alumni Database)
-Generator data sintetik yang cerdas untuk mensimulasikan aset data internal kampus (Career Development Center). Data alumni disinkronisasi secara otomatis dengan perusahaan top yang ditemukan dari hasil scraping.
+### 🔄 MLOps Pipeline
+* **Experiment Tracking:** Menggunakan **MLflow** untuk mencatat parameter model, metrik akurasi, dan durasi inferensi setiap kali training berjalan.
+* **Data Versioning:** Menggunakan **DVC** untuk melacak perubahan dataset (raw vs processed).
+* **Containerization:** Seluruh layanan (API, Frontend, Database, Monitoring) dibungkus dalam **Docker**.
+* **CI/CD Automation:** Pipeline GitHub Actions untuk testing otomatis dan deployment ke Docker Hub.
+
+### 👁️ Observability & Monitoring
+* **Real-time Metrics:** Menggunakan **Prometheus** untuk mengumpulkan data latensi API dan throughput.
+* **Grafana Dashboard:** Visualisasi kesehatan sistem, error rate (5xx), dan performa endpoint `/match`.
+
+---
+
+## 🌐 Link Demo (Live)
+
+| Komponen | URL Akses | Deskripsi |
+| :--- | :--- | :--- |
+| **Frontend App** | [**ub-linkops.streamlit.app**](https://ub-linkops.streamlit.app/) | Antarmuka Mahasiswa (Upload CV) |
+| **Backend API** | [**Hugging Face Space**](https://hasanfadhlillah01-ub-linkops-api.hf.space/docs) | Dokumentasi Swagger UI (API) |
+| **Docker Hub** | [**hasanfadhlillah/ub-linkops**](https://hub.docker.com/r/hasanfadhlillah/ub-linkops) | Registry Image Container |
 
 ---
 
 ## 📂 Struktur Direktori
 
+Project ini mengikuti standar struktur MLOps untuk menjamin *reproducibility*:
+
 ```text
 ub-linkops/
-├── data/
-│   ├── raw/
-│   │   └── jobs_data.csv       # Dataset Lowongan (Continuous Append)
-│   ├── external/
-│   │   └── alumni.csv          # Dataset Alumni (Simulated)
-│   └── scraper_log.txt         # Log Aktivitas Scraping (Observability)
-│
-├── src/
-│   ├── scraper_job.py          # Service Utama (Hybrid Scraper)
-│   └── generate_alumni.py      # Utility Generator Data Alumni
-│
-├── notebooks/                  # Eksperimen Data Science (EDA & Model)
-├── README.md                   # Dokumentasi Proyek
-└── requirements.txt            # Daftar Dependensi
+├── .github/workflows/      # CI/CD Pipeline (GitHub Actions)
+├── data/                   # Manajemen Data (Tracked by DVC)
+│   ├── raw/                # Hasil scraping mentah
+│   ├── processed/          # Data bersih siap training
+│   └── external/           # Database Alumni UB
+├── src/                    # Source Code Utama
+│   ├── app/                # Backend API (FastAPI)
+│   ├── frontend/           # UI Web (Streamlit)
+│   ├── scraper/            # Hybrid Scraper (Selenium)
+│   └── training/           # Pipeline Training Model
+├── k8s/                    # Konfigurasi Kubernetes (Optional)
+├── tests/                  # Unit Testing (pytest)
+├── docker-compose.yml      # Orkestrasi Layanan Lokal
+├── Dockerfile              # Blueprint Image API
+├── Dockerfile.mlflow       # Blueprint Image MLflow (dengan driver db)
+└── requirements.txt        # Dependensi Python
 
 ```
 
 ---
 
-## 🛠️ Instalasi & Cara Penggunaan
+## 🛠️ Instalasi & Cara Menjalankan (Local)
 
-### 1. Clone Repository
+### Metode 1: Menggunakan Docker (Rekomendasi)
+
+Pastikan **Docker Desktop** sudah terinstall. Ini akan menjalankan seluruh ekosistem (API, Frontend, MLflow, Grafana, Prometheus, Postgres) secara bersamaan.
 
 ```bash
-git clone [https://github.com/USERNAME_GITHUB_KAMU/ub-linkops.git](https://github.com/USERNAME_GITHUB_KAMU/ub-linkops.git)
+# 1. Clone Repository
+git clone [https://github.com/hasanfadhlillah/ub-linkops.git](https://github.com/hasanfadhlillah/ub-linkops.git)
 cd ub-linkops
 
+# 2. Jalankan Docker Compose
+docker compose up --build
+
 ```
 
-### 2. Install Dependensi
+**Akses Layanan Lokal:**
 
-Pastikan Python 3.9+ sudah terinstall, lalu jalankan:
+* **Frontend:** `http://localhost:8501`
+* **API Docs:** `http://localhost:8000/docs`
+* **MLflow UI:** `http://localhost:5000`
+* **Grafana:** `http://localhost:3000` (User: admin/admin)
+
+### Metode 2: Menjalankan Manual (Python)
+
+Jika ingin menjalankan komponen secara terpisah:
 
 ```bash
+# Install Dependensi
 pip install -r requirements.txt
 
-```
+# 1. Menjalankan Training Model (Log ke Local MLflow)
+python src/training/train.py
 
-*(Isi `requirements.txt`: selenium, pandas, webdriver-manager)*
+# 2. Menjalankan Backend API
+uvicorn src.app.main:app --reload
 
-### 3. Menjalankan Data Ingestion Service
-
-Untuk memulai proses scraping lowongan kerja secara kontinu:
-
-```bash
-python src/scraper_job.py
-
-```
-
-*Script ini akan membuka browser (bisa di-set headless), mencari lowongan secara bergantian untuk berbagai jurusan, dan menyimpannya ke `data/raw/jobs_data.csv`.*
-
-### 4. Meng-generate Data Alumni (Opsional)
-
-Jika ingin memperbarui database alumni agar sinkron dengan data lowongan terbaru:
-
-```bash
-python src/generate_alumni.py
+# 3. Menjalankan Frontend Streamlit
+streamlit run src/frontend/app.py
 
 ```
 
 ---
 
-## 📊 Statistik Dataset (Saat Ini)
+## 📊 Tech Stack
 
-* **Total Lowongan Terkumpul:** 4.500+ Baris Data
-* **Total Data Alumni:** 2.000+ Profil
-* **Cakupan Domain:** IT, Engineering, Finance, Agriculture, Law, Creative.
+| Kategori | Teknologi |
+| --- | --- |
+| **Language** | Python 3.10 |
+| **Web Framework** | FastAPI (Backend), Streamlit (Frontend) |
+| **ML & NLP** | PyTorch, Sentence-Transformers (SBERT), Pandas |
+| **Data Ops** | Selenium (Scraping), DVC (Versioning) |
+| **DevOps** | Docker, Docker Compose, GitHub Actions |
+| **MLOps** | MLflow (Tracking), Hugging Face (Cloud Serving) |
+| **Monitoring** | Prometheus, Grafana |
 
 ---
 
 ## 👥 Tim Pengembang
 
-Proyek ini dikembangkan oleh Mahasiswa **Universitas Brawijaya**:
+Proyek ini dikembangkan oleh Mahasiswa **Fakultas Ilmu Komputer, Universitas Brawijaya**:
 
 1. **Muhammad Hasan Fadhlillah** (225150207111026)
 2. **Muhammad Husain Fadhlillah** (225150207111027)
 
 ---
 
-*Dibuat dengan ❤️ untuk kemajuan karier mahasiswa UB.*
+*Dibuat dengan ❤️ dan ☕ untuk Tugas Akhir MLOps.*
