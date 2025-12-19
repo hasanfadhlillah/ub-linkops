@@ -4,8 +4,8 @@ import pandas as pd
 from pypdf import PdfReader # Import PdfReader
 
 # --- KONFIGURASI ---
-# Alamat Backend API (Menggunakan nama service di Docker Network)
-API_URL = "http://api-service:8000/match"
+# Alamat Backend API
+API_URL = "https://hasanfadhlillah01-ub-linkops-api.hf.space/match"
 
 # --- PAGE CONFIG ---
 st.set_page_config(
