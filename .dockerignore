@@ -1,0 +1,23 @@
+# Abaikan folder git dan github
+.git
+.github
+
+# Abaikan data (karena kita pakai Volume Mapping)
+data
+mlruns
+notebooks
+models
+
+# Abaikan cache python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan file sistem
+.DS_Store
+Thumbs.db
+
+# Abaikan virtual env lokal
+venv
+env

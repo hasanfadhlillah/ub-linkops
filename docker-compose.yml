@@ -1,29 +1,9 @@
 version: "3.8"
 
 services:
-  # 1. SCRAPER & TRAINING WORKER
-  scraper-service:
-    image: ub-linkops-image
-    container_name: ub-linkops-scraper
-    volumes:
-      - ./data:/app/data
-      - ./src:/app/src
-      - ./models:/app/models
-    environment:
-      - PYTHONUNBUFFERED=1
-      - MLFLOW_TRACKING_URI=http://mlflow-server:5000
-      - REDIS_URL=redis://redis-cache:6379
-    depends_on:
-      - postgres-db
-      - redis-cache
-    networks:
-      - ublinkops-network
-    # Jalankan Scraper sebagai default background process
-    command: python src/scraper/scraper_job.py
-
-  # 2. BACKEND API (FastAPI)
+  # 1. API SERVICE
   api-service:
-    image: ub-linkops-image
+    build: .
     container_name: ub-linkops-api
     ports:
       - "8000:8000"
@@ -34,17 +14,15 @@ services:
     environment:
       - PYTHONUNBUFFERED=1
       - MLFLOW_TRACKING_URI=http://mlflow-server:5000
-      - REDIS_URL=redis://redis-cache:6379
     command: uvicorn src.app.main:app --host 0.0.0.0 --port 8000 --reload
     depends_on:
-      - redis-cache
       - postgres-db
     networks:
       - ublinkops-network
 
-  # 3. FRONTEND (Streamlit)
+  # 2. FRONTEND
   frontend-service:
-    image: ub-linkops-image
+    build: . # Reuse image API biar hemat
     container_name: ub-linkops-frontend
     ports:
       - "8501:8501"
@@ -58,7 +36,24 @@ services:
     networks:
       - ublinkops-network
 
-  # 4. DATABASE (Metadata Store)
+  # 3. MLFLOW
+  mlflow-server:
+    image: ghcr.io/mlflow/mlflow:v2.13.0
+    container_name: ub-linkops-mlflow
+    ports:
+      - "5000:5000"
+    environment:
+      - MLFLOW_BACKEND_STORE_URI=postgresql://admin:password123@postgres-db:5432/ublinkops_db
+      - MLFLOW_ARTIFACT_ROOT=/mlartifacts
+    volumes:
+      - ./mlruns:/mlartifacts
+    depends_on:
+      - postgres-db
+    command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri postgresql://admin:password123@postgres-db:5432/ublinkops_db --default-artifact-root /mlartifacts
+    networks:
+      - ublinkops-network
+
+  # 4. DATABASE
   postgres-db:
     image: postgres:15-alpine
     container_name: ub-linkops-db
@@ -71,51 +66,7 @@ services:
     networks:
       - ublinkops-network
 
-  # 5. MLFLOW (Experiment Tracking)
-  mlflow-server:
-    image: ghcr.io/mlflow/mlflow:v2.13.0
-    container_name: ub-linkops-mlflow
-    ports:
-      - "5000:5000"
-    environment:
-      - MLFLOW_BACKEND_STORE_URI=postgresql://admin:password123@postgres-db:5432/ublinkops_db
-      - MLFLOW_ARTIFACT_ROOT=s3://mlflow-bucket/
-      - MLFLOW_S3_ENDPOINT_URL=http://minio-storage:9000
-      - AWS_ACCESS_KEY_ID=minioadmin
-      - AWS_SECRET_ACCESS_KEY=minioadmin
-    depends_on:
-      - postgres-db
-      - minio-storage
-    command: mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri postgresql://admin:password123@postgres-db:5432/ublinkops_db --default-artifact-root s3://mlflow-bucket/
-    networks:
-      - ublinkops-network
-
-  # 6. MINIO (S3 Compatible Storage - Object Store)
-  minio-storage:
-    image: minio/minio:latest
-    container_name: ub-linkops-minio
-    ports:
-      - "9000:9000"
-      - "9001:9001"
-    environment:
-      MINIO_ROOT_USER: minioadmin
-      MINIO_ROOT_PASSWORD: minioadmin
-    volumes:
-      - minio_data:/data
-    command: server /data --console-address ":9001"
-    networks:
-      - ublinkops-network
-
-  # 7. REDIS (Caching Layer)
-  redis-cache:
-    image: redis:alpine
-    container_name: ub-linkops-redis
-    ports:
-      - "6379:6379"
-    networks:
-      - ublinkops-network
-
-  # 8. PROMETHEUS (Monitoring)
+  # 5. PROMETHEUS (Monitoring)
   prometheus:
     image: prom/prometheus:latest
     container_name: ub-linkops-prometheus
@@ -126,7 +77,7 @@ services:
     networks:
       - ublinkops-network
 
-  # 9. GRAFANA (Dashboard)
+  # 6. GRAFANA (Dashboard)
   grafana:
     image: grafana/grafana:latest
     container_name: ub-linkops-grafana
@@ -143,4 +94,3 @@ networks:
 
 volumes:
   postgres_data:
-  minio_data:

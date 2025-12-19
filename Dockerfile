@@ -2,29 +2,24 @@ FROM python:3.9-slim
 
 WORKDIR /app
 
-# 1. Install Chrome & System Deps (Layer 1)
+# 1. Install System Deps
 RUN apt-get update && apt-get install -y \
-    wget gnupg unzip curl ca-certificates --no-install-recommends \
-    && wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
-    && echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list \
-    && apt-get update && apt-get install -y google-chrome-stable \
+    build-essential \
+    git \
     && rm -rf /var/lib/apt/lists/*
 
-# 2. Install PyTorch CPU Only (Layer 2)
-RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+# 2. Install PyTorch CPU
+RUN pip install --no-cache-dir --default-timeout=1000 torch --index-url https://download.pytorch.org/whl/cpu
 
-# 3. Upgrade installer agar bisa membaca dependency modern
+# 3. Upgrade pip
 RUN pip install --no-cache-dir --upgrade pip setuptools wheel
 
-# 4. Install Library Lain (Layer 3)
+# 4. Install Library
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# 5. Install Sentence Transformers (Layer 4)
-RUN pip install --no-cache-dir sentence-transformers
-
-# 6. Copy Kode Project
+# 5. Copy Kode Project
 COPY . .
 
-# Default command (akan di-override oleh docker-compose)
-CMD ["python", "src/scraper/scraper_job.py"]
+# Default command
+CMD ["uvicorn", "src.app.main:app", "--host", "0.0.0.0", "--port", "8000"]
