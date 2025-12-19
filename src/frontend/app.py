@@ -124,11 +124,11 @@ with col2:
                                     if job['alumni_boost']:
                                         st.markdown(
                                             """
-                                            <div style='background-color: #d4edda; padding: 10px; border-radius: 5px; border: 1px solid #c3e6cb;'>
-                                                👥 <b>ALUMNI BOOSTER AKTIF!</b><br>
-                                                <small>Terdapat Alumni UB di perusahaan ini. Skor relevansi dinaikkan 15%.</small>
+                                            <div style='background-color: #FFF3CD; color: #856404; padding: 15px; border-radius: 8px; border-left: 5px solid #FFC107; margin-bottom: 10px;'>
+                                                🚀 <b>ALUMNI BOOSTER AKTIF!</b><br>
+                                                <small style='font-size: 0.9em;'>Ada Alumni UB di perusahaan ini! Skor relevansi dinaikkan <b>15%</b>.</small>
                                             </div>
-                                            """, 
+                                            """,
                                             unsafe_allow_html=True
                                         )
                                     else:
