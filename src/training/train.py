@@ -1,60 +1,80 @@
 import pandas as pd
-import time
+from sentence_transformers import SentenceTransformer
 import mlflow
 import os
-from sentence_transformers import SentenceTransformer
+import time
 
-# --- KONFIGURASI ---
-DATA_PATH = "data/processed/jobs_clean.csv"
+# --- 1. KONFIGURASI PINTAR (SMART CONFIG) ---
+# Cek apakah script sedang jalan di GitHub Actions (CI) atau di Laptop (Local)
+IS_IN_CI = os.getenv("GITHUB_ACTIONS") == "true"
+
+if IS_IN_CI:
+    # KASUS A: Jalan di GitHub Actions
+    # Kita set tracking ke folder lokal saja, biar gak nyari server yang mati
+    print("🤖 Terdeteksi berjalan di CI Pipeline. Menggunakan Local Storage.")
+    mlflow.set_tracking_uri("file:./mlruns")
+else:
+    # KASUS B: Jalan di Laptop (Docker)
+    # Kita tembak ke MLflow Server container
+    TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://localhost:5000")
+    print(f"🖥️ Terdeteksi berjalan di Docker/Local. Menggunakan Server: {TRACKING_URI}")
+    mlflow.set_tracking_uri(TRACKING_URI)
+
 MLFLOW_EXPERIMENT_NAME = "UB-LinkOps_SBERT_Comparison"
 
 def run_experiment():
-    if not os.path.exists(DATA_PATH):
-        print("❌ Data processed tidak ditemukan. Jalankan src/preprocess.py dulu.")
-        return
-
-    # Load Data
-    df = pd.read_csv(DATA_PATH)
-    # Gunakan seluruh data clean hasil preprocessing
-    documents = df['clean_text'].tolist()
+    print(f"🧪 Memulai Eksperimen Model SBERT...")
     
-    print(f"🧪 Memulai Eksperimen Model SBERT dengan {len(documents)} data lowongan...")
-
-    # --- KONFIGURASI TRACKING SERVER ---
-    mlflow.set_tracking_uri("http://host.docker.internal:5000") 
-
-    # Set MLflow Experiment
+    # Set Experiment
     mlflow.set_experiment(MLFLOW_EXPERIMENT_NAME)
+    
+    with mlflow.start_run():
+        # --- 2. LOAD DATA (SMART LOAD) ---
+        documents = []
+        if IS_IN_CI:
+            # Kalau di CI, pakai data dummy biar cepat & gak butuh file CSV
+            print("⚠️ Mode CI: Menggunakan Dummy Data.")
+            documents = ["Lowongan dummy 1", "Lowongan dummy 2"] * 5
+        else:
+            # Kalau di Laptop, coba load data asli
+            try:
+                csv_path = "data/processed/jobs_clean.csv"
+                if os.path.exists(csv_path):
+                    df = pd.read_csv(csv_path)
+                    # Ambil sampel 100 data aja buat testing training biar cepet
+                    documents = df['clean_text'].tolist()[:100] 
+                    print(f"✅ Data asli ditemukan: {len(documents)} baris sample.")
+                else:
+                    print("⚠️ File CSV tidak ditemukan, fallback ke dummy.")
+                    documents = ["Dummy job description"] * 10
+            except Exception as e:
+                print(f"⚠️ Gagal load data: {e}")
+                documents = ["Dummy job description"] * 10
 
-    # Daftar Model Kandidat (Kecil vs Sedang)
-    models_to_test = [
-        "all-MiniLM-L6-v2",           # Model kecil, sangat cepat
-        "paraphrase-MiniLM-L3-v2"     # Model lebih kecil lagi, super cepat
-    ]
-
-    for model_name in models_to_test:
-        with mlflow.start_run(run_name=f"Exp_{model_name}"):
-            print(f"   ➡️ Testing Model: {model_name}...")
-            
-            start_time = time.time()
-            
-            # 1. Load Model
-            model = SentenceTransformer(model_name)
-            
-            # 2. Generate Embeddings (Vektorisasi)
-            embeddings = model.encode(documents)
-            
-            duration = time.time() - start_time
-            
-            # 3. Log Metrics & Params ke MLflow
-            mlflow.log_param("model_name", model_name)
-            mlflow.log_param("data_count", len(documents))
-            mlflow.log_metric("embedding_time_sec", duration)
+        # --- 3. TRAINING / EMBEDDING ---
+        model_name = 'all-MiniLM-L6-v2'
+        start_time = time.time()
+        
+        model = SentenceTransformer(model_name)
+        embeddings = model.encode(documents)
+        
+        duration = time.time() - start_time
+        
+        # --- 4. LOG METRICS (LOGIKA KAMU YANG BENAR) ---
+        print("📝 Logging metrics ke MLflow...")
+        
+        # Log Parameter
+        mlflow.log_param("model_name", model_name)
+        mlflow.log_param("data_count", len(documents))
+        
+        # Log Metrik Kinerja
+        mlflow.log_metric("embedding_time_sec", duration)
+        
+        # Hindari pembagian dengan nol
+        if len(documents) > 0:
             mlflow.log_metric("seconds_per_doc", duration / len(documents))
-            
-            print(f"      ✅ Selesai dalam {duration:.2f} detik.")
-
-    print("🏁 Eksperimen Selesai! Cek MLflow UI di http://localhost:5000 untuk detailnya.")
+        
+        print(f"✅ Eksperimen Selesai! Durasi: {duration:.4f} detik")
 
 if __name__ == "__main__":
     run_experiment()

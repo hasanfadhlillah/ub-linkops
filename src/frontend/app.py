@@ -16,6 +16,7 @@ st.set_page_config(
 
 # --- HEADER & SIDEBAR ---
 with st.sidebar:
+    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Universitas_Brawijaya.svg/2036px-Logo_Universitas_Brawijaya.svg.png", width=150)
     st.title("UB-LinkOps")
     st.markdown("---")
     st.write("**Tentang Aplikasi:**")
